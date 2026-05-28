@@ -8,7 +8,11 @@ export default async function handler(req, res) {
   try {
     const response = await fetch(url, {
       headers: {
-        "User-Agent": "Mozilla/5.0",
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "*/*",
+        "Referer": url,
+        "Origin": new URL(url).origin,
       },
     });
 
@@ -19,11 +23,9 @@ export default async function handler(req, res) {
       });
     }
 
-    const contentType = response.headers.get("content-type");
-
     const data = await response.text();
 
-    res.setHeader("Content-Type", contentType || "application/vnd.apple.mpegurl");
+    res.setHeader("Content-Type", "application/vnd.apple.mpegurl");
     res.status(200).send(data);
 
   } catch (error) {
