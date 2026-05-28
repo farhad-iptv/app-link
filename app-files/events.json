@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "matchName": "Bangladesh vs India",
+    "sportType": "Cricket",
+    "countryFlag1": "🇧🇩",
+    "countryFlag2": "🇮🇳",
+    "isLive": true,
+    "startTime": "",
+    "viewers": 120500,
+    "streams": [
+      { "name": "Server 1 (HD)", "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875", "isPrimary": true },
+      { "name": "Server 2 (Backup)", "url": "https://pub-42c81c4300ef468e807e0275f1bc1c58.r2.dev/Bonolota%20Express%20(2026)-MovieLinkHub.com-Bangla%20Hoichoi%20WEB-D-1080p.mkv", "isPrimary": false }
+    ]
+  },
+  {
+    "id": "2",
+    "matchName": "Real Madrid vs Barcelona",
+    "sportType": "Football",
+    "countryFlag1": "🇪🇸",
+    "countryFlag2": "🇪🇸",
+    "isLive": true,
+    "startTime": "",
+    "viewers": 850000,
+    "streams": [
+      { "name": "Server 1 (Sports)", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
+    ]
+  },
+  {
+    "id": "3",
+    "matchName": "Lakers vs Warriors",
+    "sportType": "Basketball",
+    "countryFlag1": "🇺🇸",
+    "countryFlag2": "🇺🇸",
+    "isLive": false,
+    "startTime": "Today, 8:00 PM",
+    "viewers": 0,
+    "streams": [
+      { "name": "ESPN Stream", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
+    ]
+  },
+  {
+    "id": "4",
+    "matchName": "Pakistan vs Australia",
+    "sportType": "Cricket",
+    "countryFlag1": "🇵🇰",
+    "countryFlag2": "🇦🇺",
+    "isLive": false,
+    "startTime": "Tomorrow, 2:30 PM",
+    "viewers": 0,
+    "streams": [
+      { "name": "PTV Sports", "url": "https://html5demos.com/assets/dizzy.mp4", "isPrimary": true }
+    ]
+  },
+  {
+    "id": "5",
+    "matchName": "Man City vs Arsenal",
+    "sportType": "Football",
+    "countryFlag1": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "countryFlag2": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "isLive": true,
+    "startTime": "",
+    "viewers": 450000,
+    "streams": [
+      { "name": "Sky Sports HD", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
+    ]
+  }
+]
