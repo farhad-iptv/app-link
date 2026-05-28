@@ -1,0 +1,53 @@
+[
+  {
+    "id": "c1",
+    "name": "T Sports",
+    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEkzy6nAcsyag/company-logo_200_200/company-logo_200_200/0/1630662269264?e=2147483647&v=beta&t=Xyxc5WJFZRKGMmHUyjXuUmOmYGO9bgGLbkwV9uyduxo",
+    "category": "Cricket",
+    "currentEvent": "Bangladesh vs India",
+    "streams": [
+      { "name": "T Sports HD", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true },
+      { "name": "T Sports Low", "url": "https://html5demos.com/assets/dizzy.mp4", "isPrimary": false }
+    ]
+  },
+  {
+    "id": "c2",
+    "name": "Gazi TV",
+    "logoUrl": "GTV",
+    "category": "Cricket",
+    "currentEvent": "Post Match Show",
+    "streams": [
+      { "name": "GTV Live", "url": "https://html5demos.com/assets/dizzy.mp4", "isPrimary": true }
+    ]
+  },
+  {
+    "id": "c3",
+    "name": "Star Sports 1",
+    "logoUrl": "SS1",
+    "category": "Football",
+    "currentEvent": "EPL Highlights",
+    "streams": [
+      { "name": "Star Sports HD", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
+    ]
+  },
+  {
+    "id": "c4",
+    "name": "Sony Ten 2",
+    "logoUrl": "TEN2",
+    "category": "Football",
+    "currentEvent": "Real Madrid vs Barcelona",
+    "streams": [
+      { "name": "Sony Ten HD", "url": "https://html5demos.com/assets/dizzy.mp4", "isPrimary": true }
+    ]
+  },
+  {
+    "id": "c5",
+    "name": "ESPN",
+    "logoUrl": "ESPN",
+    "category": "Basketball",
+    "currentEvent": "Lakers vs Warriors",
+    "streams": [
+      { "name": "ESPN HD", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
+    ]
+  }
+]
