@@ -1,0 +1,13 @@
+[
+  { "id": "cat1", "name": "Sports", "logoUrl": "https://m.media-amazon.com/images/I/21h60OobgjL.jpg", "playlistUrl": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u" },
+  { "id": "cat2", "name": "Toffee", "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2QTiM0ElN-7wMXSYXvB45q5unDWn6ixps7Q&s", "playlistUrl": "https://raw.githubusercontent.com/srhady/toffee-bd/refs/heads/main/toffee_playlist.m3u" },
+  { "id": "cat3", "name": "SonyLiv", "logoUrl": "https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png", "playlistUrl": "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u" },
+  { "id": "cat4", "name": "AXSports", "logoUrl": "https://yt3.googleusercontent.com/SC_S70-Et9wrZQhOhDkFlQma1axAqP2KRDnnTN9Vi2mxcDLZWUAy4LfsarWxFyh7ICSQD6HS=s900-c-k-c0x00ffffff-no-rj", "playlistUrl": "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u" },
+  { "id": "cat5", "name": "Fancode", "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm74p4p_2DIpyQnp4AXwGijzO8jaOm_UytCQ&s", "playlistUrl": "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u" },
+  { "id": "cat6", "name": "RoarZone", "logoUrl": "https://roarzone.net/_next/image?url=%2Flogo.png&w=256&q=75", "playlistUrl": "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/roar-zone-playlist.m3u" },
+  { "id": "cat7", "name": "Tapmad", "logoUrl": "https://play-lh.googleusercontent.com/1jf_4jw2XqSdnvrVUVcxk4UCUAMfP-LjBYUXqj-nXxw6KlCnAqsFmudjQE1BJwQ52ow=w416-h235-rw", "playlistUrl": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u" },
+  { "id": "cat8", "name": "AynaOTT", "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27-mocEawfrIZVJyj3rPenbC3S2Bppw7Bjw&s", "playlistUrl": "https://raw.githubusercontent.com/srhady/AynaOTT/refs/heads/main/aynaott.m3u" },
+  { "id": "cat9", "name": "FIFA", "logoUrl": "https://images.seeklogo.com/logo-png/53/1/fifa-logo-png_seeklogo-537674.png", "playlistUrl": "https://raw.githubusercontent.com/srhady/fifaplus/refs/heads/main/fifa_live.m3u" },
+  { "id": "cat10", "name": "T Sports", "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV2mfuaWiI0HdxWZlS5_Q4i7ZOfZnpoy3Gw&s", "playlistUrl": "https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/combine_playlist.m3u" },
+  { "id": "cat11", "name": "BDIX", "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMSPxH81GqYCmx-99SsjfX0KB9wNhAXIE2PQ&s", "playlistUrl": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/refs/heads/main/playlist.m3u" }
+]
