@@ -1,6 +1,7 @@
 [
   { "id": "cat1", "name": "CricHD", "logoUrl": "https://m.media-amazon.com/images/I/21h60OobgjL.jpg", "playlistUrl": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u" },
   { "id": "cat1", "name": "Sports", "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFB1_eYilp9HUz9TtYagu7p53RnEpu_5ZbuQ&s", "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/sports.m3u" },
+  { "id": "cat1", "name": "Sports V2", "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFB1_eYilp9HUz9TtYagu7p53RnEpu_5ZbuQ&s", "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/all-sports.m3u" },
   { "id": "cat2", "name": "Toffee", "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2QTiM0ElN-7wMXSYXvB45q5unDWn6ixps7Q&s", "playlistUrl": "https://raw.githubusercontent.com/srhady/toffee-bd/refs/heads/main/toffee_playlist.m3u" },
   { "id": "cat3", "name": "SonyLiv", "logoUrl": "https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png", "playlistUrl": "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u" },
   { "id": "cat4", "name": "AXSports", "logoUrl": "https://yt3.googleusercontent.com/SC_S70-Et9wrZQhOhDkFlQma1axAqP2KRDnnTN9Vi2mxcDLZWUAy4LfsarWxFyh7ICSQD6HS=s900-c-k-c0x00ffffff-no-rj", "playlistUrl": "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u" },
