@@ -56,7 +56,7 @@
     "link": "",
     "streams": [
       {
-        "name": "Fancodehttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQdWYpoZ2Ec5tRtG4-dfkuvnlH8gkIGrERYByfGv7ZM2OtFOnyVFhZvB2&s=10",
+        "name": "Fancode",
         "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
         "isPrimary": true
       },
