@@ -24,25 +24,20 @@
     "id": "2",
     "matchName": "Pakistan vs Australia",
     "sportType": "Cricket",
-    "league": "One Day International",
-    "homeTeamName": "Pakistan",
-    "homeTeamLogo": "https://img.magnific.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2001.jpg?semt=ais_hybrid&w=740&q=80",
-    "awayTeamName": "Australia",
-    "awayTeamLogo": "https://img.freepik.com/premium-vector/australia-3d-rounded-flag-button_97173-8.jpg?semt=ais_hybrid&w=740&q=80",
+    "league": "T20 Blast",
+    "homeTeamName": "Sussex SUS",
+    "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/gWG2mvJa9f6KpHxYM_8Qzg_96x96.png",
+    "awayTeamName": "Middlesex MID",
+    "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/jRs6AliK0HjGi_6j0K39bA_96x96.png",
     "isLive": true,
     "isHot": true,
     "startTime": "06:03:08",
     "link": "https://html5demos.com/assets/dizzy.mp4",
     "streams": [
       {
-        "name": "Main Stream",
-        "url": "https://html5demos.com/assets/dizzy.mp4",
+        "name": "Willow",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
         "isPrimary": true
-      },
-      {
-        "name": "Backup Stream",
-        "url": "https://html5demos.com/assets/dizzy.mp4",
-        "isPrimary": false
       }
     ]
   },
