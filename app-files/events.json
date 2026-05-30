@@ -5,23 +5,18 @@
     "sportType": "Football",
     "league": "UEFA Champions League | Finale",
     "homeTeamName": "Paris Saint-Germain",
-    "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Portland_Thorns_logo.svg/1280px-Portland_Thorns_logo.svg.png",
+    "homeTeamLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR1pKgSs6sXCCUeKdgZYn5Hza7EsyYgtow7A&s",
     "awayTeamName": "Arsenal",
-    "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Utah_Royals_logo.svg/250px-Utah_Royals_logo.svg.png",
+    "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
     "isLive": true,
     "isHot": true,
     "startTime": "01:33:08",
     "link": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
     "streams": [
       {
-        "name": "TVRI Sport",
-        "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
+        "name": "TNT Sport 1",
+        "url": "https://tvsen6.aynaott.com/btSport1/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=9fba39910ec635a5cf470f97ff2b7c71",
         "isPrimary": true
-      },
-      {
-        "name": "Fox 501 AQ",
-        "url": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd|drmScheme=clearkey&drmLicense=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22",
-        "isPrimary": false
       }
     ]
   },
