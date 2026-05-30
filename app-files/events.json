@@ -1,68 +1,92 @@
 [
   {
     "id": "1",
-    "matchName": "Bangladesh vs India",
-    "sportType": "Cricket",
-    "countryFlag1": "🇧🇩",
-    "countryFlag2": "🇮🇳",
+    "matchName": "Paris Saint-Germain vs Arsenal",
+    "sportType": "Football",
+    "league": "UEFA Champions League | Finale",
+    "homeTeamName": "Paris Saint-Germain",
+    "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/z32ulb1731174620.png",
+    "awayTeamName": "Arsenal",
+    "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
     "isLive": true,
-    "startTime": "",
-    "viewers": 120500,
+    "isHot": true,
+    "startTime": "01:33:08",
+    "link": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
     "streams": [
-      { "name": "Server 1 (HD)", "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875", "isPrimary": true },
-      { "name": "Server 2 (Backup)", "url": "https://pub-42c81c4300ef468e807e0275f1bc1c58.r2.dev/Bonolota%20Express%20(2026)-MovieLinkHub.com-Bangla%20Hoichoi%20WEB-D-1080p.mkv", "isPrimary": false }
+      { "name": "Main Stream (English)", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true },
+      { "name": "Backup Stream 1 (4K)", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": false },
+      { "name": "Backup Stream 2 (720p)", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": false }
     ]
   },
   {
     "id": "2",
-    "matchName": "Real Madrid vs Barcelona",
-    "sportType": "Football",
-    "countryFlag1": "🇪🇸",
-    "countryFlag2": "🇪🇸",
+    "matchName": "Pakistan vs Australia",
+    "sportType": "Cricket",
+    "league": "One Day International",
+    "homeTeamName": "Pakistan",
+    "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+    "awayTeamName": "Australia",
+    "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/wutwrp1467461872.png",
     "isLive": true,
-    "startTime": "",
-    "viewers": 850000,
+    "isHot": true,
+    "startTime": "06:03:08",
+    "link": "https://html5demos.com/assets/dizzy.mp4",
     "streams": [
-      { "name": "Server 1 (Sports)", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
+      { "name": "Main Stream", "url": "https://html5demos.com/assets/dizzy.mp4", "isPrimary": true },
+      { "name": "Backup Stream", "url": "https://html5demos.com/assets/dizzy.mp4", "isPrimary": false }
     ]
   },
   {
     "id": "3",
-    "matchName": "Lakers vs Warriors",
-    "sportType": "Basketball",
-    "countryFlag1": "🇺🇸",
-    "countryFlag2": "🇺🇸",
+    "matchName": "Portland Thorns FC vs Utah Royals FC",
+    "sportType": "Football",
+    "league": "NWSL",
+    "homeTeamName": "Portland Thorns FC",
+    "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/4tsf1m1546174351.png",
+    "awayTeamName": "Utah Royals FC",
+    "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/1k7y2w1704285641.png",
     "isLive": false,
-    "startTime": "Today, 8:00 PM",
-    "viewers": 0,
+    "isHot": false,
+    "startTime": "02:00 AM 31/05/2026",
+    "status": "Starts in 2 hours",
+    "link": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
     "streams": [
-      { "name": "ESPN Stream", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
+      { "name": "Main Stream", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
     ]
   },
   {
     "id": "4",
-    "matchName": "Pakistan vs Australia",
-    "sportType": "Cricket",
-    "countryFlag1": "🇵🇰",
-    "countryFlag2": "🇦🇺",
+    "matchName": "Deportivo Garcilaso vs ADC Juan Pablo II",
+    "sportType": "Football",
+    "league": "Liga 1",
+    "homeTeamName": "Deportivo Garcilaso",
+    "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/vxxrxw1473502852.png",
+    "awayTeamName": "ADC Juan Pablo II",
+    "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/xysqrx1473502871.png",
     "isLive": false,
-    "startTime": "Tomorrow, 2:30 PM",
-    "viewers": 0,
+    "isHot": false,
+    "startTime": "02:00 AM 31/05/2026",
+    "status": "Starts in 2 hours",
+    "link": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
     "streams": [
-      { "name": "PTV Sports", "url": "https://html5demos.com/assets/dizzy.mp4", "isPrimary": true }
+      { "name": "Main Stream", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
     ]
   },
   {
     "id": "5",
-    "matchName": "Man City vs Arsenal",
+    "matchName": "Real Madrid vs Barcelona",
     "sportType": "Football",
-    "countryFlag1": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "countryFlag2": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "league": "La Liga",
+    "homeTeamName": "Real Madrid",
+    "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/7f7m9l1724240751.png",
+    "awayTeamName": "Barcelona",
+    "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/x9k7y81718223696.png",
     "isLive": true,
-    "startTime": "",
-    "viewers": 450000,
+    "isHot": true,
+    "startTime": "85:12",
+    "link": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
     "streams": [
-      { "name": "Sky Sports HD", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
+      { "name": "Main Stream", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
     ]
   }
 ]
