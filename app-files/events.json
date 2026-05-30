@@ -13,9 +13,26 @@
     "startTime": "01:33:08",
     "link": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
     "streams": [
-      { "name": "Main Stream (English)", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true },
-      { "name": "Backup Stream 1 (4K)", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": false },
-      { "name": "Backup Stream 2 (720p)", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": false }
+      {
+        "name": "Main Stream (English)",
+        "url": "https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=KzDkz5-2RLdNq3hcfhBrVA&expires=1780170013",
+        "isPrimary": true
+      },
+      {
+        "name": "Backup Stream 1 (4K)",
+        "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
+        "isPrimary": false
+      },
+      {
+        "name": "Backup Stream 2 (720p)",
+        "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
+        "isPrimary": false
+      },
+      {
+        "name": "New Stream",
+        "url": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d3b6774fbd416803ca328adea837af88",
+        "isPrimary": false
+      }
     ]
   },
   {
@@ -32,8 +49,16 @@
     "startTime": "06:03:08",
     "link": "https://html5demos.com/assets/dizzy.mp4",
     "streams": [
-      { "name": "Main Stream", "url": "https://html5demos.com/assets/dizzy.mp4", "isPrimary": true },
-      { "name": "Backup Stream", "url": "https://html5demos.com/assets/dizzy.mp4", "isPrimary": false }
+      {
+        "name": "Main Stream",
+        "url": "https://html5demos.com/assets/dizzy.mp4",
+        "isPrimary": true
+      },
+      {
+        "name": "Backup Stream",
+        "url": "https://html5demos.com/assets/dizzy.mp4",
+        "isPrimary": false
+      }
     ]
   },
   {
@@ -51,7 +76,11 @@
     "status": "Starts in 2 hours",
     "link": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
     "streams": [
-      { "name": "Main Stream", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
+      {
+        "name": "Main Stream",
+        "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
+        "isPrimary": true
+      }
     ]
   },
   {
@@ -69,7 +98,11 @@
     "status": "Starts in 2 hours",
     "link": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
     "streams": [
-      { "name": "Main Stream", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
+      {
+        "name": "Main Stream",
+        "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
+        "isPrimary": true
+      }
     ]
   },
   {
@@ -86,7 +119,11 @@
     "startTime": "85:12",
     "link": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
     "streams": [
-      { "name": "Main Stream", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
+      {
+        "name": "Main Stream",
+        "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
+        "isPrimary": true
+      }
     ]
   }
 ]
