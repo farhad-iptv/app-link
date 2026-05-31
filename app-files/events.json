@@ -53,6 +53,11 @@
         "name": "Kayo Hindi",
         "url": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/38970a6e3f6f42b5a0ef07ad51a68d0c/index.mpd?|drmScheme=clearkey&drmLicense=f1f97a734b1752ae9c3639310b105278:57e0135e10a8ed3246b8306ada268954",
         "isPrimary": false
+      },
+      {
+        "name": "Willow TV",
+        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d71d71025ad8ed99266bb333137dc3e0",
+        "isPrimary": false
       }
     ]
   },
