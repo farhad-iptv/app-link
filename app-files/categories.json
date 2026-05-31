@@ -106,5 +106,11 @@
     "name": "YuppTV",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7RF8Ulfa4lFYGhzWqnCoFg_Mubru-dPSdfQ&s",
     "playlistUrl": "https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/refs/heads/main/playlist_v2.m3u"
+  },
+  {
+    "id": "cat18",
+    "name": "Islamic",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdAvnF7Zf7XpQ1triPUVGdBU6tZSu7_Q1Ew&s",
+    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/islamic.m3u"
   }
 ]
