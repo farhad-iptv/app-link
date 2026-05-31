@@ -24,20 +24,35 @@
     "id": "2",
     "matchName": "Pakistan vs Australia",
     "sportType": "Cricket",
-    "league": "T20 Blast",
-    "homeTeamName": "Sussex SUS",
-    "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/gWG2mvJa9f6KpHxYM_8Qzg_96x96.png",
-    "awayTeamName": "Middlesex MID",
-    "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/jRs6AliK0HjGi_6j0K39bA_96x96.png",
+    "league": "Indian Premier League",
+    "homeTeamName": "RCB",
+    "homeTeamLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSh5wlchCyksw3e3PLXoMGyeTZcfXkPkAKMd5HEy1lVo3swptlPyPe9BI&s=10",
+    "awayTeamName": "GT",
+    "awayTeamLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8Z4Z1M2XDT-GIWwi3bbtFB7BEaBPwNFt4bOnK3pPpQSwUsSA9REOfy47&s=10",
     "isLive": true,
     "isHot": true,
-    "startTime": "06:03:08",
+    "startTime": "20:30:00",
     "link": "https://html5demos.com/assets/dizzy.mp4",
     "streams": [
       {
+        "name": "Fox 501",
+        "url": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd|drmScheme=clearkey&drmLicense=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22",
+        "isPrimary": true
+      },
+      {
+        "name": "Fancode",
+        "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+        "isPrimary": false
+      },
+      {
         "name": "Willow",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "isPrimary": true
+        "isPrimary": false
+      },
+      {
+        "name": "Kayo Hindi",
+        "url": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/38970a6e3f6f42b5a0ef07ad51a68d0c/index.mpd?|drmScheme=clearkey&drmLicense=f1f97a734b1752ae9c3639310b105278:57e0135e10a8ed3246b8306ada268954",
+        "isPrimary": false
       }
     ]
   },
