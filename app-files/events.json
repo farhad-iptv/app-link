@@ -1,42 +1,5 @@
 [
   {
-    "id": "1",
-    "matchName": "2026 Ireland Women's Tri-Nation Series",
-    "sportType": "Football",
-    "league": "Women's International Cricket",
-    "homeTeamName": "Paris Saint-Germain",
-    "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/z32ulb1731174620.png",
-    "awayTeamName": "Arsenal",
-    "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
-    "isLive": true,
-    "isHot": true,
-    "startTime": "01:33:08",
-    "link": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
-    "streams": [
-      { "name": "Main Stream (English)", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true },
-      { "name": "Backup Stream 1 (4K)", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": false },
-      { "name": "Backup Stream 2 (720p)", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": false }
-    ]
-  },
-  {
-    "id": "2",
-    "matchName": "Pakistan vs Australia",
-    "sportType": "Cricket",
-    "league": "One Day International",
-    "homeTeamName": "Pakistan",
-    "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
-    "awayTeamName": "Australia",
-    "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/wutwrp1467461872.png",
-    "isLive": true,
-    "isHot": true,
-    "startTime": "06:03:08",
-    "link": "https://html5demos.com/assets/dizzy.mp4",
-    "streams": [
-      { "name": "Main Stream", "url": "https://html5demos.com/assets/dizzy.mp4", "isPrimary": true },
-      { "name": "Backup Stream", "url": "https://html5demos.com/assets/dizzy.mp4", "isPrimary": false }
-    ]
-  },
-  {
     "id": "3",
     "matchName": "2026 Ireland Women's Tri-Nation Series",
     "sportType": "Cricket",
@@ -51,42 +14,32 @@
     "status": "Starts in 2 hours",
     "link": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
     "streams": [
-      { "name": "Main Stream", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
+      {
+        "name": "Main Stream",
+        "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
+        "isPrimary": true
+      }
     ]
   },
   {
-    "id": "4",
-    "matchName": "Deportivo Garcilaso vs ADC Juan Pablo II",
-    "sportType": "Football",
-    "league": "Liga 1",
-    "homeTeamName": "Deportivo Garcilaso",
-    "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/vxxrxw1473502852.png",
-    "awayTeamName": "ADC Juan Pablo II",
-    "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/xysqrx1473502871.png",
+    "id": "1780323914976",
+    "matchName": "Pakistan vs Australia",
+    "sportType": "Cricket",
+    "league": "Pakistan vs Australia",
+    "homeTeamName": "Pakistan ",
+    "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+    "awayTeamName": "Australia",
+    "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/QYCU22ymggIHGp6LW4EQVg_96x96.png",
     "isLive": false,
-    "isHot": false,
-    "startTime": "02:00 AM 31/05/2026",
-    "status": "Starts in 2 hours",
-    "link": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
-    "streams": [
-      { "name": "Main Stream", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
-    ]
-  },
-  {
-    "id": "5",
-    "matchName": "Real Madrid vs Barcelona",
-    "sportType": "Football",
-    "league": "La Liga",
-    "homeTeamName": "Real Madrid",
-    "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/7f7m9l1724240751.png",
-    "awayTeamName": "Barcelona",
-    "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/x9k7y81718223696.png",
-    "isLive": true,
     "isHot": true,
-    "startTime": "85:12",
-    "link": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
+    "startTime": "5:30 PM 02/06/2026",
+    "link": "",
     "streams": [
-      { "name": "Main Stream", "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4", "isPrimary": true }
+      {
+        "name": "Main Stream",
+        "url": "",
+        "isPrimary": true
+      }
     ]
   }
 ]
