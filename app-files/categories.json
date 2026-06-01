@@ -118,5 +118,11 @@
     "name": "Sports V3",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFB1_eYilp9HUz9TtYagu7p53RnEpu_5ZbuQ&s",
     "playlistUrl": "https://raw.githubusercontent.com/sanjoykb/-KB-TV-Playlist/97c9a317d4cd8adc0daee5c5e58324ec8eee470a/KB%20Live%20Tv%20121%20Channel%20v1.2.m3u"
+  },
+  {
+    "id": "cat_1780339844756",
+    "name": "Xtream",
+    "logoUrl": "https://image.roku.com/developer_channels/prod/b1174cd3a7f24f1b52ccba02fc33fd7a0589fd7f8b292e24dfac0826602cdb37.png",
+    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/xtream.m3u"
   }
 ]
