@@ -112,5 +112,11 @@
     "name": "Islamic",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdAvnF7Zf7XpQ1triPUVGdBU6tZSu7_Q1Ew&s",
     "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/islamic.m3u"
+  },
+  {
+    "id": "cat_1780333515193",
+    "name": "Sports V3",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFB1_eYilp9HUz9TtYagu7p53RnEpu_5ZbuQ&s",
+    "playlistUrl": "https://raw.githubusercontent.com/sanjoykb/-KB-TV-Playlist/97c9a317d4cd8adc0daee5c5e58324ec8eee470a/KB%20Live%20Tv%20121%20Channel%20v1.2.m3u"
   }
 ]
