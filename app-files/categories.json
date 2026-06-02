@@ -129,6 +129,6 @@
     "id": "cat_1780408795778",
     "name": "Xtreme 2",
     "logoUrl": "https://image.roku.com/developer_channels/prod/b1174cd3a7f24f1b52ccba02fc33fd7a0589fd7f8b292e24dfac0826602cdb37.png",
-    "playlistUrl": "http://nextintv.123tv.to:8080/get.php?username=GKdfeEgrUX&password=s671NqPWUI&type=m3u_plus&output=ts"
+    "playlistUrl": "http://nextintv.123tv.to:8080/get.php?username=GKdfeEgrUX&password=s671NqPWUI&type=m3u_plus&output=m3u8"
   }
 ]
