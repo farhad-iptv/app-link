@@ -51,7 +51,7 @@
     "homeTeamLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVtphLVNvbIYaG7L1ME5iUROOZAe7hO7w9oXCCnBawg&s=10",
     "awayTeamName": "Nepal",
     "awayTeamLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw3yQqbgx-YbFJc3jD75MfO0KOSP6gp0E2uYKbDbFYZ0JR1R2rkRSHNPTk&s=10",
-    "isLive": true,
+    "isLive": false,
     "isHot": true,
     "startTime": "04:30 03/06/2026",
     "link": "",
