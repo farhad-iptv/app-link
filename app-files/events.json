@@ -84,13 +84,13 @@
     "streams": [
       {
         "name": "TNT Sports 2",
-        "url": "http://27.124.71.27/TNT_Sports_2/index.m3u8",
-        "isPrimary": false
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|drmScheme=clearkey&drmLicense=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+        "isPrimary": true
       },
       {
         "name": "Fancode 3",
         "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-        "isPrimary": true
+        "isPrimary": false
       }
     ]
   }
