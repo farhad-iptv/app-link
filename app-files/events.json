@@ -41,5 +41,31 @@
         "isPrimary": true
       }
     ]
+  },
+  {
+    "id": "1780482887879",
+    "matchName": "SAFF Women's Championship",
+    "sportType": "Football",
+    "league": "SAFF Women's Championship",
+    "homeTeamName": "Bangladesh ",
+    "homeTeamLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVtphLVNvbIYaG7L1ME5iUROOZAe7hO7w9oXCCnBawg&s=10",
+    "awayTeamName": "Nepal",
+    "awayTeamLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw3yQqbgx-YbFJc3jD75MfO0KOSP6gp0E2uYKbDbFYZ0JR1R2rkRSHNPTk&s=10",
+    "isLive": true,
+    "isHot": true,
+    "startTime": "04:30 03/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "T Sports HD (1)",
+        "url": "https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8",
+        "isPrimary": true
+      },
+      {
+        "name": "Fancode",
+        "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/nepal_women_vs_bangladesh_women_142941_english.m3u8",
+        "isPrimary": false
+      }
+    ]
   }
 ]
