@@ -142,5 +142,11 @@
     "name": "SD TV",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSl61XoAY6emSIFrJP20VvKD2YypoVIPVrAQ&s",
     "playlistUrl": "https://raw.githubusercontent.com/Sagar878796/Sdtvlive/refs/heads/main/playlist.m3u"
+  },
+  {
+    "id": "cat_1780513838978",
+    "name": "Event",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxOx73QGV5dQkY3FCVUMCw4n0HaasngjlkA&s",
+    "playlistUrl": "https://raw.githubusercontent.com/karepech/TVG/refs/heads/main/live-raw-grouped.m3u"
   }
 ]
