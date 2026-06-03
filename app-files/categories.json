@@ -130,5 +130,11 @@
     "name": "Xtreme 2",
     "logoUrl": "https://image.roku.com/developer_channels/prod/b1174cd3a7f24f1b52ccba02fc33fd7a0589fd7f8b292e24dfac0826602cdb37.png",
     "playlistUrl": "http://spacetvpro.com/get.php?username=d0d003c76397&password=076771462561&type=m3u_plus&output=m3u8"
+  },
+  {
+    "id": "cat_1780462565130",
+    "name": "JioTV",
+    "logoUrl": "https://static.vecteezy.com/system/resources/previews/075/195/403/non_2x/jiotv-logo-rounded-glossy-icon-with-transparent-background-free-png.png",
+    "playlistUrl": "https://df6d.short.gy/jplusamir.m3u"
   }
 ]
