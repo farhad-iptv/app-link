@@ -136,5 +136,11 @@
     "name": "JioTV",
     "logoUrl": "https://static.vecteezy.com/system/resources/previews/075/195/403/non_2x/jiotv-logo-rounded-glossy-icon-with-transparent-background-free-png.png",
     "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/jio.m3u"
+  },
+  {
+    "id": "cat_1780513439789",
+    "name": "SD TV",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSl61XoAY6emSIFrJP20VvKD2YypoVIPVrAQ&s",
+    "playlistUrl": "https://raw.githubusercontent.com/Sagar878796/Sdtvlive/refs/heads/main/playlist.m3u"
   }
 ]
