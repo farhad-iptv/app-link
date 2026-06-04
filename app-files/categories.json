@@ -166,5 +166,11 @@
     "name": "Event 3",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxOx73QGV5dQkY3FCVUMCw4n0HaasngjlkA&s",
     "playlistUrl": "https://raw.githubusercontent.com/karepech/Karepetv/2cffe12da9e644e1aaf9236c9ad78e8739562d11/event_combined.m3u"
+  },
+  {
+    "id": "cat_1780583869757",
+    "name": "test",
+    "logoUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/test.m3u",
+    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/test.m3u"
   }
 ]
