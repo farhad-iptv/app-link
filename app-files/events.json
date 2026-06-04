@@ -77,7 +77,7 @@
     "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/OC5jEMcI70iVSVE7HL12ww_96x96.png",
     "awayTeamName": "West Indies",
     "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/qziJXGzGxNQbkPJRfxodgA_96x96.png",
-    "isLive": true,
+    "isLive": false,
     "isHot": true,
     "startTime": "08:45 PM 03/06/2026",
     "link": "",
