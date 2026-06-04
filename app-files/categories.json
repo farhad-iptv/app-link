@@ -154,5 +154,11 @@
     "name": "Bangladesh",
     "logoUrl": "https://img.magnific.com/premium-vector/bangladesh-circle-flag-logo-icon-digital-vector-illustration_1143296-5458.jpg?semt=ais_hybrid&w=740&q=80",
     "playlistUrl": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/BD.m3u"
+  },
+  {
+    "id": "cat_1780583009459",
+    "name": "Event 2",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxOx73QGV5dQkY3FCVUMCw4n0HaasngjlkA&s",
+    "playlistUrl": "https://raw.githubusercontent.com/karepech/bakul/d5987494fcdbd60017bd4246aa677f7f74ea8627/live_matches_only.m3u"
   }
 ]
