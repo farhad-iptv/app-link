@@ -172,5 +172,17 @@
     "name": "test",
     "logoUrl": "https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png",
     "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/test.m3u"
+  },
+  {
+    "id": "cat_1780591849429",
+    "name": "Bingstream Oficial",
+    "logoUrl": "https://bingstream.info/images/logo.svg?5",
+    "playlistUrl": "https://iptv.mustream.me/matches.m3u?name=Sport&site_name=bingstream.info"
+  },
+  {
+    "id": "cat_1780591893935",
+    "name": "Bingstream ",
+    "logoUrl": "https://bingstream.info/images/logo.svg?5",
+    "playlistUrl": "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u"
   }
 ]
