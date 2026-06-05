@@ -172,5 +172,11 @@
     "name": "Sports V4",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFB1_eYilp9HUz9TtYagu7p53RnEpu_5ZbuQ&s",
     "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/sportsV4.m3u"
+  },
+  {
+    "id": "cat_1780692366974",
+    "name": "Test Sports",
+    "logoUrl": "https://example.com",
+    "playlistUrl": "https://raw.githubusercontent.com/Ajayone8x/sportzx-playlist/refs/heads/main/Sportzx.m3u8"
   }
 ]
