@@ -1,11 +1,10 @@
 [
-    {
+  {
     "id": "cat_1780568945609",
     "name": "Bangladesh",
     "logoUrl": "https://img.magnific.com/premium-vector/bangladesh-circle-flag-logo-icon-digital-vector-illustration_1143296-5458.jpg?semt=ais_hybrid&w=740&q=80",
     "playlistUrl": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/BD.m3u"
   },
-  
   {
     "id": "cat1",
     "name": "CricHD",
@@ -24,43 +23,36 @@
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFB1_eYilp9HUz9TtYagu7p53RnEpu_5ZbuQ&s",
     "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/all-sports.m3u"
   },
-
-    {
+  {
     "id": "cat_1780333515193",
     "name": "Sports V3",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFB1_eYilp9HUz9TtYagu7p53RnEpu_5ZbuQ&s",
     "playlistUrl": "https://raw.githubusercontent.com/sanjoykb/-KB-TV-Playlist/97c9a317d4cd8adc0daee5c5e58324ec8eee470a/KB%20Live%20Tv%20121%20Channel%20v1.2.m3u"
   },
-
-
   {
     "id": "cat_1780591893935",
     "name": "Bingstream ",
     "logoUrl": "https://i.ibb.co.com/cKHhHTTN/image.png",
     "playlistUrl": "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u"
   },
-    
-    {
+  {
     "id": "cat10",
     "name": "AynaOTT",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27-mocEawfrIZVJyj3rPenbC3S2Bppw7Bjw&s",
     "playlistUrl": "https://raw.githubusercontent.com/srhady/AynaOTT/refs/heads/main/aynaott.m3u"
   },
-  
   {
     "id": "cat4",
     "name": "Toffee",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2QTiM0ElN-7wMXSYXvB45q5unDWn6ixps7Q&s",
     "playlistUrl": "https://raw.githubusercontent.com/srhady/toffee-bd/refs/heads/main/toffee_playlist.m3u"
   },
-  
-    {
+  {
     "id": "cat13",
     "name": "BDIX",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMSPxH81GqYCmx-99SsjfX0KB9wNhAXIE2PQ&s",
     "playlistUrl": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u"
   },
-  
   {
     "id": "cat5",
     "name": "SonyLiv",
@@ -91,7 +83,6 @@
     "logoUrl": "https://play-lh.googleusercontent.com/1jf_4jw2XqSdnvrVUVcxk4UCUAMfP-LjBYUXqj-nXxw6KlCnAqsFmudjQE1BJwQ52ow=w416-h235-rw",
     "playlistUrl": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
   },
-
   {
     "id": "cat11",
     "name": "FIFA",
@@ -104,7 +95,6 @@
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV2mfuaWiI0HdxWZlS5_Q4i7ZOfZnpoy3Gw&s",
     "playlistUrl": "https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/combine_playlist.m3u"
   },
-
   {
     "id": "cat14",
     "name": "JagoBD",
@@ -141,14 +131,12 @@
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdAvnF7Zf7XpQ1triPUVGdBU6tZSu7_Q1Ew&s",
     "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/islamic.m3u"
   },
-
   {
     "id": "cat_1780339844756",
     "name": "Xtream",
     "logoUrl": "https://image.roku.com/developer_channels/prod/b1174cd3a7f24f1b52ccba02fc33fd7a0589fd7f8b292e24dfac0826602cdb37.png",
     "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/xtream.m3u"
   },
-
   {
     "id": "cat_1780462565130",
     "name": "JioTV",
@@ -167,7 +155,6 @@
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxOx73QGV5dQkY3FCVUMCw4n0HaasngjlkA&s",
     "playlistUrl": "https://raw.githubusercontent.com/luthfikenteng/Ina/c6ab1df14c01d0d92cb3d0135f379e52dd4660f4/ott"
   },
-
   {
     "id": "cat_1780583009459",
     "name": "Event 2",
@@ -179,6 +166,11 @@
     "name": "Event 3",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxOx73QGV5dQkY3FCVUMCw4n0HaasngjlkA&s",
     "playlistUrl": "https://raw.githubusercontent.com/karepech/Karepetv/2cffe12da9e644e1aaf9236c9ad78e8739562d11/event_combined.m3u"
+  },
+  {
+    "id": "cat_1780688327172",
+    "name": "Sports V4",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFB1_eYilp9HUz9TtYagu7p53RnEpu_5ZbuQ&s",
+    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/sportsV4.m3u"
   }
-
 ]
