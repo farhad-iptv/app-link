@@ -31,7 +31,15 @@
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFB1_eYilp9HUz9TtYagu7p53RnEpu_5ZbuQ&s",
     "playlistUrl": "https://raw.githubusercontent.com/sanjoykb/-KB-TV-Playlist/97c9a317d4cd8adc0daee5c5e58324ec8eee470a/KB%20Live%20Tv%20121%20Channel%20v1.2.m3u"
   },
-  
+
+
+  {
+    "id": "cat_1780591893935",
+    "name": "Bingstream ",
+    "logoUrl": "https://i.ibb.co.com/cKHhHTTN/image.png",
+    "playlistUrl": "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u"
+  },
+    
     {
     "id": "cat10",
     "name": "AynaOTT",
@@ -171,13 +179,6 @@
     "name": "Event 3",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxOx73QGV5dQkY3FCVUMCw4n0HaasngjlkA&s",
     "playlistUrl": "https://raw.githubusercontent.com/karepech/Karepetv/2cffe12da9e644e1aaf9236c9ad78e8739562d11/event_combined.m3u"
-  },
-
-
-  {
-    "id": "cat_1780591893935",
-    "name": "Bingstream ",
-    "logoUrl": "https://i.ibb.co.com/cKHhHTTN/image.png",
-    "playlistUrl": "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u"
   }
+
 ]
