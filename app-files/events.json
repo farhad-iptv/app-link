@@ -15,8 +15,13 @@
     "streams": [
       {
         "name": "Server 1",
-        "url": "https://live2.pro2cdnlive.com/live/channel14.m3u8|Referer=https://xl365.buzzscorelinez.com/&Origin=https://xl365.buzzscorelinez.com",
+        "url": "https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd|drmScheme=clearkey&drmLicense=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://live2.pro2cdnlive.com/live/channel14.m3u8|Referer=https://xl365.buzzscorelinez.com/&Origin=https://xl365.buzzscorelinez.com",
+        "isPrimary": false
       }
     ]
   },
