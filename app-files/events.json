@@ -1,26 +1,5 @@
 [
   {
-    "id": "imported-1780655335402-0",
-    "matchName": "MotoGP Hungary Grand Prix",
-    "sportType": "Football",
-    "league": "MotoGP",
-    "homeTeamName": "MotoGP Hungary Grand Prix",
-    "homeTeamLogo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-    "awayTeamName": "MotoGP",
-    "awayTeamLogo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "01:00 PM 05/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Main Stream",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
     "id": "imported-1780649041788-0",
     "matchName": "China vs Singapore",
     "sportType": "Football",
