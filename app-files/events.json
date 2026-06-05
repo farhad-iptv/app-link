@@ -2,7 +2,7 @@
   {
     "id": "imported-1780667373053-0",
     "matchName": "Sri Lanka vs West Indies",
-    "sportType": "International Cricket",
+    "sportType": "Cricket",
     "league": "International Cricket",
     "homeTeamName": "Sri Lanka",
     "homeTeamLogo": "https://cdnimg.crichd.com/team/sri-lanka/logo.webp",
@@ -23,7 +23,7 @@
   {
     "id": "imported-1780667373053-1",
     "matchName": "England vs New Zealand",
-    "sportType": "International Cricket",
+    "sportType": "Cricket",
     "league": "International Cricket",
     "homeTeamName": "England",
     "homeTeamLogo": "https://cdnimg.crichd.com/team/england/logo.webp",
@@ -259,7 +259,7 @@
   {
     "id": "imported-1780667373053-2",
     "matchName": "India vs Afghanistan",
-    "sportType": "International Cricket",
+    "sportType": "Cricket",
     "league": "International Cricket",
     "homeTeamName": "India",
     "homeTeamLogo": "https://cdnimg.crichd.com/team/india/logo.webp",
