@@ -19,5 +19,341 @@
         "isPrimary": true
       }
     ]
+  },
+  {
+    "id": "imported-1780727013259-2",
+    "matchName": "India vs Afghanistan",
+    "sportType": "Cricket",
+    "league": "International Cricket",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdnimg.crichd.com/team/india/logo.webp",
+    "awayTeamName": "Afghanistan",
+    "awayTeamLogo": "https://cdnimg.crichd.com/team/afghanistan/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "10:00 AM 06/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984541-0",
+    "matchName": "Palestine vs Kyrgyzstan",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Palestine",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/palestine/logo.webp",
+    "awayTeamName": "Kyrgyzstan",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/kyrgyzstan/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "06:30 PM 06/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984541-1",
+    "matchName": "Lithuania vs Latvia",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Lithuania",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/lithuania/logo.webp",
+    "awayTeamName": "Latvia",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/latvia/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "07:00 PM 06/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984542-2",
+    "matchName": "Belgium vs Tunisia",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Belgium",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+    "awayTeamName": "Tunisia",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/tunisia/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "07:00 PM 06/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984542-3",
+    "matchName": "Portugal vs Chile",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Portugal",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+    "awayTeamName": "Chile",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/chile/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "11:45 PM 06/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984542-4",
+    "matchName": "Wales vs Romania",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Wales",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/wales/logo.webp",
+    "awayTeamName": "Romania",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/romania/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "11:45 PM 06/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984543-5",
+    "matchName": "Albania vs Luxembourg",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Albania",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/albania/logo.webp",
+    "awayTeamName": "Luxembourg",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "12:00 AM 07/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984543-6",
+    "matchName": "Germany vs USA",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Germany",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/germany/logo.webp",
+    "awayTeamName": "USA",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/usa/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "12:30 AM 07/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984543-7",
+    "matchName": "Panama vs Bosnia",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Panama",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/panama/logo.webp",
+    "awayTeamName": "Bosnia and Herzegovina",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "01:00 AM 07/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984543-8",
+    "matchName": "Australia vs Switzerland",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Australia",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/australia/logo.webp",
+    "awayTeamName": "Switzerland",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "01:00 AM 07/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984544-9",
+    "matchName": "England vs New Zealand",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "England",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "awayTeamName": "New Zealand",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "02:00 AM 07/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984544-10",
+    "matchName": "Scotland vs Bolivia",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Scotland",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+    "awayTeamName": "Bolivia",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/bolivia/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "02:00 AM 07/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984544-11",
+    "matchName": "Turkey vs Venezuela",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Turkiye",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+    "awayTeamName": "Venezuela",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/venezuela/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "04:00 AM 07/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984544-12",
+    "matchName": "Brazil vs Egypt",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Brazil",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+    "awayTeamName": "Egypt",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/egypt/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "04:00 AM 07/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984544-13",
+    "matchName": "Argentina vs Honduras",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Argentina",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+    "awayTeamName": "Honduras",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/honduras/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "06:00 AM 07/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780726984544-14",
+    "matchName": "Pakistan vs Afghanistan",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Pakistan",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
+    "awayTeamName": "Afghanistan",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "05:00 PM 07/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
   }
 ]
