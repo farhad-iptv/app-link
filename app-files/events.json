@@ -29,5 +29,509 @@
         "isPrimary": false
       }
     ]
+  },
+  {
+    "id": "imported-1780859068012-2",
+    "matchName": "Yankees vs Red Sox",
+    "sportType": "Football",
+    "league": "MLB",
+    "homeTeamName": "New York Yankees",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/new-york-yankees/logo.webp",
+    "awayTeamName": "Boston Red Sox",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
+    "isLive": true,
+    "isHot": false,
+    "startTime": "11:30 PM 07/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-3",
+    "matchName": "Kosovo vs Andorra",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Kosovo",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
+    "awayTeamName": "Andorra",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/andorra/logo.webp",
+    "isLive": true,
+    "isHot": false,
+    "startTime": "12:00 AM 08/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-4",
+    "matchName": "Croatia vs Slovenia",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Croatia",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+    "awayTeamName": "Slovenia",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/slovenia/logo.webp",
+    "isLive": true,
+    "isHot": false,
+    "startTime": "12:45 AM 08/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-0",
+    "matchName": "Italy vs  Greece",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Italy",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/italy/logo.webp",
+    "awayTeamName": "Greece",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/greece/logo.webp",
+    "isLive": true,
+    "isHot": false,
+    "startTime": "01:00 AM 08/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-1",
+    "matchName": "Morocco vs Norway",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Morocco",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/morocco/logo.webp",
+    "awayTeamName": "Norway",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/norway/logo.webp",
+    "isLive": true,
+    "isHot": false,
+    "startTime": "01:00 AM 08/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-5",
+    "matchName": "Ecuador vs Guatemala",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Ecuador",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/ecuador/logo.webp",
+    "awayTeamName": "Guatemala",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/guatemala/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "02:00 AM 08/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-6",
+    "matchName": "Jordan vs Colombia",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Jordan",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/jordan/logo.webp",
+    "awayTeamName": "Colombia",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/colombia/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "05:00 AM 08/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-20",
+    "matchName": "Cubs vs Giants",
+    "sportType": "Football",
+    "league": "MLB",
+    "homeTeamName": "Chicago Cubs",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
+    "awayTeamName": "San Francisco Giants",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/san-francisco-giants/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "06:30 AM 08/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-7",
+    "matchName": "Netherlands vs Uzbekistan",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Netherlands",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
+    "awayTeamName": "Uzbekistan",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/uzbekistan/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "12:45 AM 09/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-8",
+    "matchName": "France vs Northern Ireland",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "France",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/france/logo.webp",
+    "awayTeamName": "Northern Ireland",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/northern-ireland/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "01:00 AM 09/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-9",
+    "matchName": "Spain vs Peru",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Spain",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/spain/logo.webp",
+    "awayTeamName": "Peru",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/peru/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "08:00 AM 09/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-10",
+    "matchName": "Oman vs Kuwait",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Oman",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/oman/logo.webp",
+    "awayTeamName": "Kuwait",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/kuwait/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "06:00 PM 09/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-11",
+    "matchName": "India vs Tajikistan",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "Tajikistan",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/tajikistan/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "09:00 PM 09/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-12",
+    "matchName": "Belarus vs Burkina Faso",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Belarus",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/belarus/logo.webp",
+    "awayTeamName": "Burkina Faso",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/burkina-faso/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "10:30 PM 09/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-13",
+    "matchName": "Hungary vs Kazakhstan",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Hungary",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+    "awayTeamName": "Kazakhstan",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/kazakhstan/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "11:00 PM 09/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-14",
+    "matchName": "Azerbaijan vs San Marino",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Azerbaijan",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/azerbaijan/logo.webp",
+    "awayTeamName": "San Marino",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "12:00 AM 10/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-15",
+    "matchName": "Saudi Arabia vs Senegal",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Saudi Arabia",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/saudi-arabia/logo.webp",
+    "awayTeamName": "Senegal",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/senegal/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "05:00 AM 10/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-16",
+    "matchName": "Argentina vs Iceland",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Argentina",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+    "awayTeamName": "Iceland",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/iceland/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "07:00 AM 10/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-17",
+    "matchName": "Iraq vs Venezuela",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Iraq",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/iraq/logo.webp",
+    "awayTeamName": "Venezuela",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/venezuela/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "07:00 AM 10/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-18",
+    "matchName": "Portugal vs Nigeria",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "Portugal",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+    "awayTeamName": "Nigeria",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/nigeria/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "01:45 AM 11/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-19",
+    "matchName": "England vs Costa Rica",
+    "sportType": "Football",
+    "league": "Friendly",
+    "homeTeamName": "England",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "awayTeamName": "Costa Rica",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/costa-rica/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "02:00 AM 11/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-21",
+    "matchName": "Mexico vs South Africa",
+    "sportType": "Football",
+    "league": "Fifa World Cup",
+    "homeTeamName": "Mexico",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+    "awayTeamName": "South Africa",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "01:00 AM 12/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-22",
+    "matchName": "Korea vs Czechia",
+    "sportType": "Football",
+    "league": "Fifa World Cup",
+    "homeTeamName": "South Korea",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/south-korea/logo.webp",
+    "awayTeamName": "Czechia",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "08:00 AM 12/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780859068012-23",
+    "matchName": "Canada vs Bosnia",
+    "sportType": "Football",
+    "league": "Fifa Club World Cup",
+    "homeTeamName": "Canada",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/canada/logo.webp",
+    "awayTeamName": "Bosnia and Herzegovina",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "01:00 AM 13/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
   }
 ]
