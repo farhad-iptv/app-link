@@ -45,9 +45,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Main Stream",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "server 1",
+        "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8",
         "isPrimary": true
+      },
+      {
+        "name": "server 2",
+        "url": "https://601.formaturamaxi.com.br/mlb3.m3u8",
+        "isPrimary": false
       }
     ]
   },
