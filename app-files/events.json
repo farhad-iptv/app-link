@@ -86,9 +86,19 @@
     "link": "",
     "streams": [
       {
-        "name": "Main Stream",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "server 1 ",
+        "url": "http://193.47.62.59/hls/GPPPZZ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2 ",
+        "url": "http://193.47.62.59/hls/GPPPZZ.m3u8|Referer=http://www.fawanews.sc",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "http://193.47.62.59/hls/GPPPZZX.m3u8|Referer=http://www.fawanews.sc",
+        "isPrimary": false
       }
     ]
   },
