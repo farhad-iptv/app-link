@@ -214,5 +214,11 @@
     "name": "toffee v3",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2QTiM0ElN-7wMXSYXvB45q5unDWn6ixps7Q&s",
     "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_all_player.m3u"
+  },
+  {
+    "id": "cat_1780857674077",
+    "name": "StreamCenter",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlezbhfWLzgmyykMeEMO-4mivY3nq5nyqudw&s",
+    "playlistUrl": "https://raw.githubusercontent.com/BuddyChewChew/sports/7aee27370ea83d225831479b41b29b5e8eb18a94/powerv2/powerv2.m3u8"
   }
 ]
