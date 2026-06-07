@@ -69,7 +69,7 @@
     "id": "cat7",
     "name": "Fancode",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm74p4p_2DIpyQnp4AXwGijzO8jaOm_UytCQ&s",
-    "playlistUrl": "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u"
+    "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/refs/heads/main/FanCode.m3u"
   },
   {
     "id": "cat8",
@@ -190,5 +190,17 @@
     "name": "Fawanews",
     "logoUrl": "https://Fawanews.com",
     "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/fawanews-scraper/refs/heads/main/fawanews_playlist.m3u"
+  },
+  {
+    "id": "cat_1780820249470",
+    "name": "Toffee V2",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2QTiM0ElN-7wMXSYXvB45q5unDWn6ixps7Q&s",
+    "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update-Playlist/refs/heads/main/OTT_Navigator.m3u"
+  },
+  {
+    "id": "cat_1780820323617",
+    "name": "AynaOTT V2",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27-mocEawfrIZVJyj3rPenbC3S2Bppw7Bjw&s",
+    "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u"
   }
 ]
