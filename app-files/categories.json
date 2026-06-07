@@ -184,5 +184,11 @@
     "name": "combine",
     "logoUrl": "http://www.fawanews.sc/assets/img/logo.png",
     "playlistUrl": "https://raw.githubusercontent.com/time2shine/IPTV/master/combined.m3u"
+  },
+  {
+    "id": "cat_1780818226885",
+    "name": "Fawanews",
+    "logoUrl": "https://Fawanews.com",
+    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/fawanews-scraper/refs/heads/main/fawanews_playlist.m3u"
   }
 ]
