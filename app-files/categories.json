@@ -181,8 +181,8 @@
   },
   {
     "id": "cat_1780730269113",
-    "name": "Fawanews Sports",
+    "name": "combine",
     "logoUrl": "http://www.fawanews.sc/assets/img/logo.png",
-    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/fawanews-scraper/refs/heads/main/fawanews_playlist.m3u"
+    "playlistUrl": "https://raw.githubusercontent.com/time2shine/IPTV/master/combined.m3u"
   }
 ]
