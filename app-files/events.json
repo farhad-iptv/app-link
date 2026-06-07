@@ -168,9 +168,29 @@
     "link": "",
     "streams": [
       {
-        "name": "Main Stream",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1 ",
+        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8|Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2 ",
+        "url": "https://daffodil.thelistener.pk/fubo.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3 ",
+        "url": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=FSWdjomOvfTUdNEirKAlpyE07bFVtsjzELlIcGW-oTs&e=1780866505|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://streams.center/",
+        "isPrimary": false
+      },
+      {
+        "name": "Ser4",
+        "url": "http://193.47.62.46/hls/YOOOODdD.m3u8|Referer=http://www.fawanews.sc",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "http://193.47.62.46/hls/YOOOODdDZ.m3u8|Referer=http://www.fawanews.sc",
+        "isPrimary": false
       }
     ]
   },
