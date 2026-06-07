@@ -208,5 +208,11 @@
     "name": "Akash GO V2",
     "logoUrl": "https://play-lh.googleusercontent.com/L5ax9d0RvBuvMy6kfnMT9G-CteqBVGST5owFLLsaRrkqsRmuSrp49MugaZ1r2cl7e8M",
     "playlistUrl": "https://raw.githubusercontent.com/sagtabhai/live/75aab0c07d28d5a3f929014e7704dba5a719ee5d/akashgo.m3u"
+  },
+  {
+    "id": "cat_1780820734834",
+    "name": "toffee v3",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2QTiM0ElN-7wMXSYXvB45q5unDWn6ixps7Q&s",
+    "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_all_player.m3u"
   }
 ]
