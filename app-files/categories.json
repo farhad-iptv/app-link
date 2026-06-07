@@ -105,7 +105,7 @@
     "id": "cat15",
     "name": "JagoBD V2",
     "logoUrl": "https://www.jagobd.com/wp-content/uploads/2015/10/web_hi_res_512.png",
-    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/jagobd/refs/heads/main/jagobd-v2.m3u"
+    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/jagobd-scrapper/refs/heads/main/output/playlist.m3u"
   },
   {
     "id": "cat13",
