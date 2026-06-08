@@ -172,5 +172,11 @@
     "name": "Event 4",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxOx73QGV5dQkY3FCVUMCw4n0HaasngjlkA&s",
     "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/Nowstream-Scrapper/refs/heads/main/nowstreams.m3u"
+  },
+  {
+    "id": "cat_1780949298760",
+    "name": "Event 5",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxOx73QGV5dQkY3FCVUMCw4n0HaasngjlkA&s",
+    "playlistUrl": "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
   }
 ]
