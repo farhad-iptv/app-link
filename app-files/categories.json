@@ -178,5 +178,11 @@
     "name": "Event 5",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxOx73QGV5dQkY3FCVUMCw4n0HaasngjlkA&s",
     "playlistUrl": "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
+  },
+  {
+    "id": "cat_1780952108813",
+    "name": "RoxieStreams",
+    "logoUrl": "https://i.postimg.cc/sDfNJt03/image.png",
+    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/Roxstream-Scrapper/refs/heads/main/Roxiestreams.m3u"
   }
 ]
