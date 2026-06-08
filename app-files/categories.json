@@ -30,12 +30,6 @@
     "playlistUrl": "https://raw.githubusercontent.com/sanjoykb/-KB-TV-Playlist/97c9a317d4cd8adc0daee5c5e58324ec8eee470a/KB%20Live%20Tv%20121%20Channel%20v1.2.m3u"
   },
   {
-    "id": "cat_1780591893935",
-    "name": "Bingstream ",
-    "logoUrl": "https://i.ibb.co.com/cKHhHTTN/image.png",
-    "playlistUrl": "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u"
-  },
-  {
     "id": "cat10",
     "name": "AynaOTT",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27-mocEawfrIZVJyj3rPenbC3S2Bppw7Bjw&s",
@@ -132,64 +126,22 @@
     "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/islamic.m3u"
   },
   {
-    "id": "cat_1780339844756",
-    "name": "Xtream",
-    "logoUrl": "https://image.roku.com/developer_channels/prod/b1174cd3a7f24f1b52ccba02fc33fd7a0589fd7f8b292e24dfac0826602cdb37.png",
-    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/xtream.m3u"
-  },
-  {
-    "id": "cat_1780462565130",
-    "name": "JioTV",
-    "logoUrl": "https://static.vecteezy.com/system/resources/previews/075/195/403/non_2x/jiotv-logo-rounded-glossy-icon-with-transparent-background-free-png.png",
-    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/jio.m3u"
-  },
-  {
-    "id": "cat_1780513439789",
-    "name": "SD TV",
-    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSl61XoAY6emSIFrJP20VvKD2YypoVIPVrAQ&s",
-    "playlistUrl": "https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/live_matches_only.m3u"
-  },
-  {
     "id": "cat_1780513838978",
-    "name": "Event",
+    "name": "Event 1",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxOx73QGV5dQkY3FCVUMCw4n0HaasngjlkA&s",
-    "playlistUrl": "https://raw.githubusercontent.com/luthfikenteng/Ina/c6ab1df14c01d0d92cb3d0135f379e52dd4660f4/ott"
+    "playlistUrl": "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u"
   },
   {
     "id": "cat_1780583009459",
     "name": "Event 2",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxOx73QGV5dQkY3FCVUMCw4n0HaasngjlkA&s",
-    "playlistUrl": "https://raw.githubusercontent.com/karepech/bakul/d5987494fcdbd60017bd4246aa677f7f74ea8627/live_matches_only.m3u"
+    "playlistUrl": "https://raw.githubusercontent.com/BuddyChewChew/sports/7aee27370ea83d225831479b41b29b5e8eb18a94/powerv2/powerv2.m3u8"
   },
   {
     "id": "cat_1780583182604",
     "name": "Event 3",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxOx73QGV5dQkY3FCVUMCw4n0HaasngjlkA&s",
     "playlistUrl": "https://raw.githubusercontent.com/BuddyChewChew/sports/7aee27370ea83d225831479b41b29b5e8eb18a94/liveeventsfilter.m3u8"
-  },
-  {
-    "id": "cat_1780688327172",
-    "name": "Sports V4",
-    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFB1_eYilp9HUz9TtYagu7p53RnEpu_5ZbuQ&s",
-    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/m3u/refs/heads/main/sportsV4.m3u"
-  },
-  {
-    "id": "cat_1780692366974",
-    "name": "Test Sports",
-    "logoUrl": "https://example.com",
-    "playlistUrl": "https://raw.githubusercontent.com/Ajayone8x/sportzx-playlist/refs/heads/main/Sportzx.m3u8"
-  },
-  {
-    "id": "cat_1780730269113",
-    "name": "combine",
-    "logoUrl": "http://www.fawanews.sc/assets/img/logo.png",
-    "playlistUrl": "https://raw.githubusercontent.com/time2shine/IPTV/master/combined.m3u"
-  },
-  {
-    "id": "cat_1780818226885",
-    "name": "Fawanews",
-    "logoUrl": "https://Fawanews.com",
-    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/fawanews-scraper/refs/heads/main/fawanews_playlist.m3u"
   },
   {
     "id": "cat_1780820249470",
@@ -214,11 +166,5 @@
     "name": "toffee v3",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2QTiM0ElN-7wMXSYXvB45q5unDWn6ixps7Q&s",
     "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_all_player.m3u"
-  },
-  {
-    "id": "cat_1780857674077",
-    "name": "StreamCenter",
-    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlezbhfWLzgmyykMeEMO-4mivY3nq5nyqudw&s",
-    "playlistUrl": "https://raw.githubusercontent.com/BuddyChewChew/sports/7aee27370ea83d225831479b41b29b5e8eb18a94/powerv2/powerv2.m3u8"
   }
 ]
