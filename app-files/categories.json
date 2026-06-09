@@ -168,14 +168,8 @@
     "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_all_player.m3u"
   },
   {
-    "id": "cat_1780948500930",
-    "name": "Event 4",
-    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxOx73QGV5dQkY3FCVUMCw4n0HaasngjlkA&s",
-    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/Nowstream-Scrapper/refs/heads/main/nowstreams.m3u"
-  },
-  {
     "id": "cat_1780949298760",
-    "name": "Event 5",
+    "name": "Event 4",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxOx73QGV5dQkY3FCVUMCw4n0HaasngjlkA&s",
     "playlistUrl": "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
   },
@@ -196,11 +190,5 @@
     "name": "Live Cricket",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9zXTZ3FcSom2l4BdC5vbWsqZPb6FgPW2A0w&s",
     "playlistUrl": "https://raw.githubusercontent.com/hoangcon1808/SM-Live-TV/refs/heads/main/live_playlist.m3u"
-  },
-  {
-    "id": "cat_1781018050486",
-    "name": "Fawanews",
-    "logoUrl": "https://raw.githubusercontent.com/",
-    "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/fawanews-scraper/refs/heads/main/fawanews_playlist.m3u"
   }
 ]
