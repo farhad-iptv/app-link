@@ -190,5 +190,11 @@
     "name": "Willow Live",
     "logoUrl": "https://bobgoldpr.com/wp-content/uploads/2024/05/logo-transparent-cb-1.png",
     "playlistUrl": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"
+  },
+  {
+    "id": "cat_1781009279467",
+    "name": "Live Cricket",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9zXTZ3FcSom2l4BdC5vbWsqZPb6FgPW2A0w&s",
+    "playlistUrl": "https://raw.githubusercontent.com/hoangcon1808/SM-Live-TV/refs/heads/main/live_playlist.m3u"
   }
 ]
