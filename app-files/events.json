@@ -193,9 +193,29 @@
     "link": "",
     "streams": [
       {
-        "name": "Main Stream",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://daffodil.thelistener.pk/dep.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://cdn9.zohanayaan.com:1686/hls/do67.m3u8?md5=C2SeupwqXvhS8xMktFu-xw&expires=1780955384|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://s2.kora.st/",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://daffodil.thelistener.pk/dep.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://cdn1.zohanayaan.com:1686/hls/do82.m3u8?md5=Rvruv4Hu1LvUixRoBDBDww&expires=1780955372|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://s2.kora.st/",
+        "isPrimary": false
       }
     ]
   },
