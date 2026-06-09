@@ -27,6 +27,21 @@
         "name": "WILLOW FHD",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/39g4vfcmed/out/v1/2cc3881eeb644aafbd089ba91ee5a39c/cenc.mpd?|drmScheme=clearkey&drmLicense=8e9c51025bcae87deb2cad3def7be311:6ed8b036a7668c104046c706b29ddabb",
         "isPrimary": false
+      },
+      {
+        "name": "Server 1",
+        "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 2",
+        "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tsw4vdwngu/out/v1/e1a3a734256c498dbd7b01cdaa7c7c8c/cenc.mpd",
+        "isPrimary": false
       }
     ]
   },
