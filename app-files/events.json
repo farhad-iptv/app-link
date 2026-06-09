@@ -1,26 +1,5 @@
 [
   {
-    "id": "imported-1780994112958-1",
-    "matchName": "India vs Tajikistan",
-    "sportType": "Football",
-    "league": "Friendly",
-    "homeTeamName": "India",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
-    "awayTeamName": "Tajikistan",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/tajikistan/logo.webp",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "09:00 PM 09/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1",
-        "url": "http://193.47.62.46/hls/JRRRQQQQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
     "id": "imported-1780994112959-2",
     "matchName": "Belarus vs Burkina Faso",
     "sportType": "Football",
@@ -116,28 +95,43 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
+        "name": "Test 1",
         "url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
         "isPrimary": true
       },
       {
+        "name": "Server 1",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_Hunga0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069202~acl=/*~id=67634806595136061757498313116269~hmac=02e25c0898d58d665df06449c1c590e2c2e65cabf6ab969069cd3d3d1d1c3017",
+        "isPrimary": false
+      },
+      {
         "name": "Server 2",
-        "url": "https://daffodil.thelistener.pk/dep.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=9edfa6d46e4ea731ff7b5c479ec64af8de07b680&x-sign=7cd70dda691921855e53817b44af3cf5&x-time=1781023560|Referer=https://iframe.rumsport10.live/",
         "isPrimary": false
       },
       {
         "name": "Server 3",
-        "url": "https://cdn9.zohanayaan.com:1686/hls/do67.m3u8?md5=C2SeupwqXvhS8xMktFu-xw&expires=1780955384|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://s2.kora.st/",
+        "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8",
         "isPrimary": false
       },
       {
         "name": "Server 4",
-        "url": "https://daffodil.thelistener.pk/dep.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=b3b9e4fc8f98a573b387efe3e9351ea66a1da7fd&x-sign=5f4f253ab8ae67c29f2882d6100d7966&x-time=1781028060|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36&Referer=https://iframe.rumsport10.live/",
         "isPrimary": false
       },
       {
         "name": "Server 5",
-        "url": "https://cdn1.zohanayaan.com:1686/hls/do82.m3u8?md5=Rvruv4Hu1LvUixRoBDBDww&expires=1780955372|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36&Referer=https://s2.kora.st/",
+        "url": "https://daffodil.thelistener.pk/dep.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 6",
+        "url": "https://daffodil.thelistener.pk/dep.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 7",
+        "url": "http://pul-tenm.nbs3g.com/live/sd-1-4544898.m3u8?txSecret=5b91f3509c1b2067cd90d211d9dd5333&txTime=6A299901|Referer=http://www.fawanews.sc",
         "isPrimary": false
       }
     ]
