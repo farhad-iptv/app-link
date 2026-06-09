@@ -60,9 +60,19 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1",
-        "url": "https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=a561e14497673544ea97691c33beca9cad4a249e12061c0b241934fc2cbc4c6e.1781006509.4440ed2a3f613dda6f46402a326a7ef5.ce3c176b5ed8c9ff6cd00650e657e56f.672bf222fb4680ba3825756fb2bffe31&signature=8ef850fb3b580eb8e4959fc9757acc8ea04d5ce170a2223d4c93ebb3dab10407|Referer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free&Origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "name": "Ahrobiznes Volochysk vs Kudrivka - 16:00",
+        "url": "http://193.47.62.46/hls/SSSZSSSS.m3u8|Referer=http://www.fawanews.sc",
         "isPrimary": true
+      },
+      {
+        "name": "Latvia vs Faroe Islands - 16:00",
+        "url": "http://193.47.62.46/hls/JRRRQQQQQQ.m3u8|Referer=http://www.fawanews.sc",
+        "isPrimary": false
+      },
+      {
+        "name": "Ethiopia vs Malawi - 16:00",
+        "url": "http://193.47.62.46/hls/JRRRQQQQ.m3u8|Referer=http://www.fawanews.sc",
+        "isPrimary": false
       }
     ]
   },
