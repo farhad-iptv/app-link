@@ -159,7 +159,7 @@
     "id": "cat_1780820520684",
     "name": "Akash GO V2",
     "logoUrl": "https://play-lh.googleusercontent.com/L5ax9d0RvBuvMy6kfnMT9G-CteqBVGST5owFLLsaRrkqsRmuSrp49MugaZ1r2cl7e8M",
-    "playlistUrl": "https://raw.githubusercontent.com/sagtabhai/live/75aab0c07d28d5a3f929014e7704dba5a719ee5d/akashgo.m3u"
+    "playlistUrl": "https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/akash_live.m3u"
   },
   {
     "id": "cat_1780820734834",
@@ -184,5 +184,11 @@
     "name": "RoxieStreams",
     "logoUrl": "https://i.postimg.cc/sDfNJt03/image.png",
     "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/Roxstream-Scrapper/refs/heads/main/Roxiestreams.m3u"
+  },
+  {
+    "id": "cat_1781008658602",
+    "name": "Willow Live",
+    "logoUrl": "https://bobgoldpr.com/wp-content/uploads/2024/05/logo-transparent-cb-1.png",
+    "playlistUrl": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"
   }
 ]
