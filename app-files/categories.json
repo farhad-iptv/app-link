@@ -184,5 +184,11 @@
     "name": "RoxieStreams",
     "logoUrl": "https://i.postimg.cc/sDfNJt03/image.png",
     "playlistUrl": "https://raw.githubusercontent.com/farhad-iptv/Roxstream-Scrapper/refs/heads/main/Roxiestreams.m3u"
+  },
+  {
+    "id": "cat_1780992567250",
+    "name": "SportzX",
+    "logoUrl": "https://raw.githubusercontent.com/Zoom-Adr/scraper/ref",
+    "playlistUrl": "https://raw.githubusercontent.com/Zoom-Adr/scraper/refs/heads/main/Sportzx.m3u8"
   }
 ]
