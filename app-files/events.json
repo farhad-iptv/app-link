@@ -1,82 +1,5 @@
 [
   {
-    "id": "imported-1780993230584-1",
-    "matchName": "BAN vs AUS",
-    "sportType": "Cricket",
-    "league": "Cricket || One Day International",
-    "homeTeamName": "Bangladesh",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/187744/image",
-    "awayTeamName": "Australia",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187746/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "11:00 AM 09/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "T Sports",
-        "url": "https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8",
-        "isPrimary": true
-      },
-      {
-        "name": "Fancode",
-        "url": "https://fncd.kuvuslov.cymru/mumbai/142965_english_hls_38de70fdb210605_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev",
-        "isPrimary": false
-      },
-      {
-        "name": "WILLOW FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/39g4vfcmed/out/v1/2cc3881eeb644aafbd089ba91ee5a39c/cenc.mpd?|drmScheme=clearkey&drmLicense=8e9c51025bcae87deb2cad3def7be311:6ed8b036a7668c104046c706b29ddabb",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 1",
-        "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 2",
-        "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tsw4vdwngu/out/v1/e1a3a734256c498dbd7b01cdaa7c7c8c/cenc.mpd",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1780994112958-0",
-    "matchName": "Oman vs Kuwait",
-    "sportType": "Football",
-    "league": "Friendly",
-    "homeTeamName": "Oman",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/oman/logo.webp",
-    "awayTeamName": "Kuwait",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/kuwait/logo.webp",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "06:00 PM 09/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Ahrobiznes Volochysk vs Kudrivka - 16:00",
-        "url": "http://193.47.62.46/hls/SSSZSSSS.m3u8|Referer=http://www.fawanews.sc",
-        "isPrimary": true
-      },
-      {
-        "name": "Latvia vs Faroe Islands - 16:00",
-        "url": "http://193.47.62.46/hls/JRRRQQQQQQ.m3u8|Referer=http://www.fawanews.sc",
-        "isPrimary": false
-      },
-      {
-        "name": "Tajikistan vs India - 16:00",
-        "url": "http://193.47.62.46/hls/JRRRQQQQQ.m3u8|Referer=http://www.fawanews.sc",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
     "id": "imported-1780994112958-1",
     "matchName": "India vs Tajikistan",
     "sportType": "Football",
@@ -234,9 +157,39 @@
     "link": "",
     "streams": [
       {
-        "name": "Main Stream",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IF_Azerb0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069202~acl=/*~id=67634806595136061757498313116269~hmac=02e25c0898d58d665df06449c1c590e2c2e65cabf6ab969069cd3d3d1d1c3017",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2",
+        "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3",
+        "url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781113656-Kv4cPTAAP5YTi-af53278d15276198898fdb2b56097911b9949880-e0456230c1349b8944d5a128efef8eeb|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36&Referer=https://iframe.rumsport10.live/",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4",
+        "url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=af53278d15276198898fdb2b56097911b9949880&x-sign=6b7d20b22ddde9c89947688b04d096f2&x-time=1781027220|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36&Referer=https://iframe.rumsport10.live/",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5",
+        "url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=af53278d15276198898fdb2b56097911b9949880&x-sign=e6707ddb35738a00f9cfca8e770fde10&x-time=1781027220|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36&Referer=https://iframe.rumsport10.live/",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 6",
+        "url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=1781113658-Kv4cPTAAP5YTi-af53278d15276198898fdb2b56097911b9949880-3edd1ba59783a286338d35e98f622313|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36&Referer=https://iframe.rumsport10.live/",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 7",
+        "url": "https://dai.google.com/ssai/event/h-6GJBH2TweED39pQl26yg/master.m3u8",
+        "isPrimary": false
       }
     ]
   },
