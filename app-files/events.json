@@ -1,5 +1,89 @@
 [
   {
+    "id": "imported-1780991851668-0",
+    "matchName": "West Indies vs Sri Lanka",
+    "sportType": "Cricket",
+    "league": "WI vs SL",
+    "homeTeamName": "West Indies",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
+    "awayTeamName": "Sri Lanka",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
+    "isLive": true,
+    "isHot": false,
+    "startTime": "08:30 PM 03/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780991851669-1",
+    "matchName": "India vs Afghanistan",
+    "sportType": "Cricket",
+    "league": "India vs AFG",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "Afghanistan",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
+    "isLive": true,
+    "isHot": false,
+    "startTime": "09:30 AM 06/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780991851670-2",
+    "matchName": "Women’s T20 World Cup 2026",
+    "sportType": "Cricket",
+    "league": "WT20 WC",
+    "homeTeamName": "Women’s T20 World Cup 2026",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/womens-t20-world-cup-2026/logo.webp",
+    "awayTeamName": "TBD",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/default/logo.webp",
+    "isLive": true,
+    "isHot": false,
+    "startTime": "03:00 PM 08/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780991851670-3",
+    "matchName": "Australia vs Bangladesh",
+    "sportType": "Cricket",
+    "league": "BAN vs AUS",
+    "homeTeamName": "Australia",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/australia/logo.webp",
+    "awayTeamName": "Bangladesh",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
+    "isLive": true,
+    "isHot": false,
+    "startTime": "11:00 AM 09/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
     "id": "imported-1780927047096-0",
     "matchName": "Netherlands vs Uzbekistan",
     "sportType": "Football",
@@ -347,6 +431,48 @@
     "isLive": false,
     "isHot": false,
     "startTime": "07:00 AM 13/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780991851670-4",
+    "matchName": "1st ODI India vs Afghanistan",
+    "sportType": "Cricket",
+    "league": "India vs AFG",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "Afghanistan",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "02:00 PM 13/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1780991851670-5",
+    "matchName": "2nd Test England vs New Zealand",
+    "sportType": "Cricket",
+    "league": "ENG vs NZ",
+    "homeTeamName": "England",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "awayTeamName": "New Zealand",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "04:00 PM 17/06/2026",
     "link": "",
     "streams": [
       {
