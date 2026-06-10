@@ -137,9 +137,19 @@
     "link": "",
     "streams": [
       {
-        "name": "Main Stream",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1 (Event 4)",
+        "url": "https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkzLCJyYW5kIjoiNzU5NjVjM2UwNGVjMTY5ZSJ9.db480ccd5f422f4ef9889785631454342a69763538c5065106dd1c3b39e9e99a|Referer=https://vivatops.cyou/vivo/?ch=4&Origin=https://vivatops.cyou/vivo/?ch=4&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2 (Event 4)",
+        "url": "https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiYzljNzA3YWJjOGNiMjU3ZCJ9.080512f2f243a5e52aa2d7def5e88841a1c146c1e6986de94979dafc14f63930|Referer=https://vivatops.cyou/vivo/?ch=3&Origin=https://vivatops.cyou/vivo/?ch=3&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3 (Event 4)",
+        "url": "https://kolis.phantemlis.top/premium0/index.m3u8?md5v1=LCeZ6JZJ8AwZhHEKAp2O2A&md5v2=5wY4IuVBULygYSlvdKSx3Q&expires=1781114409|Referer=https://resportz.cfd/live/stream-00.php&Origin=https://resportz.cfd/live/stream-00.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
       }
     ]
   },
