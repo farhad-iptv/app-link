@@ -19,23 +19,38 @@
         "isPrimary": true
       },
       {
+        "name": "Server 1 (Event 4)",
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
         "name": "Server 2 (Event 4)",
-        "url": "https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiODJkNWYxYjg5OGM2ZjdhZSJ9.fb583898fa80ff3304620161d8096ea20a306edebfc0f44f9aa09c9e8b525863|Referer=https://vivatops.cyou/vivo/?ch=4&Origin=https://vivatops.cyou/vivo/?ch=4&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "url": "https://14c51.streameasthd.net:443/global/espn/index.m3u8?token=60fc574332a7069eaace1bd2d7a37f3a0191e95e-94-1781137830-1781083830&|Referer=https://streamtp-x-y-z.ws/global1.php?stream=espn&Origin=https://streamtp-x-y-z.ws/global1.php?stream=espn&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
         "name": "Server 3 (Event 4)",
+        "url": "https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiODJkNWYxYjg5OGM2ZjdhZSJ9.fb583898fa80ff3304620161d8096ea20a306edebfc0f44f9aa09c9e8b525863|Referer=https://vivatops.cyou/vivo/?ch=4&Origin=https://vivatops.cyou/vivo/?ch=4&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4 (Event 4)",
+        "url": "https://kolis.phantemlis.top/premium756/index.m3u8?md5v1=6e01VxlLGJasdYXAIhCrTA&md5v2=gp4Pu2Izx-tRDm_CD_JyeA&expires=1781114410|Referer=https://resportz.cfd/live/stream-756.php&Origin=https://resportz.cfd/live/stream-756.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5 (Event 4)",
+        "url": "https://kolis.phantemlis.top/premium540/index.m3u8?md5v1=TUr4hARh65w_51Tlkf1_ng&md5v2=XF7PqHKS2I65bBdcB47fgA&expires=1781114410|Referer=https://resportz.cfd/live/stream-540.php&Origin=https://resportz.cfd/live/stream-540.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 6 (Event 4)",
         "url": "https://daffodil.formaturamaxi.com.br/fsp.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": false
       },
       {
-        "name": "Server 4 (RoxieStreams)",
-        "url": "https://daffodil.formaturamaxi.com.br/sky2.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 5 (RoxieStreams)",
-        "url": "https://daffodil.sandhost.qzz.io/fsp.m3u8",
+        "name": "Server 7 (Event 2)",
+        "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=jFmavlKA4vGqieX1bkbW2HBaHWl_Vn9jA7fcfM-csAw&e=1781120332|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": false
       }
     ]
@@ -55,9 +70,34 @@
     "link": "",
     "streams": [
       {
-        "name": "Main Stream",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1 (Event 2)",
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=KpFMS3UvnPEcfz2LdwyPTCdZvDQgF_gHX1ujuak1HWA&e=1781120332|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2 (Event 3)",
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8|Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3 (Event 3)",
+        "url": "https://601.formaturamaxi.com.br/itv.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4 (Event 4)",
+        "url": "https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiMDJjNzM2OGFmOTUwMDgzZiJ9.a8bf97b5ed0f9c5183f5bfecfefc3c111eb0ff095d967b3d0796bb6a3292b09d|Referer=https://vivatops.cyou/vivo/?ch=4&Origin=https://vivatops.cyou/vivo/?ch=4&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5 (Event 4)",
+        "url": "https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiOTEzOGY3MmMyZWMwZmI4NCJ9.32d2b74925952d060f16e6124e6f0b74e8729bac8c698ba45bec5841a88acfc0|Referer=https://vivatops.cyou/vivo/?ch=3&Origin=https://vivatops.cyou/vivo/?ch=3&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 6 (Event 4)",
+        "url": "https://kolis.phantemlis.top/premium350/index.m3u8?md5v1=xpqbiHT04SJaMz-M51R1IA&md5v2=9uyCOqgTpIbXaMCeYmBOtg&expires=1781114411|Referer=https://resportz.cfd/live/stream-350.php&Origin=https://resportz.cfd/live/stream-350.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
       }
     ]
   },
