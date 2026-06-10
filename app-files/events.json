@@ -14,9 +14,69 @@
     "link": "",
     "streams": [
       {
-        "name": "Main Stream",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1 (SonyLiv)",
+        "url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2 (BDIX)",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football1006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781161540~acl=/*~id=56276220701633515332120035688461~hmac=d97bb2bb0ef03621380815354d35ba10852288d881f0e81f4cdb974ef5a0cec5",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3 (Tapmad)",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781120123~acl=/hls/*~hmac=f094ba90f1b47b0c0d74017a01c8cb813df7cff9f33662fe7cbfde83a7d4cdcc",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4 (RoxieStreams)",
+        "url": "https://daffodil.formaturamaxi.com.br/fsp.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5 (RoxieStreams)",
+        "url": "https://daffodil.thelistener.pk/fsp.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 6 (Event 4)",
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 7 (Event 4)",
+        "url": "https://14c51.streameasthd.net:443/global/espn/index.m3u8?token=60fc574332a7069eaace1bd2d7a37f3a0191e95e-94-1781137830-1781083830&|Referer=https://streamtp-x-y-z.ws/global1.php?stream=espn&Origin=https://streamtp-x-y-z.ws/global1.php?stream=espn&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 8 (Event 4)",
+        "url": "https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiODJkNWYxYjg5OGM2ZjdhZSJ9.fb583898fa80ff3304620161d8096ea20a306edebfc0f44f9aa09c9e8b525863|Referer=https://vivatops.cyou/vivo/?ch=4&Origin=https://vivatops.cyou/vivo/?ch=4&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 9 (Event 4)",
+        "url": "https://kolis.phantemlis.top/premium756/index.m3u8?md5v1=6e01VxlLGJasdYXAIhCrTA&md5v2=gp4Pu2Izx-tRDm_CD_JyeA&expires=1781114410|Referer=https://resportz.cfd/live/stream-756.php&Origin=https://resportz.cfd/live/stream-756.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 10 (Event 4)",
+        "url": "https://kolis.phantemlis.top/premium540/index.m3u8?md5v1=TUr4hARh65w_51Tlkf1_ng&md5v2=XF7PqHKS2I65bBdcB47fgA&expires=1781114410|Referer=https://resportz.cfd/live/stream-540.php&Origin=https://resportz.cfd/live/stream-540.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 11 (Event 4)",
+        "url": "https://daffodil.formaturamaxi.com.br/fsp.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 12 (Event 2)",
+        "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=jFmavlKA4vGqieX1bkbW2HBaHWl_Vn9jA7fcfM-csAw&e=1781120332|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 13 (Event 4)",
+        "url": "https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiZDBlOWNmNGU1OGZlNzJhMCJ9.0358ad23531406104e0a11c5e11bb55d2dc02be75ca4c65787b3907111a90f9c|Referer=https://vivatops.cyou/vivo/?ch=3&Origin=https://vivatops.cyou/vivo/?ch=3&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
       }
     ]
   },
