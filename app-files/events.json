@@ -53,6 +53,21 @@
         "name": "Server 2 (Willow Live)",
         "url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jpt6zpxrd8/out/v1/2a70f9d752d245849a8492ad81a8bf3c/cenc.mpd?|drmScheme=clearkey&drmLicense=a2b04e262f023cf59a2226dff375b3be:5455b5b5f804c34e2324a1bed24f9da0",
         "isPrimary": false
+      },
+      {
+        "name": "T Sports HD",
+        "url": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d3b6774fbd416803ca328adea837af88",
+        "isPrimary": false
+      },
+      {
+        "name": "Willow TV",
+        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d71d71025ad8ed99266bb333137dc3e0",
+        "isPrimary": false
+      },
+      {
+        "name": "T Sports Hd 2",
+        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=fad7cd5bc376eb999f48186c8c296301d320a3b0-03be17c47c9bd5fc8c8838565d94dd3c-1781160910-1781150110",
+        "isPrimary": false
       }
     ]
   },
