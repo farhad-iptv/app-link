@@ -45,28 +45,33 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1 (Tapmad)",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781154306~acl=/hls/*~hmac=d3d91a3a6d3b2de16bfb9fabe653a2b52d3d3d7cea74f07ad2e190476aff19ac",
-        "isPrimary": true
+        "name": "Server 1 (BDIX)",
+        "url": "https://bd-mc-fblive.fancode.com/mumbai/142966_english_hls_e0fd10311f63666_1ta-di_h264/index.m3u8",
+        "isPrimary": false
       },
       {
-        "name": "Server 2 (Willow Live)",
+        "name": "Server 2 (Live Cricket)",
+        "url": "https://bd-mc-plive.fancode.com/mumbai/142966_english_hls_e0fd10311f63666_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781237945~_GO=Generated~acl=/mumbai/142966_english_hls_e0fd10311f63666_1ta-di_h264/*~Signature=ATZ0w6etQNiB3p_66wSNo_gyzLTurtdzY93YNOdIn-7wjJIQhvGrtMWgG336XJvRrv3_PAb1LNjvP2k98U4cYKulJRwL?|drmScheme=clearkey",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3 (Live Cricket)",
+        "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8?|drmScheme=clearkey",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4 (Tapmad)",
+        "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 5 (Willow Live)",
         "url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jpt6zpxrd8/out/v1/2a70f9d752d245849a8492ad81a8bf3c/cenc.mpd?|drmScheme=clearkey&drmLicense=a2b04e262f023cf59a2226dff375b3be:5455b5b5f804c34e2324a1bed24f9da0",
         "isPrimary": false
       },
       {
-        "name": "T Sports HD",
-        "url": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d3b6774fbd416803ca328adea837af88",
-        "isPrimary": false
-      },
-      {
-        "name": "Willow TV",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779178079&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a&token=d71d71025ad8ed99266bb333137dc3e0",
-        "isPrimary": false
-      },
-      {
-        "name": "T Sports Hd 2",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=fad7cd5bc376eb999f48186c8c296301d320a3b0-03be17c47c9bd5fc8c8838565d94dd3c-1781160910-1781150110",
+        "name": "Server 6 (Fancode)",
+        "url": "https://bd-mc-plive.fancode.com/mumbai/142966_english_hls_e0fd10311f63666_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781237945~_GO=Generated~acl=/mumbai/142966_english_hls_e0fd10311f63666_1ta-di_h264/*~Signature=ATZ0w6etQNiB3p_66wSNo_gyzLTurtdzY93YNOdIn-7wjJIQhvGrtMWgG336XJvRrv3_PAb1LNjvP2k98U4cYKulJRwL",
         "isPrimary": false
       }
     ]
