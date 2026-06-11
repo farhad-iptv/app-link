@@ -87,6 +87,52 @@
     ]
   },
   {
+    "id": "imported-1781202917172-1",
+    "matchName": "West Indies vs Sri Lanka",
+    "sportType": "Cricket",
+    "league": "Cricket",
+    "homeTeamName": "WI",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/187760/image",
+    "awayTeamName": "SL",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187756/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "06:30 AM 12/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "WILLOW HD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+        "isPrimary": true
+      },
+      {
+        "name": "WILLOW FHD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dxxsherzzi/out/v1/96c8a12527d64e90aa7defbb5a4678eb/cenc.mpd?|drmScheme=clearkey&drmLicense=27bc1b1df5cb11f0200df6ceea231181:c35331540ccf717099cb8f840135154e",
+        "isPrimary": false
+      },
+      {
+        "name": "WILLOW [ALT]",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ehfibbt64r/out/v1/242699d5a0484c3b8868d40d763d75cd/cenc.mpd?|drmScheme=clearkey&drmLicense=5be21df3f18ef64aaaaa30cbdaf128ed:7fac12f58b756a1a52d3150c7d3b0304",
+        "isPrimary": false
+      },
+      {
+        "name": "SonyLiv [ENG]",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi1106/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781194891~acl=/*~id=83726301575760378160297456854328~hmac=b542b9609108722cac050a431f63e1e71bfd754d9d73e95205d6f9604de4bebb|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
+        "isPrimary": false
+      },
+      {
+        "name": "SS SPORTS HD",
+        "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "SonyLiv [HIN]",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi1106/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781194891~acl=/*~id=83726301575760378160297456854328~hmac=b542b9609108722cac050a431f63e1e71bfd754d9d73e95205d6f9604de4bebb|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
     "id": "imported-1781202753370-2",
     "matchName": "Korea vs Czechia",
     "sportType": "Football",
@@ -104,6 +150,42 @@
         "name": "Main Stream",
         "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781202917172-0",
+    "matchName": "England W vs Sri Lanka W",
+    "sportType": "Cricket",
+    "league": "Cricket",
+    "homeTeamName": "ENG-W",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/213121/image",
+    "awayTeamName": "SL-W",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187806/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "11:30 PM 12/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "WILLOW FHD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dj1km6b6es/out/v1/19df13cc1d8847e984b2ead17006a44f/cenc.mpd?|drmScheme=clearkey&drmLicense=20c2d7ead10beb5a3a10ef13e95459a3:e3141f63f4fe35b0ee97ebf882ab64fe",
+        "isPrimary": true
+      },
+      {
+        "name": "SKY CRICKET",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
+        "isPrimary": false
+      },
+      {
+        "name": "WILLOW HD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+        "isPrimary": false
+      },
+      {
+        "name": "SD SERVER",
+        "url": "http://193.47.62.59/hls/hyhyhyhy.m3u8|referer=http://www.fawanews.sc/",
+        "isPrimary": false
       }
     ]
   },
