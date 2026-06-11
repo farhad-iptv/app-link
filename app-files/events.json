@@ -1,133 +1,6 @@
 [
   {
-    "id": "imported-1781117801497-0",
-    "matchName": "Portugal vs Nigeria",
-    "sportType": "Football",
-    "league": "Friendly",
-    "homeTeamName": "Portugal",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-    "awayTeamName": "Nigeria",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/nigeria/logo.webp",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "01:45 AM 11/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1 (SonyLiv)",
-        "url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2 (BDIX)",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football1006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781161540~acl=/*~id=56276220701633515332120035688461~hmac=d97bb2bb0ef03621380815354d35ba10852288d881f0e81f4cdb974ef5a0cec5",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3 (Tapmad)",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781120123~acl=/hls/*~hmac=f094ba90f1b47b0c0d74017a01c8cb813df7cff9f33662fe7cbfde83a7d4cdcc",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4 (RoxieStreams)",
-        "url": "https://daffodil.formaturamaxi.com.br/fsp.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 5 (RoxieStreams)",
-        "url": "https://daffodil.thelistener.pk/fsp.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 6 (Event 4)",
-        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 7 (Event 4)",
-        "url": "https://14c51.streameasthd.net:443/global/espn/index.m3u8?token=60fc574332a7069eaace1bd2d7a37f3a0191e95e-94-1781137830-1781083830&|Referer=https://streamtp-x-y-z.ws/global1.php?stream=espn&Origin=https://streamtp-x-y-z.ws/global1.php?stream=espn&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 8 (Event 4)",
-        "url": "https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiODJkNWYxYjg5OGM2ZjdhZSJ9.fb583898fa80ff3304620161d8096ea20a306edebfc0f44f9aa09c9e8b525863|Referer=https://vivatops.cyou/vivo/?ch=4&Origin=https://vivatops.cyou/vivo/?ch=4&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 9 (Event 4)",
-        "url": "https://kolis.phantemlis.top/premium756/index.m3u8?md5v1=6e01VxlLGJasdYXAIhCrTA&md5v2=gp4Pu2Izx-tRDm_CD_JyeA&expires=1781114410|Referer=https://resportz.cfd/live/stream-756.php&Origin=https://resportz.cfd/live/stream-756.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 10 (Event 4)",
-        "url": "https://kolis.phantemlis.top/premium540/index.m3u8?md5v1=TUr4hARh65w_51Tlkf1_ng&md5v2=XF7PqHKS2I65bBdcB47fgA&expires=1781114410|Referer=https://resportz.cfd/live/stream-540.php&Origin=https://resportz.cfd/live/stream-540.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 11 (Event 4)",
-        "url": "https://daffodil.formaturamaxi.com.br/fsp.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 12 (Event 2)",
-        "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=jFmavlKA4vGqieX1bkbW2HBaHWl_Vn9jA7fcfM-csAw&e=1781120332|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 13 (Event 4)",
-        "url": "https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiZDBlOWNmNGU1OGZlNzJhMCJ9.0358ad23531406104e0a11c5e11bb55d2dc02be75ca4c65787b3907111a90f9c|Referer=https://vivatops.cyou/vivo/?ch=3&Origin=https://vivatops.cyou/vivo/?ch=3&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781080801201-1",
-    "matchName": "England vs Costa Rica",
-    "sportType": "Football",
-    "league": "Friendly",
-    "homeTeamName": "England",
-    "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
-    "awayTeamName": "Costa Rica",
-    "awayTeamLogo": "https://cdn.img4every1.org/team/costa-rica/logo.webp",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "02:00 AM 11/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Server 1 (Event 2)",
-        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=KpFMS3UvnPEcfz2LdwyPTCdZvDQgF_gHX1ujuak1HWA&e=1781120332|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2 (Event 3)",
-        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8|Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3 (Event 3)",
-        "url": "https://601.formaturamaxi.com.br/itv.m3u8|Referer=https://roxiestreams.info&Origin=https://roxiestreams.info&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 4 (Event 4)",
-        "url": "https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiMDJjNzM2OGFmOTUwMDgzZiJ9.a8bf97b5ed0f9c5183f5bfecfefc3c111eb0ff095d967b3d0796bb6a3292b09d|Referer=https://vivatops.cyou/vivo/?ch=4&Origin=https://vivatops.cyou/vivo/?ch=4&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 5 (Event 4)",
-        "url": "https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkyLCJyYW5kIjoiOTEzOGY3MmMyZWMwZmI4NCJ9.32d2b74925952d060f16e6124e6f0b74e8729bac8c698ba45bec5841a88acfc0|Referer=https://vivatops.cyou/vivo/?ch=3&Origin=https://vivatops.cyou/vivo/?ch=3&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 6 (Event 4)",
-        "url": "https://kolis.phantemlis.top/premium350/index.m3u8?md5v1=xpqbiHT04SJaMz-M51R1IA&md5v2=9uyCOqgTpIbXaMCeYmBOtg&expires=1781114411|Referer=https://resportz.cfd/live/stream-350.php&Origin=https://resportz.cfd/live/stream-350.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781080801201-2",
+    "id": "imported-1781150033089-0",
     "matchName": "FIFA World Cup 2026 Opening Ceremony",
     "sportType": "Football",
     "league": "Fifa World Cup",
@@ -148,7 +21,7 @@
     ]
   },
   {
-    "id": "imported-1781080801201-3",
+    "id": "imported-1781150033090-1",
     "matchName": "Mexico vs South Africa",
     "sportType": "Football",
     "league": "Fifa World Cup",
@@ -162,24 +35,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Server 1 (Event 4)",
-        "url": "https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkzLCJyYW5kIjoiNzU5NjVjM2UwNGVjMTY5ZSJ9.db480ccd5f422f4ef9889785631454342a69763538c5065106dd1c3b39e9e99a|Referer=https://vivatops.cyou/vivo/?ch=4&Origin=https://vivatops.cyou/vivo/?ch=4&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "Server 2 (Event 4)",
-        "url": "https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgxMDkyODkwLCJyYW5kIjoiYzljNzA3YWJjOGNiMjU3ZCJ9.080512f2f243a5e52aa2d7def5e88841a1c146c1e6986de94979dafc14f63930|Referer=https://vivatops.cyou/vivo/?ch=3&Origin=https://vivatops.cyou/vivo/?ch=3&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3 (Event 4)",
-        "url": "https://kolis.phantemlis.top/premium0/index.m3u8?md5v1=LCeZ6JZJ8AwZhHEKAp2O2A&md5v2=5wY4IuVBULygYSlvdKSx3Q&expires=1781114409|Referer=https://resportz.cfd/live/stream-00.php&Origin=https://resportz.cfd/live/stream-00.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781080801201-4",
+    "id": "imported-1781150033090-2",
     "matchName": "Korea vs Czechia",
     "sportType": "Football",
     "league": "Fifa World Cup",
@@ -200,7 +63,7 @@
     ]
   },
   {
-    "id": "imported-1781080801201-5",
+    "id": "imported-1781150033090-3",
     "matchName": "Canada vs Bosnia",
     "sportType": "Football",
     "league": "Fifa World Cup",
@@ -221,7 +84,7 @@
     ]
   },
   {
-    "id": "imported-1781080801201-6",
+    "id": "imported-1781150033090-4",
     "matchName": "USA vs Paraguay",
     "sportType": "Football",
     "league": "Fifa World Cup",
@@ -242,7 +105,7 @@
     ]
   },
   {
-    "id": "imported-1781080801201-7",
+    "id": "imported-1781150033090-5",
     "matchName": "Qatar vs Switzerland",
     "sportType": "Football",
     "league": "Fifa World Cup",
@@ -263,7 +126,7 @@
     ]
   },
   {
-    "id": "imported-1781080801201-8",
+    "id": "imported-1781150033090-6",
     "matchName": "Brazil vs Morocco",
     "sportType": "Football",
     "league": "Fifa World Cup",
@@ -284,7 +147,7 @@
     ]
   },
   {
-    "id": "imported-1781080801202-9",
+    "id": "imported-1781150033090-7",
     "matchName": "Scotland vs Haiti",
     "sportType": "Football",
     "league": "Fifa World Cup",
@@ -305,7 +168,7 @@
     ]
   },
   {
-    "id": "imported-1781080801202-10",
+    "id": "imported-1781150033091-8",
     "matchName": "Australia vs Turkey",
     "sportType": "Football",
     "league": "Fifa World Cup",
@@ -326,7 +189,7 @@
     ]
   },
   {
-    "id": "imported-1781080801202-11",
+    "id": "imported-1781150033091-9",
     "matchName": "Germany vs Curaçao",
     "sportType": "Football",
     "league": "Fifa World Cup",
@@ -347,7 +210,7 @@
     ]
   },
   {
-    "id": "imported-1781080801202-12",
+    "id": "imported-1781150033091-10",
     "matchName": "Netherlands vs Japan",
     "sportType": "Football",
     "league": "Fifa World Cup",
@@ -368,7 +231,7 @@
     ]
   },
   {
-    "id": "imported-1781080801202-13",
+    "id": "imported-1781150033091-11",
     "matchName": "Côte d'Ivoire vs Ecuador",
     "sportType": "Football",
     "league": "Fifa World Cup",
