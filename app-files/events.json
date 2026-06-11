@@ -35,9 +35,24 @@
     "link": "",
     "streams": [
       {
-        "name": "Main Stream",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1 (Event 2)",
+        "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=3XW8Bp_xi8IvzoaxY_TjsqSSrHjkjPUrEetgIjrmCQk&e=1781148077|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2 (Event 2)",
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=26bB_8SQ7SE1QfSyOpcImhgLxePIDKJsNuZ6WA9oeZQ&e=1781148077|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3 (Event 2)",
+        "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=VsaoQP2YqUNg30O1_qs0XiPM5gQRrrYJynuyI2dsi_A&e=1781148077|Referer=https://streams.center/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4 (Event 4)",
+        "url": "https://pontos.phantemlis.top/premium0/index.m3u8?md5v1=QvHT7BcBk2KI5K1fitT5Hw&md5v2=6AZP3kT44cS8qUxV-l7K4A&expires=1781150442|Referer=https://resportz.cfd/live/stream-00.php&Origin=https://resportz.cfd/live/stream-00.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
       }
     ]
   },
@@ -77,9 +92,24 @@
     "link": "",
     "streams": [
       {
-        "name": "Main Stream",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1 (Event 4)",
+        "url": "https://pontos.phantemlis.top/premium758/index.m3u8?md5v1=zMhSmb9fGTSeXqKiBgp5qA&md5v2=t_qVu742bAktZ97ondNY_w&expires=1781150446|Referer=https://resportz.cfd/live/stream-758.php&Origin=https://resportz.cfd/live/stream-758.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2 (Event 4)",
+        "url": "https://pontos.phantemlis.top/premium756/index.m3u8?md5v1=_YoVaL8A6ISmGTKciqp6hA&md5v2=rmvtGtm1aCSmbgNLN_ezAw&expires=1781150447|Referer=https://resportz.cfd/live/stream-756.php&Origin=https://resportz.cfd/live/stream-756.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3 (Event 4)",
+        "url": "https://pontos.phantemlis.top/premium50/index.m3u8?md5v1=YbPFJfwU4YrOJS2xo8eQuw&md5v2=zlz6wTa3a8Sk7EiZ-xlTdQ&expires=1781150469|Referer=https://resportz.cfd/live/stream-50.php&Origin=https://resportz.cfd/live/stream-50.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 4 (Event 4)",
+        "url": "https://pontos.phantemlis.top/premium0/index.m3u8?md5v1=QvHT7BcBk2KI5K1fitT5Hw&md5v2=6AZP3kT44cS8qUxV-l7K4A&expires=1781150442|Referer=https://resportz.cfd/live/stream-00.php&Origin=https://resportz.cfd/live/stream-00.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
       }
     ]
   },
@@ -140,9 +170,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Main Stream",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "Server 1 (Event 4)",
+        "url": "https://lb6.wfty.st/secure/oGxNHGtAXc8AoqWSdwUuEA/regular/goias-novorizontino/1/4669187/1781159477/playlist.m3u8|Referer=https://sportsembed.su/embed/4669187/goias-novorizontino/regular/1?player=clappr&autoplay=true&Origin=https://sportsembed.su/embed/4669187/goias-novorizontino/regular/1?player=clappr&autoplay=true&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
         "isPrimary": true
+      },
+      {
+        "name": "Server 2 (Event 4)",
+        "url": "https://pontos.phantemlis.top/premium47/index.m3u8?md5v1=pH7KYJT4xlV-7mCmM617lw&md5v2=bGYwHhQ4VM4L-YZ96DuMpA&expires=1781150469|Referer=https://resportz.cfd/live/stream-47.php&Origin=https://resportz.cfd/live/stream-47.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
       }
     ]
   },
