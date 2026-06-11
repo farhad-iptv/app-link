@@ -1,337 +1,330 @@
 [
   {
-    "id": "footfy-1781153003593-0",
-    "matchName": "Portugal vs Nigeria",
+    "id": "imported-1781153865857-0",
+    "matchName": "India vs Afghanistan",
+    "sportType": "Cricket",
+    "league": "India vs AFG",
+    "homeTeamName": "India",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/india/logo.webp",
+    "awayTeamName": "Afghanistan",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
+    "isLive": true,
+    "isHot": false,
+    "startTime": "09:30 AM 06/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Server 1 (SonyLiv)",
+        "url": "https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8",
+        "isPrimary": true
+      },
+      {
+        "name": "Server 2 (Event 4)",
+        "url": "https://pontos.phantemlis.top/premium33/index.m3u8?md5v1=M_raKKf2Ese-kVvu28Tx_g&md5v2=qk8sh80lFstJ6-RYraIehQ&expires=1781150456|Referer=https://resportz.cfd/live/stream-33.php&Origin=https://resportz.cfd/live/stream-33.php&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "isPrimary": false
+      },
+      {
+        "name": "Server 3 (Willow Live)",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ehfibbt64r/out/v1/242699d5a0484c3b8868d40d763d75cd/cenc.mpd?|drmScheme=clearkey&drmLicense=5be21df3f18ef64aaaaa30cbdaf128ed:7fac12f58b756a1a52d3150c7d3b0304",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1781153865857-1",
+    "matchName": "Australia vs Bangladesh",
+    "sportType": "Cricket",
+    "league": "BAN vs AUS",
+    "homeTeamName": "Australia",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/australia/logo.webp",
+    "awayTeamName": "Bangladesh",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
+    "isLive": true,
+    "isHot": false,
+    "startTime": "11:00 AM 09/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Server 1 (Tapmad)",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781154306~acl=/hls/*~hmac=d3d91a3a6d3b2de16bfb9fabe653a2b52d3d3d7cea74f07ad2e190476aff19ac",
+        "isPrimary": true
+      },
+      {
+        "name": "Server 2 (Willow Live)",
+        "url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jpt6zpxrd8/out/v1/2a70f9d752d245849a8492ad81a8bf3c/cenc.mpd?|drmScheme=clearkey&drmLicense=a2b04e262f023cf59a2226dff375b3be:5455b5b5f804c34e2324a1bed24f9da0",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1781153849376-0",
+    "matchName": "FIFA World Cup 2026 Opening Ceremony",
     "sportType": "Football",
-    "league": "International Friendly Games",
-    "homeTeamName": "Portugal",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4704/image",
-    "awayTeamName": "Nigeria",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4785/image",
+    "league": "Fifa World Cup",
+    "homeTeamName": "FIFA World Cup 2026 Opening Ceremony",
+    "homeTeamLogo": "https://cdn.img4every1.org/league/fifa-world-cup/logo.webp",
+    "awayTeamName": "Fifa World Cup",
+    "awayTeamLogo": "https://cdn.img4every1.org/league/fifa-world-cup/logo.webp",
     "isLive": false,
-    "isHot": true,
-    "startTime": "",
-    "link": "https://footfytv.live/watch/1221",
+    "isHot": false,
+    "startTime": "10:30 PM 11/06/2026",
+    "link": "",
     "streams": [
       {
         "name": "Main Stream",
-        "url": "",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "footfy-1781153003593-1",
-    "matchName": "Austria vs Guatemala",
-    "sportType": "Football",
-    "league": "International Friendly Games",
-    "homeTeamName": "Austria",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4718/image",
-    "awayTeamName": "Guatemala",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/5163/image",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "10:48 AM 11/06/2026",
-    "link": "https://footfytv.live/watch/1222",
-    "streams": [
-      {
-        "name": "Ivan-FluX",
-        "url": "https://backend.footfytv.live/proxy/direct?url=https%3A%2F%2Ffallback-video.ivan-fluxo.workers.dev%2Fvideo%2Findex.m3u8",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "footfy-1781153003593-2",
-    "matchName": "IND-A vs AFG-A",
-    "sportType": "Cricket",
-    "league": "TALENT TV CUP 2026",
-    "homeTeamName": "IND-A",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/213119/image",
-    "awayTeamName": "AFG-A",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187575/image",
-    "isLive": true,
-    "isHot": false,
-    "startTime": "10:48 AM 11/06/2026",
-    "link": "https://footfytv.live/watch/1140",
-    "streams": [
-      {
-        "name": "WILLOW FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dxxsherzzi/out/v1/96c8a12527d64e90aa7defbb5a4678eb/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "isPrimary": true
-      },
-      {
-        "name": "WILLOW [ALT]",
-        "url": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ehfibbt64r/out/v1/242699d5a0484c3b8868d40d763d75cd/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "isPrimary": false
-      },
-      {
-        "name": "WILLOW HD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER",
-        "url": "https://backend.footfytv.live/proxy/direct?url=http%3A%2F%2F193.47.62.59%2Fhls%2FZZZZQQ.m3u8&Referer=http%3A%2F%2Fwww.fawanews.sc%2F",
-        "isPrimary": false
-      },
-      {
-        "name": "SONYLIV [ENG]",
-        "url": "https://backend.footfytv.live/proxy/direct?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2037142%2Fcricodi1106%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1781194891%7Eacl%3D%2F*%7Eid%3D83726301575760378160297456854328%7Ehmac%3Db542b9609108722cac050a431f63e1e71bfd754d9d73e95205d6f9604de4bebb",
-        "isPrimary": false
-      },
-      {
-        "name": "SONYLIV [HIN]",
-        "url": "https://backend.footfytv.live/proxy/direct?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2018457%2Fcricodi1106%2FHIN%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1781194891%7Eacl%3D%2F*%7Eid%3D83726301575760378160297456854328%7Ehmac%3Db542b9609108722cac050a431f63e1e71bfd754d9d73e95205d6f9604de4bebb",
-        "isPrimary": false
-      },
-      {
-        "name": "SONYLIV [TAM]",
-        "url": "https://backend.footfytv.live/proxy/direct?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2105079%2Fcricodi1106%2FTAM%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1781194891%7Eacl%3D%2F*%7Eid%3D83726301575760378160297456854328%7Ehmac%3Db542b9609108722cac050a431f63e1e71bfd754d9d73e95205d6f9604de4bebb",
-        "isPrimary": false
-      },
-      {
-        "name": "SONYLIV [TEL]",
-        "url": "https://backend.footfytv.live/proxy/direct?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2037143%2Fcricodi1106%2FTEL%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1781194891%7Eacl%3D%2F*%7Eid%3D83726301575760378160297456854328%7Ehmac%3Db542b9609108722cac050a431f63e1e71bfd754d9d73e95205d6f9604de4bebb",
-        "isPrimary": false
-      },
-      {
-        "name": "SONYLIV [KAN]",
-        "url": "https://backend.footfytv.live/proxy/direct?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2105080%2Fcricodi1106%2FKAN%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1781194891%7Eacl%3D%2F*%7Eid%3D83726301575760378160297456854328%7Ehmac%3Db542b9609108722cac050a431f63e1e71bfd754d9d73e95205d6f9604de4bebb",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "footfy-1781153003593-3",
-    "matchName": "BAN vs AUS",
-    "sportType": "Cricket",
-    "league": "One Day International",
-    "homeTeamName": "BAN",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/187744/image",
-    "awayTeamName": "AUS",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187746/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "Starts In 00:16:00",
-    "link": "https://footfytv.live/watch/1131",
-    "streams": [
-      {
-        "name": "WILLOW FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gilgmkgjpm/out/v1/f3abf1b2f3fb497ba7207eb19d8b692b/cenc.mpd|drmScheme=clearkey&drmLicense=a2b04e262f023cf59a2226dff375b3be:5455b5b5f804c34e2324a1bed24f9da0",
-        "isPrimary": true
-      },
-      {
-        "name": "TNT SPORTS FHD",
-        "url": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd|drmScheme=clearkey&drmLicense=a2b04e262f023cf59a2226dff375b3be:5455b5b5f804c34e2324a1bed24f9da0",
-        "isPrimary": false
-      },
-      {
-        "name": "WILLOW [ALT]",
-        "url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jpt6zpxrd8/out/v1/2a70f9d752d245849a8492ad81a8bf3c/cenc.mpd|drmScheme=clearkey&drmLicense=a2b04e262f023cf59a2226dff375b3be:5455b5b5f804c34e2324a1bed24f9da0",
-        "isPrimary": false
-      },
-      {
-        "name": "FANCODE FHD",
-        "url": "https://backend.footfytv.live/proxy/direct?url=https%3A%2F%2Ffncd.kuvuslov.cymru%2Fmumbai%2F142965_english_hls_38de70fdb210605_1ta-di_h264%2Findex.m3u8&Origin=https%3A%2F%2Ffamcodexwebs.pages.dev",
-        "isPrimary": false
-      },
-      {
-        "name": "TNT SPORTS HD",
-        "url": "https://backend.footfytv.live/proxy/direct?url=https%3A%2F%2Ffncd.kuvuslov.cymru%2Fmumbai%2F142965_english_hls_38de70fdb210605_1ta-di_h264%2F240p.m3u8&Origin=https%3A%2F%2Ffamcodexwebs.pages.dev",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "footfy-1781153003593-4",
-    "matchName": "Venezuela U23 vs Japan U19",
-    "sportType": "Football",
-    "league": "U23 Toulon Tournament",
-    "homeTeamName": "Venezuela U23",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/332422/image",
-    "awayTeamName": "Japan U19",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/22523/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "Starts In 06:46:00",
-    "link": "https://footfytv.live/watch/1223",
-    "streams": [
-      {
-        "name": "Ivan-FluX",
-        "url": "https://backend.footfytv.live/proxy/direct?url=https%3A%2F%2Ffncd.kuvuslov.cymru%2Fmumbai%2F142965_english_hls_38de70fdb210605_1ta-di_h264%2F240p.m3u8&Origin=https%3A%2F%2Ffamcodexwebs.pages.dev",
-        "isPrimary": true
-      },
-      {
-        "name": "Server 2",
-        "url": "https://backend.footfytv.live/proxy/direct?url=https%3A%2F%2Ffncd.kuvuslov.cymru%2Fmumbai%2F142965_english_hls_38de70fdb210605_1ta-di_h264%2F240p-445254149.ts&Origin=https%3A%2F%2Ffamcodexwebs.pages.dev",
-        "isPrimary": false
-      },
-      {
-        "name": "Server 3",
-        "url": "https://backend.footfytv.live/proxy/direct?url=https%3A%2F%2Ffallback-video.ivan-fluxo.workers.dev%2Fvideo%2Findex.m3u8",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "footfy-1781153003593-5",
+    "id": "imported-1781153849377-1",
     "matchName": "Mexico vs South Africa",
     "sportType": "Football",
-    "league": "FIFA World Cup",
+    "league": "Fifa World Cup",
     "homeTeamName": "Mexico",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4781/image",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/mexico/logo.webp",
     "awayTeamName": "South Africa",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4736/image",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
     "isLive": false,
     "isHot": false,
-    "startTime": "Starts In 14:16:00",
-    "link": "https://footfytv.live/watch/887",
+    "startTime": "01:00 AM 12/06/2026",
+    "link": "",
     "streams": [
       {
-        "name": "TSN SPORTS FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003,ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1,4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
-      },
-      {
-        "name": "TELEMUNDO FHD",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd|drmScheme=clearkey&drmLicense=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003,ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1,4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-        "isPrimary": false
-      },
-      {
-        "name": "SporTV BR",
-        "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd|drmScheme=clearkey&drmLicense=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003,ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1,4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-        "isPrimary": false
-      },
-      {
-        "name": "CAZE TV FHD",
-        "url": "https://backend.footfytv.live/proxy/direct?url=https%3A%2F%2Fdfr80qz435crc.cloudfront.net%2FMNOP%2FAmagi%2FCaze%2FCaze_TV_BR%2F1080p-vtt%2Findex.m3u8",
-        "isPrimary": false
       }
     ]
   },
   {
-    "id": "footfy-1781153003593-6",
-    "matchName": "Brazil vs Panama",
+    "id": "imported-1781153849377-2",
+    "matchName": "Korea vs Czechia",
     "sportType": "Football",
-    "league": "International Friendly Games",
+    "league": "Fifa World Cup",
+    "homeTeamName": "South Korea",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/south-korea/logo.webp",
+    "awayTeamName": "Czechia",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "08:00 AM 12/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781153849377-3",
+    "matchName": "Canada vs Bosnia",
+    "sportType": "Football",
+    "league": "Fifa World Cup",
+    "homeTeamName": "Canada",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/canada/logo.webp",
+    "awayTeamName": "Bosnia and Herzegovina",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "01:00 AM 13/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781153849377-4",
+    "matchName": "USA vs Paraguay",
+    "sportType": "Football",
+    "league": "Fifa World Cup",
+    "homeTeamName": "USA",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/usa/logo.webp",
+    "awayTeamName": "Paraguay",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/paraguay/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "07:00 AM 13/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781153849377-5",
+    "matchName": "Qatar vs Switzerland",
+    "sportType": "Football",
+    "league": "Fifa World Cup",
+    "homeTeamName": "Qatar",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/qatar/logo.webp",
+    "awayTeamName": "Switzerland",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "01:00 AM 14/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781153849377-6",
+    "matchName": "Brazil vs Morocco",
+    "sportType": "Football",
+    "league": "Fifa World Cup",
     "homeTeamName": "Brazil",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4748/image",
-    "awayTeamName": "Panama",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/5164/image",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+    "awayTeamName": "Morocco",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/morocco/logo.webp",
     "isLive": false,
     "isHot": false,
-    "startTime": "",
-    "link": "https://footfytv.live/watch/919",
+    "startTime": "04:00 AM 14/06/2026",
+    "link": "",
     "streams": [
       {
         "name": "Main Stream",
-        "url": "",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "footfy-1781153003593-7",
-    "matchName": "ENG-W vs IND-W",
-    "sportType": "Cricket",
-    "league": "Twenty20 International Women",
-    "homeTeamName": "ENG-W",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/213121/image",
-    "awayTeamName": "IND-W",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/213119/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "",
-    "link": "https://footfytv.live/watch/847",
-    "streams": [
-      {
-        "name": "Main Stream",
-        "url": "",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "footfy-1781153003593-8",
-    "matchName": "WI-W vs PAK-W",
-    "sportType": "Cricket",
-    "league": "Women's T20I Tri-Series in Ireland",
-    "homeTeamName": "WI-W",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/213120/image",
-    "awayTeamName": "PAK-W",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187808/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "",
-    "link": "https://footfytv.live/watch/865",
-    "streams": [
-      {
-        "name": "Main Stream",
-        "url": "",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "footfy-1781153003593-9",
-    "matchName": "Morocco vs Norway",
+    "id": "imported-1781153849377-7",
+    "matchName": "Scotland vs Haiti",
     "sportType": "Football",
-    "league": "International Friendly Games",
-    "homeTeamName": "Morocco",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4778/image",
-    "awayTeamName": "Norway",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4475/image",
+    "league": "Fifa World Cup",
+    "homeTeamName": "Scotland",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+    "awayTeamName": "Haiti",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/haiti/logo.webp",
     "isLive": false,
     "isHot": false,
-    "startTime": "",
-    "link": "https://footfytv.live/watch/1078",
+    "startTime": "07:00 AM 14/06/2026",
+    "link": "",
     "streams": [
       {
         "name": "Main Stream",
-        "url": "",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "footfy-1781153003593-10",
-    "matchName": "Knicks vs Spurs",
-    "sportType": "Basketball",
-    "league": "NBA",
-    "homeTeamName": "Knicks",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3421/image",
-    "awayTeamName": "Spurs",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3429/image",
+    "id": "imported-1781153849378-8",
+    "matchName": "Australia vs Turkey",
+    "sportType": "Football",
+    "league": "Fifa World Cup",
+    "homeTeamName": "Australia",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/australia/logo.webp",
+    "awayTeamName": "Turkiye",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
     "isLive": false,
     "isHot": false,
-    "startTime": "",
-    "link": "https://footfytv.live/watch/1245",
+    "startTime": "10:00 AM 14/06/2026",
+    "link": "",
     "streams": [
       {
         "name": "Main Stream",
-        "url": "",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "footfy-1781153003593-11",
-    "matchName": "Rockies vs Cubs",
-    "sportType": "Baseball",
-    "league": "MLB",
-    "homeTeamName": "Rockies",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3628/image",
-    "awayTeamName": "Cubs",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3627/image",
+    "id": "imported-1781153849378-9",
+    "matchName": "Germany vs Curaçao",
+    "sportType": "Football",
+    "league": "Fifa World Cup",
+    "homeTeamName": "Germany",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/germany/logo.webp",
+    "awayTeamName": "Curaçao",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/curacao/logo.webp",
     "isLive": false,
     "isHot": false,
-    "startTime": "",
-    "link": "https://footfytv.live/watch/1238",
+    "startTime": "11:00 PM 14/06/2026",
+    "link": "",
     "streams": [
       {
         "name": "Main Stream",
-        "url": "",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781153849378-10",
+    "matchName": "Netherlands vs Japan",
+    "sportType": "Football",
+    "league": "Fifa World Cup",
+    "homeTeamName": "Netherlands",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
+    "awayTeamName": "Japan",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/japan/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "02:00 AM 15/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781153849378-11",
+    "matchName": "Côte d'Ivoire vs Ecuador",
+    "sportType": "Football",
+    "league": "Fifa World Cup",
+    "homeTeamName": "Côte d'Ivoire",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/cote-divoire/logo.webp",
+    "awayTeamName": "Ecuador",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/ecuador/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "05:00 AM 15/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781153865857-3",
+    "matchName": "2nd Test England vs New Zealand",
+    "sportType": "Cricket",
+    "league": "ENG vs NZ",
+    "homeTeamName": "England",
+    "homeTeamLogo": "https://cdn.img4every1.org/team/england/logo.webp",
+    "awayTeamName": "New Zealand",
+    "awayTeamLogo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "04:00 PM 17/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Main Stream",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
         "isPrimary": true
       }
     ]
