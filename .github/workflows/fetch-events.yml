@@ -1,0 +1,82 @@
+name: Fetch Events API
+
+on:
+  schedule:
+    # Runs every 5 minutes
+    - cron: '*/5 * * * *'
+  
+  # Allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+  
+  # Also run on push to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+    
+    # Give write permission to push changes
+    permissions:
+      contents: write
+    
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      # Step 2: Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # Step 3: Install dependencies
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Step 4: Create app-files directory if not exists
+      - name: Create app-files directory
+        run: mkdir -p app-files
+
+      # Step 5: Run the fetch script
+      - name: Fetch Events from API
+        run: python fetch_events.py
+
+      # Step 6: Check if events.json was created/modified
+      - name: Check Output File
+        run: |
+          if [ -f "app-files/events.json" ]; then
+            echo "✅ events.json found!"
+            echo "File size: $(wc -c < app-files/events.json) bytes"
+            echo "Event count: $(python -c "import json; data=json.load(open('app-files/events.json')); print(len(data))")"
+          else
+            echo "❌ events.json NOT found!"
+            exit 1
+          fi
+
+      # Step 7: Commit and push if there are changes
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add app-files/events.json
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+            EVENT_COUNT=$(python -c "import json; data=json.load(open('app-files/events.json')); print(len(data))")
+            git commit -m "🔄 Auto-update events.json | ${EVENT_COUNT} events | ${TIMESTAMP}"
+            git push
+            echo "✅ Changes pushed successfully!"
+          fi
