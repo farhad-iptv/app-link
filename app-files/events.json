@@ -1,43 +1,48 @@
 [
   {
-    "id": "imported-1781432655304-5",
-    "matchName": "ONE Friday Fights",
-    "sportType": "All Sports",
-    "league": "Boxing",
-    "homeTeamName": "Friday Fights",
-    "homeTeamLogo": "https://iili.io/FDjaT1R.md.png",
-    "awayTeamName": "Friday Fights",
-    "awayTeamLogo": "https://iili.io/FDjaT1R.md.png",
+    "id": "imported-1781541602781-0",
+    "matchName": "ENG vs NZ",
+    "sportType": "Cricket",
+    "league": "Cricket",
+    "homeTeamName": "ENG",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/187757/image",
+    "awayTeamName": "NZ",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187755/image",
     "isLive": false,
     "isHot": false,
-    "startTime": "06:30 PM 12/06/2026",
+    "startTime": "3:30 PM 17/06/2026",
     "link": "",
     "streams": [
       {
-        "name": "One Fight FHD",
-        "url": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd?|drmScheme=clearkey&drmLicense=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+        "name": "WILLOW FHD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7cafnduuey/out/v1/d4802616af6f42e091f768d43b451d20/cenc.mpd?|drmScheme=clearkey&drmLicense=81f0262e5a1b7c382ba1114e4ad061eb:824d4e6bf5bb20818f449d9628668ede",
         "isPrimary": true
       },
       {
-        "name": "ESPN SPORTS",
-        "url": "https://dice-live-oc.akamaized.net/hdntl=exp=1780134416~acl=%2F*~id=973bec32-7006-493b-b2ff-937f0e9af4bc~data=hdntl,dWlkPVJaUGF0anw5MTA3ZGE5OC0xOGYwLTRiNmItOTM1Ny1jOTZhOWIzZjRiMjUmaXA9MTgwLjE5MS4xMjcuMiZleHA9MTc4MDEzNDQ0NSZlaWQ9MzAyMTY1JmNpZD1kY2UudWZjJm9pZD0xNDgmdHlwZT1MSVZF~hmac=5e342fdc53d0060e048ff3fd9380a1d79d58b1d2fa20b6b9cc46640e6064ac75/dash/live/2093723/219038-321034/manifest-d.mpd?|drmScheme=clearkey&drmLicense=326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121",
+        "name": "WILLOW ALT",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/7cafnduuey/out/v1/d4802616af6f42e091f768d43b451d20/cenc.mpd?|drmScheme=clearkey&drmLicense=81f0262e5a1b7c382ba1114e4ad061eb:824d4e6bf5bb20818f449d9628668ede",
         "isPrimary": false
       },
       {
-        "name": "Server 2",
-        "url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd?|drmScheme=clearkey&drmLicense=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
+        "name": "SKY CRICKET HD",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
         "isPrimary": false
       },
       {
-        "name": "Server 3",
-        "url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd?|drmScheme=clearkey&drmLicense=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
+        "name": "SD SERVER",
+        "url": "http://193.47.62.59/hls/vavavaQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "isPrimary": false
+      },
+      {
+        "name": "FOX CRICKET HD",
+        "url": "https://cdn9859.shop/foxcricket.m3u8",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781432655304-4",
-    "matchName": "Bangladesh vs Australia",
+    "id": "imported-1781541602781-1",
+    "matchName": "BAN vs AUS",
     "sportType": "Cricket",
     "league": "Cricket",
     "homeTeamName": "BAN",
@@ -46,7 +51,7 @@
     "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187746/image",
     "isLive": false,
     "isHot": false,
-    "startTime": "11:00 AM 14/06/2026",
+    "startTime": "1:30 PM 17/06/2026",
     "link": "",
     "streams": [
       {
@@ -55,13 +60,8 @@
         "isPrimary": true
       },
       {
-        "name": "TNT Sports FHD",
+        "name": "TNT SPORTS FHD",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd?|drmScheme=clearkey&drmLicense=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
-        "isPrimary": false
-      },
-      {
-        "name": "WILLOW FHD [ALT]",
-        "url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/chuh09adm3/out/v1/4a3cef726289450fbc48e7dc0147fa0e/cenc.mpd?|drmScheme=clearkey&drmLicense=1c2072eebd0c39d2c984486dce6db1c6:4d559001220025d97bad51b564f5a25b",
         "isPrimary": false
       },
       {
@@ -70,18 +70,64 @@
         "isPrimary": false
       },
       {
+        "name": "WILLOW [ALT]",
+        "url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/chuh09adm3/out/v1/4a3cef726289450fbc48e7dc0147fa0e/cenc.mpd?|drmScheme=clearkey&drmLicense=1c2072eebd0c39d2c984486dce6db1c6:4d559001220025d97bad51b564f5a25b",
+        "isPrimary": false
+      },
+      {
+        "name": "FOX CRICKET HD",
+        "url": "https://cdn9859.shop/foxcricket.m3u8",
+        "isPrimary": false
+      },
+      {
         "name": "TNT SPORTS HD",
         "url": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
         "isPrimary": false
       },
       {
-        "name": "FANCODE - AQ",
-        "url": "https://fncd.kuvuslov.cymru/mumbai/142967_english_hls_3ca0c433b823669_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev",
+        "name": "SD SERVER",
+        "url": "http://193.47.62.59/hls/ubbba.m3u8|referer=http://www.fawanews.sc/",
         "isPrimary": false
       },
       {
-        "name": "SKY SPORTS HD",
-        "url": "https://cdn9859.shop/skynz2.m3u8",
+        "name": "FANCODE - BAN",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/142967_english_hls_3ca0c433b823669_1ta-di_h264/index.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "FANCODE - IND",
+        "url": "https://in-mc-flive.fancode.com/mumbai/142967_english_hls_3ca0c433b823669_1ta-di_h264/index.m3u8",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-2",
+    "matchName": "IND vs AFG",
+    "sportType": "Cricket",
+    "league": "Cricket",
+    "homeTeamName": "IND",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/187765/image",
+    "awayTeamName": "AFG",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187575/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "1:30 PM 17/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "WILLOW Ad Free",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfumc0t3cc/out/v1/f14dd22c77cb4138b316baf3c970304e/cenc.mpd?|drmScheme=clearkey&drmLicense=7e43190efc077a8e34d29efe88667f0d:bdc614e076190e536c7aca7f66ae3f88",
+        "isPrimary": true
+      },
+      {
+        "name": "TNT SPORTS FHD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd?|drmScheme=clearkey&drmLicense=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50",
+        "isPrimary": false
+      },
+      {
+        "name": "WILLOW [ALT]",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfumc0t3cc/out/v1/f14dd22c77cb4138b316baf3c970304e/cenc.mpd?|drmScheme=clearkey&drmLicense=7e43190efc077a8e34d29efe88667f0d:bdc614e076190e536c7aca7f66ae3f88",
         "isPrimary": false
       },
       {
@@ -91,90 +137,126 @@
       },
       {
         "name": "SD SERVER",
-        "url": "http://193.47.62.59/hls/ubbba.m3u8|Referer=http://www.fawanews.sc/",
+        "url": "http://193.47.62.43/hls/KKKKWQQ.m3u8|referer=http://www.fawanews.sc/",
+        "isPrimary": false
+      },
+      {
+        "name": "WILLOW SD",
+        "url": "http://95.133.241.239:8089/crc2/index.m3u8",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781432655305-16",
-    "matchName": "St Kilda Saints vs GWS Giants",
-    "sportType": "All Sports",
-    "league": "AFL",
-    "homeTeamName": "St Kilda",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4453/image",
-    "awayTeamName": "Giants",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/60170/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "11:15 AM 14/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "TNT Sports FHD",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd?|drmScheme=clearkey&drmLicense=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1781432655304-8",
-    "matchName": "Bangladesh W vs Netherlands W",
+    "id": "imported-1781541602781-3",
+    "matchName": "AFG-A vs IND-A",
     "sportType": "Cricket",
     "league": "Cricket",
-    "homeTeamName": "BAN-W",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/187809/image",
-    "awayTeamName": "NED-W",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/417753/image",
+    "homeTeamName": "AFG-A",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/187575/image",
+    "awayTeamName": "IND-A",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/213119/image",
     "isLive": false,
     "isHot": false,
-    "startTime": "03:30 PM 14/06/2026",
+    "startTime": "10:00 AM 17/06/2026",
     "link": "",
     "streams": [
       {
-        "name": "SKY CRICKET FHD",
-        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
+        "name": "WILLOW HD",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/stavpnwaob/out/v1/cf21f0ff7c1e4a9cb1ca45946fec6e91/cenc.mpd?|drmScheme=clearkey&drmLicense=fe6bf8b837ec95625844583c9933c63d:9dd28f6a34a092ba2ea958125a51daac",
         "isPrimary": true
       },
       {
-        "name": "WILLOW HD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+        "name": "SHAMSHAD TV",
+        "url": "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8",
         "isPrimary": false
       },
       {
-        "name": "WILLOW FHD",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hripyr3p6f/out/v1/a63c97caafe641d382637502cad21e54/cenc.mpd?|drmScheme=clearkey&drmLicense=e4a325647528c3d7a885cddfa665f45a:6dfd66af3635dda336dc8775382af4b9",
+        "name": "WILLOW [ALT]",
+        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/stavpnwaob/out/v1/cf21f0ff7c1e4a9cb1ca45946fec6e91/cenc.mpd?|drmScheme=clearkey&drmLicense=fe6bf8b837ec95625844583c9933c63d:9dd28f6a34a092ba2ea958125a51daac",
         "isPrimary": false
       },
       {
-        "name": "WILLOW FHD [ALT]",
-        "url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/dzyb02igop/out/v1/b997f6ddb52f4af88c0db614580fa615/cenc.mpd?|drmScheme=clearkey&drmLicense=a66095f78e3bd3cfdf04354f9d0619fa:d7e8ea4cf8bcebf30757f251384e7a0c",
+        "name": "SONYLIV [ENG]",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781539652~acl=/*~id=48499535787376785043699633831111~hmac=c33902d2be784a04675597e4498a4cf077109f5b1c6834b7dd5ee8cc3deaa2f1",
         "isPrimary": false
       },
       {
-        "name": "SKY NZ HD",
-        "url": "https://cdn9859.shop/skynz2.m3u8",
+        "name": "SONYLIV [HIN]",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi1506/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781539652~acl=/*~id=48499535787376785043699633831111~hmac=c33902d2be784a04675597e4498a4cf077109f5b1c6834b7dd5ee8cc3deaa2f1",
         "isPrimary": false
       },
       {
-        "name": "SD SERVER",
-        "url": "http://193.47.62.43/hls/JJJJF.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "name": "SONYLIV [TAM]",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi1506/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781539652~acl=/*~id=48499535787376785043699633831111~hmac=c33902d2be784a04675597e4498a4cf077109f5b1c6834b7dd5ee8cc3deaa2f1",
+        "isPrimary": false
+      },
+      {
+        "name": "SONYLIV [TEL]",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1506/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781539652~acl=/*~id=48499535787376785043699633831111~hmac=c33902d2be784a04675597e4498a4cf077109f5b1c6834b7dd5ee8cc3deaa2f1",
+        "isPrimary": false
+      },
+      {
+        "name": "SONYLIV [KAN]",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1506/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781539652~acl=/*~id=48499535787376785043699633831111~hmac=c33902d2be784a04675597e4498a4cf077109f5b1c6834b7dd5ee8cc3deaa2f1",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781432655304-0",
-    "matchName": "Formula 1 - SPAIN GP",
-    "sportType": "All Sports",
-    "league": "F1",
-    "homeTeamName": "Formula 1",
-    "homeTeamLogo": "https://scdnmain.net/assets/tournament/40-c.png",
-    "awayTeamName": "Formula 1",
-    "awayTeamLogo": "https://scdnmain.net/assets/tournament/40-c.png",
+    "id": "imported-1781541602781-4",
+    "matchName": "WI vs SL",
+    "sportType": "Cricket",
+    "league": "Cricket",
+    "homeTeamName": "WI",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/187760/image",
+    "awayTeamName": "SL",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187756/image",
     "isLive": false,
     "isHot": false,
-    "startTime": "06:50 PM 14/06/2026",
+    "startTime": "7:30 PM 25/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-5",
+    "matchName": "TSK vs SO",
+    "sportType": "Cricket",
+    "league": "Cricket",
+    "homeTeamName": "TSK",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/485010/image",
+    "awayTeamName": "SO",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/485014/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "6:00 AM 19/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-6",
+    "matchName": "Formula 1",
+    "sportType": "All Sports",
+    "league": "Formula 1",
+    "homeTeamName": "Formula 1",
+    "homeTeamLogo": "https://cdn-icons-png.flaticon.com/512/2418/2418779.png",
+    "awayTeamName": "Formula 1",
+    "awayTeamLogo": "https://cdn-icons-png.flaticon.com/512/2418/2418779.png",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "6:30 PM 14/06/2026",
     "link": "",
     "streams": [
       {
@@ -183,13 +265,33 @@
         "isPrimary": true
       },
       {
+        "name": "beIN SPORTS FHD",
+        "url": "https://RCG-BKS400-06.starhubgo.com/bpk-token/1ab@kjminpxbrbv3nm022hgilyq044kcdk11kxqdaxda/bpk-tv/BeINSportsHD/output/manifest.mpd?|drmScheme=clearkey&drmLicense=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48",
+        "isPrimary": false
+      },
+      {
         "name": "SKY SPORTS DE",
         "url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd?|drmScheme=clearkey&drmLicense=6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9",
         "isPrimary": false
       },
       {
-        "name": "SportzX F1 HD",
-        "url": "https://chatgpt.hereisman.net/playlist/51883/load-playlist?|Referer=https://gooz.aapmains.net",
+        "name": "FORMULA 1 HD",
+        "url": "https://chatgpt.hereisman.net/playlist/51883/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isPrimary": false
+      },
+      {
+        "name": "AUTO SERVER",
+        "url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/40aa2a2b-3054-481c-9d98-ddf12ac5ed88/master.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "SKY GERMAN FHD",
+        "url": "https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd?|drmScheme=clearkey&drmLicense=ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b",
+        "isPrimary": false
+      },
+      {
+        "name": "DAZN ESPANOL HD",
+        "url": "https://oe1.ossfeed.store/out/v2/2b8554438cb37f5ffc8c792962d2fabf/tracks-v0a0/mono.m3u8|referer=https://pushembdz.store/",
         "isPrimary": false
       },
       {
@@ -198,18 +300,8 @@
         "isPrimary": false
       },
       {
-        "name": "TSN SPORTS FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd?|drmScheme=clearkey&drmLicense=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
-        "isPrimary": false
-      },
-      {
         "name": "SKY SPORTS F1 UHD",
         "url": "http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=303265&extension=m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "ELEVEN SPORTS",
-        "url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd?|drmScheme=clearkey&drmLicense=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59",
         "isPrimary": false
       },
       {
@@ -223,959 +315,65 @@
         "isPrimary": false
       },
       {
-        "name": "Fox Sports - AQ",
+        "name": "FOX SPORTS AQ",
         "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd?|drmScheme=clearkey&drmLicense=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781432655305-15",
-    "matchName": "India W vs Pakistan W",
-    "sportType": "Cricket",
-    "league": "Cricket",
-    "homeTeamName": "IND-W",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/213119/image",
-    "awayTeamName": "PAK-W",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187808/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "07:30 PM 14/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "SKY CRICKET FHD",
-        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1781432655305-13",
-    "matchName": "Germany vs Curaçao",
+    "id": "imported-1781541602781-7",
+    "matchName": "Formula E",
     "sportType": "All Sports",
-    "league": "FIFA World Cup",
-    "homeTeamName": "Germany",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4711/image",
-    "awayTeamName": "Curaçao",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/55827/image",
+    "league": "Formula E",
+    "homeTeamName": "Formula E",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/category/1321/image",
+    "awayTeamName": "Formula E",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/category/1321/image",
     "isLive": false,
     "isHot": false,
-    "startTime": "11:00 PM 14/06/2026",
+    "startTime": "2:00 PM 19/06/2026",
     "link": "",
     "streams": [
       {
-        "name": "FIFA",
-        "url": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
+        "name": "ZIGGO SPORT 3",
+        "url": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,|drmScheme=clearkey&drmLicense=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1781432655305-14",
-    "matchName": "Netherlands vs Japan",
-    "sportType": "All Sports",
-    "league": "FIFA World Cup",
-    "homeTeamName": "Netherlands",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4705/image",
-    "awayTeamName": "Japan",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4770/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "02:00 AM 15/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FIFA",
-        "url": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1781432655304-9",
-    "matchName": "Côte d'Ivoire vs Ecuador",
-    "sportType": "All Sports",
-    "league": "FIFA World Cup",
-    "homeTeamName": "Côte d'Ivoire",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4768/image",
-    "awayTeamName": "Ecuador",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4757/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "05:00 AM 15/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "D Sports FHD",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd?|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "isPrimary": true
-      },
-      {
-        "name": "Vix Espanol FHD",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd?|drmScheme=clearkey&drmLicense=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?|drmScheme=clearkey&drmLicense=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-        "isPrimary": false
-      },
-      {
-        "name": "CRAVE AQ FHD",
-        "url": "https://a104live-pv-ta-amazon.akamaized.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xoxuubsye0/out/v1/2338e2a81148432d8e2178a3059b6edb/309a8d92-c45b-48bc-b5ac-4e8bb19ebf91-cenc.mpd??|drmScheme=clearkey&drmLicense=0ec2902098abb21c2716cf56547ba209:58195622dbd9996aa49376111e141e65",
-        "isPrimary": false
-      },
-      {
-        "name": "TELEMUNDO FHD",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "isPrimary": false
-      },
-      {
-        "name": "CAZE TV FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd?|drmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
-        "isPrimary": false
-      },
-      {
-        "name": "SporTV BR FHD",
-        "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?|drmScheme=clearkey&drmLicense=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-        "isPrimary": false
-      },
-      {
-        "name": "FOX SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/51184/load-playlist?|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      },
-      {
-        "name": "ITV SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/51875/load-playlist?|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-        "isPrimary": false
-      },
-      {
-        "name": "FOX SPORTS FHD",
-        "url": "https://lcdn-2.kumo.social/media/pass/fox/f35fed21fa194426.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "beIN MAX FHD",
-        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/h6T7bZ0AvqgNG6XoTNV9P_0FrTqrIkgZZ6aPQlJ8jzfhahwudRXkMIi-3-cXU4LNhY4FWV_-W9u53fPFEqlWfw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
-        "isPrimary": false
-      },
-      {
-        "name": "CAZE TV HD",
-        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "ZEE5 Bangla",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd?|drmScheme=clearkey&drmLicense=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-        "isPrimary": false
-      },
-      {
-        "name": "CANAL SPORTS",
-        "url": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd?|drmScheme=clearkey&drmLicense=2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS 3",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd?|drmScheme=clearkey&drmLicense=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
-        "isPrimary": false
-      },
-      {
-        "name": "RTVE SPANISH",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd?|drmScheme=clearkey&drmLicense=fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
-        "isPrimary": false
-      },
-      {
-        "name": "T SPORTS HD",
-        "url": "https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "Somoy TV",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS HD",
-        "url": "https://storage.googleapis.com/buzhyertynghsd/mux_video_ts/index-1.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "FAST SERVER 1",
-        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHSHZ37zq9DY.m3u8?txSecret=085a45c9d6551d87c61726a2eb83ec6e&txTime=6A2B2609",
-        "isPrimary": false
-      },
-      {
-        "name": "FAST SERVER 2",
-        "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4459820.m3u8?txSecret=668821e97544a999f1a9b31476006a51&txTime=6A2C502F",
-        "isPrimary": false
-      },
-      {
-        "name": "RAI ITALY FHD",
-        "url": "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "NU9VE ES FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd?|drmScheme=clearkey&drmLicense=79737d20a3eaa862f8cb77c61cb3b58c:41df11a0be44fd7272538728cec38bc6",
-        "isPrimary": false
-      },
-      {
-        "name": "VRT DUTCH FHD",
-        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd?|drmScheme=clearkey&drmLicense=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "isPrimary": false
-      },
-      {
-        "name": "ORF GERMAN HD",
-        "url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd?|drmScheme=clearkey&drmLicense=429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-        "isPrimary": false
-      },
-      {
-        "name": "ZDF GERMAN HD",
-        "url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd?|drmScheme=clearkey&drmLicense=c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-        "isPrimary": false
-      },
-      {
-        "name": "TRT SPORTS FHD",
-        "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "Unite8 Sports 1",
-        "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd?|drmScheme=clearkey&drmLicense=521f18ae33645cabdd064c1d3732556a:c67544333910f31f7e8c7ebfbc8b1876",
-        "isPrimary": false
-      },
-      {
-        "name": "UNiFy TV [IND]",
-        "url": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd?|drmScheme=clearkey&drmLicense=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
-        "isPrimary": false
-      },
-      {
-        "name": "beIN MAX HD",
-        "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "ENGLISH SD SERVER",
-        "url": "https://cdn.obstream.pro/live/yq97gcrutx.m3u8|referer=https://obstream.pro/",
-        "isPrimary": false
-      },
-      {
-        "name": "GERMAN SD SERVER",
-        "url": "https://cdn.obstream.pro/live/byunqmaemy.m3u8|referer=https://obstream.pro/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER [ENG]",
-        "url": "http://193.47.62.43/hls/zazaza.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER [ES]",
-        "url": "http://193.47.62.49/hls/zazazaedd.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER [SWAHLI]",
-        "url": "http://193.47.62.47/hls/zazazaeddd.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781432655304-2",
-    "matchName": "UFC Freedom 250: Topuria vs Gaethje",
-    "sportType": "All Sports",
-    "league": "UFC",
-    "homeTeamName": "I. Topuria",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/461872/image",
-    "awayTeamName": "J. Gaethje",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/466918/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "08:00 AM 15/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Main Stream",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1781432655305-10",
-    "matchName": "Sweden vs Tunisia",
-    "sportType": "All Sports",
-    "league": "FIFA World Cup",
-    "homeTeamName": "Sweden",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4688/image",
-    "awayTeamName": "Tunisia",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4729/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "08:00 AM 15/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FOX SPORTS FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd?|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "isPrimary": true
-      },
-      {
-        "name": "TELEMUNDO FHD",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "isPrimary": false
-      },
-      {
-        "name": "CIGNAL ENGLISH",
-        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd?|drmScheme=clearkey&drmLicense=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-        "isPrimary": false
-      },
-      {
-        "name": "D Sports FHD",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd?|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "isPrimary": false
-      },
-      {
-        "name": "CAZE TV FHD",
-        "url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd?|drmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
-        "isPrimary": false
-      },
-      {
-        "name": "FOX SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/51862/load-playlist?|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      },
-      {
-        "name": "ITV SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/51891/load-playlist?|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      },
-      {
-        "name": "ZEE5 Bangla",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd?|drmScheme=clearkey&drmLicense=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-        "isPrimary": false
-      },
-      {
-        "name": "ZEE5+ HINDI",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd?|drmScheme=clearkey&drmLicense=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
-        "isPrimary": false
-      },
-      {
-        "name": "HIMALIYA SPORTS",
-        "url": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd?|drmScheme=clearkey&drmLicense=220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306",
-        "isPrimary": false
-      },
-      {
-        "name": "FAST SERVER EN",
-        "url": "https://storage.googleapis.com/hynvessrworov1/mux_video_ts1/index-1.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "FAST SERVER 1",
-        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8L7PeMUSCn.m3u8?txSecret=a4c66b8d51235486091ed84739939f6b&txTime=6A2B8C39",
-        "isPrimary": false
-      },
-      {
-        "name": "FAST SERVER 2",
-        "url": "https://live.vivo200.com/live/hd-en-1-4460938.m3u8?txSecret=ed5ce752729f658ad9211f35a1064d0f&txTime=6A2B6A8D|referer=https://player.online909.com/",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/51888/load-playlist?|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS - AQ",
-        "url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?|drmScheme=clearkey&drmLicense=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS 5",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd?|drmScheme=clearkey&drmLicense=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
-        "isPrimary": false
-      },
-      {
-        "name": "TELEMUNDO ES FHD",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd?|drmScheme=clearkey&drmLicense=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "isPrimary": false
-      },
-      {
-        "name": "beIN MAX HD",
-        "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS",
-        "url": "https://emilyzooije054.s3.us-east-1.amazonaws.com/btsport.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "TIPIK FR FHD",
-        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd?|drmScheme=clearkey&drmLicense=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "isPrimary": false
-      },
-      {
-        "name": "WIN SPORT ES FHD",
-        "url": "https://362a33c2a385d7d1e52d89d18399caac6d7e6240.cdn.broadpeak.io/bcdn_token=wXicatWudpfabr0WFCdYvVzGduuaoe4-4wW0PV012zA&token_ignore_params=true&token_path=%2Fout%2Fv1%2F1f375ac45935404eb603d44841ced543%2F&expires=1781249235/out/v1/1f375ac45935404eb603d44841ced543/index.mpd?|drmScheme=clearkey&drmLicense=19ca642b3eba4f4d81637667a04fdd9e:a18d219ded2ebfa8f41db4a110324a9e",
-        "isPrimary": false
-      },
-      {
-        "name": "VRT DUTCH FHD",
-        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd?|drmScheme=clearkey&drmLicense=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "isPrimary": false
-      },
-      {
-        "name": "ORF GERMAN HD",
-        "url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd?|drmScheme=clearkey&drmLicense=429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-        "isPrimary": false
-      },
-      {
-        "name": "TRT SPORTS FHD",
-        "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "Unite8 Sports [HIN]",
-        "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd?|drmScheme=clearkey&drmLicense=521f18ae33645cabdd064c1d3732556a:c67544333910f31f7e8c7ebfbc8b1876",
-        "isPrimary": false
-      },
-      {
-        "name": "Unite8 Sports [ENG]",
-        "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd?|drmScheme=clearkey&drmLicense=501cb89acad2407e067c8ded661892f5:bfa0488efaae9ec16775747c80ee54a7",
-        "isPrimary": false
-      },
-      {
-        "name": "UNiFy TV [IND]",
-        "url": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd?|drmScheme=clearkey&drmLicense=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
-        "isPrimary": false
-      },
-      {
-        "name": "beIN MAX HD",
-        "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "ENGLISH SD SERVER",
-        "url": "https://cdn.obstream.pro/live/yq97gcrutx.m3u8|referer=https://obstream.pro/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER",
-        "url": "http://193.47.62.53/hls/zazaza.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "AZAM SPORT SD",
-        "url": "http://193.47.62.47/hls/zazazaeddd.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER FR",
-        "url": "http://193.47.62.53/hls/zazazaed.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "RTVE SPANISH",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd?|drmScheme=clearkey&drmLicense=fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781432655305-11",
-    "matchName": "Spain vs Cabo Verde",
-    "sportType": "All Sports",
-    "league": "FIFA World Cup",
-    "homeTeamName": "Spain",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4698/image",
-    "awayTeamName": "Cabo Verde",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4753/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "10:00 PM 15/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FOX ONE FHD",
-        "url": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd?|drmScheme=clearkey&drmLicense=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-        "isPrimary": true
-      },
-      {
-        "name": "TSN SPORTS FHD",
-        "url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?|drmScheme=clearkey&drmLicense=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-        "isPrimary": false
-      },
-      {
-        "name": "FOX ONE 4K",
-        "url": "https://a158live-pv-ta-amazon.akamaized.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1hqyvglfwr/out/v1/2314a5adddfa4ab2a6afa4b3dd52cbb6/50d06895-ef26-49b3-91b2-0d82a798b5c6-cenc.mpd?|drmScheme=clearkey&drmLicense=b984175de3216c35d8daf678c61c0b9a:f7ca11d77347793f637dd5a0dc7323ad",
-        "isPrimary": false
-      },
-      {
-        "name": "CIGNAL ENGLISH",
-        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd?|drmScheme=clearkey&drmLicense=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-        "isPrimary": false
-      },
-      {
-        "name": "TELEMUNDO FHD",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "isPrimary": false
-      },
-      {
-        "name": "CAZE TV FHD",
-        "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd?|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-        "isPrimary": false
-      },
-      {
-        "name": "D Sports FHD",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd?|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "isPrimary": false
-      },
-      {
-        "name": "TELEMUNDO SPANISH",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd?|drmScheme=clearkey&drmLicense=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "isPrimary": false
-      },
-      {
-        "name": "Vix Espanol FHD",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd?|drmScheme=clearkey&drmLicense=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS 1",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-        "isPrimary": false
-      },
-      {
-        "name": "Bein Arabic ",
-        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/0CIOQNy1KLjxRkUB81otvaJ9-4h-F6bGoxE9Il0ofW4YVFddBh0OxdlKnCRBdEPiPj_Y8nNWxlfo2q5S7Lz9Cw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
-        "isPrimary": false
-      },
-      {
-        "name": "HIMALIYA SPORTS",
-        "url": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd?|drmScheme=clearkey&drmLicense=220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306",
-        "isPrimary": false
-      },
-      {
-        "name": "ZEE5 Bangla",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd?|drmScheme=clearkey&drmLicense=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-        "isPrimary": false
-      },
-      {
-        "name": "ZEE5+ HINDI",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd?|drmScheme=clearkey&drmLicense=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
-        "isPrimary": false
-      },
-      {
-        "name": "RTVE SPANISH",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd?|drmScheme=clearkey&drmLicense=fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
-        "isPrimary": false
-      },
-      {
-        "name": "FOX SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/51898/load-playlist?|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      },
-      {
-        "name": "beIN MAX FHD",
-        "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "ITV SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/51899/load-playlist?|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/51898/load-playlist?|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      },
-      {
-        "name": "M6 FRANCE FHD",
-        "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd?|drmScheme=clearkey&drmLicense=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-        "isPrimary": false
-      },
-      {
-        "name": "TIPIK FR FHD",
-        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd?|drmScheme=clearkey&drmLicense=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "isPrimary": false
-      },
-      {
-        "name": "VRT DUTCH FHD",
-        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd?|drmScheme=clearkey&drmLicense=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "isPrimary": false
-      },
-      {
-        "name": "ORF GERMAN FHD",
-        "url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd?|drmScheme=clearkey&drmLicense=429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-        "isPrimary": false
-      },
-      {
-        "name": "TRT SPORTS FHD",
-        "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS 3",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd?|drmScheme=clearkey&drmLicense=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
-        "isPrimary": false
-      },
-      {
-        "name": "RAI 4k ITALIAN",
-        "url": "https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd`?|drmScheme=clearkey&drmLicense=0:0",
-        "isPrimary": false
-      },
-      {
-        "name": "RAI ITALIAN",
-        "url": "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "FAST SERVER 1",
-        "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4459824.m3u8?txSecret=2ff7459f70cf23a5fbef9372e7db0754&txTime=6A2D8BA1",
-        "isPrimary": false
-      },
-      {
-        "name": "BBC SPORTS HD",
-        "url": "https://cdn9859.shop/bbc1.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "Tsports HD",
-        "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "ZEE5 ENGLISH - IN",
-        "url": "https://falcon-en-conn.zee5.com/hls/live/2125511/CAN-vs-BIH-13-con_ENG/index-connected.m3u8?hdntl=exp=1781373516~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125511,CAN-vs-BIH-13-con,ENG,ffe2323923604da4834df2405189abcb1cb5c75e3d3cf28fc7c4467548a15304~hmac=c5669ee9d87ae2fe89b67c7a5dd323da43a3a06219565f53676034f7bc9cdb3c|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-        "isPrimary": false
-      },
-      {
-        "name": "ZEE5 HINDI - IN",
-        "url": "https://falcon-rol-all.zee5.com/hls/live/2125512/CAN-vs-BIH-13-con_HIN/index-connected.m3u8?hdntl=exp=1781373779~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125512,CAN-vs-BIH-13-con,HIN,18cae3aa4fa55731605e7e10bf757ac7add4cdde16f6e4d22a6454e04f800a0e~hmac=18dbe2cfe1954be420146953a83a7d86dfa5ece438b3e77209a9fd090a25484f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-        "isPrimary": false
-      },
-      {
-        "name": "ZEE5 BANGLA - IN",
-        "url": "https://falcon-rol-all.zee5.com/hls/live/2125513/CAN-vs-BIH-13-con_BEN/index-connected.m3u8?hdntl=exp=1781373862~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125513,CAN-vs-BIH-13-con,BEN,9f408479b0b6fafa358f3b5a77f2f691c66f09d7f94012c2c04eb5902f734292~hmac=8f534237f328e61301d85629d1d2ee47b00c1e691fb7018d9ee6a78443335aef|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-        "isPrimary": false
-      },
-      {
-        "name": "ZEE5 MAL - IN",
-        "url": "https://falcon-rol-all.zee5.com/hls/live/2125516/CAN-vs-BIH-13-con_MAL/index-connected.m3u8?hdntl=exp=1781374017~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125516,CAN-vs-BIH-13-con,MAL,2f31d4d5b2f10574d48d8553fff9942f3ec5e39787b33915513150aa476f977d~hmac=8f9088be2ae4340cee5bce935f381fba13403ca0eb34eada1f8285326d683966|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781432655304-6",
-    "matchName": "🥊 WWE Monday Night RAW",
-    "sportType": "All Sports",
-    "league": "WWE",
-    "homeTeamName": "WWE",
-    "homeTeamLogo": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
-    "awayTeamName": "WWE",
-    "awayTeamLogo": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "12:00 AM 16/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "SportzX RAW LIVE",
-        "url": "https://libgen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
-        "isPrimary": true
-      },
-      {
-        "name": "SportzX WWE",
-        "url": "https://chatgpt.hereisman.net/playlist/51178/load-playlist?|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
-        "isPrimary": false
-      },
-      {
-        "name": "SportzX HD",
-        "url": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
-        "isPrimary": false
-      },
-      {
-        "name": "Backup SD",
-        "url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-        "isPrimary": false
-      },
-      {
-        "name": "Tap Sport LQ",
-        "url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd?|drmScheme=clearkey&drmLicense=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781432655305-12",
-    "matchName": "Belgium vs Egypt",
-    "sportType": "All Sports",
-    "league": "FIFA World Cup",
-    "homeTeamName": "Belgium",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4717/image",
-    "awayTeamName": "Egypt",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4758/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "01:00 AM 16/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FOX ONE FHD",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd?|drmScheme=clearkey&drmLicense=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-        "isPrimary": true
-      },
-      {
-        "name": "TSN SPORTS FHD",
-        "url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?|drmScheme=clearkey&drmLicense=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-        "isPrimary": false
-      },
-      {
-        "name": "FOX ONE 4k",
-        "url": "https://a158live-pv-ta-amazon.akamaized.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xzdwr2zf3t/out/v1/b78800b9b2304879b15843f455836829/f13900a0-0e0e-4722-9caf-b8386c5efffa-cenc.mpd?|drmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "isPrimary": false
-      },
-      {
-        "name": "CIGNAL ENGLISH",
-        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd?|drmScheme=clearkey&drmLicense=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-        "isPrimary": false
-      },
-      {
-        "name": "TELEMUNDO FHD",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "isPrimary": false
-      },
-      {
-        "name": "CAZE TV FHD",
-        "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd?|drmScheme=clearkey&drmLicense=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
-        "isPrimary": false
-      },
-      {
-        "name": "D Sports FHD",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd?|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "isPrimary": false
-      },
-      {
-        "name": "SporTV BR FHD",
-        "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?|drmScheme=clearkey&drmLicense=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-        "isPrimary": false
-      },
-      {
-        "name": "TELEMUNDO SPANISH",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd?|drmScheme=clearkey&drmLicense=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "isPrimary": false
-      },
-      {
-        "name": "beIN MAX FHD",
-        "url": "https://karim-medialive-906655021013-apse2.s3.ap-southeast-2.amazonaws.com/live/ch1/ch1.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "FAST SERVER 1",
-        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHSUYSUPxiz2.m3u8?txSecret=48f1b9aea0f005137e81bee7a0ac4e71&txTime=6A2CD279",
-        "isPrimary": false
-      },
-      {
-        "name": "BBC SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/51932/load-playlist?|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      },
-      {
-        "name": "FOX SPORTS FHD",
-        "url": "https://lcdn-3.kumo.social/media/pass/fox/ddc285982de201da.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS 1",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/51900/load-playlist?|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      },
-      {
-        "name": "ZEE5 Bangla",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd?|drmScheme=clearkey&drmLicense=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-        "isPrimary": false
-      },
-      {
-        "name": "ZEE5+ HINDI",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd?|drmScheme=clearkey&drmLicense=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
-        "isPrimary": false
-      },
-      {
-        "name": "HIMALIYA SPORTS",
-        "url": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd?|drmScheme=clearkey&drmLicense=220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306",
-        "isPrimary": false
-      },
-      {
-        "name": "beIN MAX FHD",
-        "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "TIPIK FR FHD",
-        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd?|drmScheme=clearkey&drmLicense=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "isPrimary": false
-      },
-      {
-        "name": "Sporza DUTCH FHD",
-        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd?|drmScheme=clearkey&drmLicense=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "isPrimary": false
-      },
-      {
-        "name": "ORF GERMAN FHD",
-        "url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd?|drmScheme=clearkey&drmLicense=429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-        "isPrimary": false
-      },
-      {
-        "name": "TRT SPORTS FHD",
-        "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "FAST SERVER 2",
-        "url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4459827.m3u8?txSecret=a7c1b0d8f2a6b6f9f52473fae0a3081f&txTime=6A2DFC21",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS 3",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd?|drmScheme=clearkey&drmLicense=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS 5",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd?|drmScheme=clearkey&drmLicense=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
-        "isPrimary": false
-      },
-      {
-        "name": "UNiFy TV [IND]",
-        "url": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd?|drmScheme=clearkey&drmLicense=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
-        "isPrimary": false
-      },
-      {
-        "name": "CANAL SPORTS - AQ",
-        "url": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd?|drmScheme=clearkey&drmLicense=2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711",
-        "isPrimary": false
-      },
-      {
-        "name": "FOX SPORTS SD",
-        "url": "http://193.47.62.47/hls/QAQAQAZZZZ.m3u8|Referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "4DIRECT SWE SD",
-        "url": "http://193.47.62.59/hls/QAQAQAZZZ.m3u8|Referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "AZAM SPORTS SD",
-        "url": "http://193.47.62.47/hls/QAQAQAZZ.m3u8|Referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "beiN SPORTS FR",
-        "url": "http://193.47.62.59/hls/QAQAQAZ.m3u8|Referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "D SPORTS ES SD",
-        "url": "http://193.47.62.49/hls/QAQAQA.m3u8|Referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781432655304-3",
-    "matchName": "AEW Dynamite",
-    "sportType": "All Sports",
-    "league": "WWE",
-    "homeTeamName": "AEW",
-    "homeTeamLogo": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
-    "awayTeamName": "AEW",
-    "awayTeamLogo": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "06:00 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "TSN SPORTS",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd?|drmScheme=clearkey&drmLicense=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
-        "isPrimary": true
-      },
-      {
-        "name": "SportzX WWE",
-        "url": "https://sauce.loreofeldenring.site/dailymotion/live/playlist/11.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "Fox Sports Premium",
-        "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd?|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
-        "isPrimary": false
-      },
-      {
-        "name": "BACKUP HD",
-        "url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-        "isPrimary": false
-      },
-      {
-        "name": "BACKUP SD",
-        "url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781432655304-1",
-    "matchName": "MotoGP - Czech Republic Grand Prix",
+    "id": "imported-1781541602781-8",
+    "matchName": "MotoGP",
     "sportType": "All Sports",
     "league": "MotoGP",
     "homeTeamName": "MotoGP",
-    "homeTeamLogo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
+    "homeTeamLogo": "https://i.ibb.co/6chYXnTd/mgpp.png",
     "awayTeamName": "MotoGP",
-    "awayTeamLogo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
+    "awayTeamLogo": "https://i.ibb.co/6chYXnTd/mgpp.png",
     "isLive": false,
     "isHot": false,
-    "startTime": "02:45 PM 19/06/2026",
+    "startTime": "2:15 PM 19/06/2026",
     "link": "",
     "streams": [
       {
         "name": "MotoGP FHD",
-        "url": "https://a51live-emt-pv-ta-amazon.akamaized.net/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/p1p14jnre5/out/v1/8197c8e055c94a868623653ac55c10bf/348379f5-d2b8-43d7-87cf-13a978408def-cenc.mpd?aws.sessionId=ef9a77af-c2b9-4a87-8558-f47c6aec5a31?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+        "url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ma9hm9dbjq/out/v1/8197c8e055c94a868623653ac55c10bf/207d4ffa-ce86-4c01-8c69-d3f8ea453a23-cenc.mpd?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
         "isPrimary": true
       },
       {
-        "name": "TNT SPORTS - AQ",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+        "name": "TNT SPORTS FHD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd?|drmScheme=clearkey&drmLicense=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844",
         "isPrimary": false
       },
       {
         "name": "MotoGP FHD [ALT]",
-        "url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/p1p14jnre5/out/v1/8197c8e055c94a868623653ac55c10bf/348379f5-d2b8-43d7-87cf-13a978408def-cenc.mpd?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+        "url": "https://live-emt-pv-ta.amazon.fastly-edge.com/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/tsahgfupjt/out/v1/8197c8e055c94a868623653ac55c10bf/137cd3c3-d598-4662-b1f1-3de9f7cfb0e9-cenc.mpd?aws.sessionId=be8f4ec1-4439-4c3d-a492-31bc5d05c5d2|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+        "isPrimary": false
+      },
+      {
+        "name": "TNT SPORTS HD",
+        "url": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1034.m3u8",
         "isPrimary": false
       },
       {
@@ -1184,13 +382,13 @@
         "isPrimary": false
       },
       {
-        "name": "SPO TV - AQ",
+        "name": "SPO TV FHD",
         "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
         "isPrimary": false
       },
       {
-        "name": "ZIGGO SPORT - AQ",
-        "url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621?|drmScheme=clearkey&drmLicense=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
+        "name": "ZIGGO SPORT AQ",
+        "url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621|drmScheme=clearkey&drmLicense=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
         "isPrimary": false
       },
       {
@@ -1211,36 +409,222 @@
     ]
   },
   {
-    "id": "imported-1781432655304-7",
-    "matchName": "🥊 WWE Friday Night SmackDown",
+    "id": "imported-1781541602781-9",
+    "matchName": "WRC Rally",
     "sportType": "All Sports",
-    "league": "WWE",
-    "homeTeamName": "WWE",
-    "homeTeamLogo": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
-    "awayTeamName": "WWE",
-    "awayTeamLogo": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
+    "league": "WRC Rally",
+    "homeTeamName": "WRC",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/category/84/image",
+    "awayTeamName": "WRC",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/category/84/image",
     "isLive": false,
     "isHot": false,
-    "startTime": "06:00 AM 20/06/2026",
+    "startTime": "3:30 PM 28/05/2026",
     "link": "",
     "streams": [
       {
-        "name": "SportzX WWE HD",
-        "url": "https://chatgpt.hereisman.net/playlist/51926/load-playlist?|Referer=https://gooz.aapmains.net/",
+        "name": "RALLY TV",
+        "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
         "isPrimary": true
       },
       {
-        "name": "WWE LIVE HD",
-        "url": "https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+        "name": "TNT SPORTS 3",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?|drmScheme=clearkey&drmLicense=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-10",
+    "matchName": "Monday Night RAW",
+    "sportType": "All Sports",
+    "league": "Monday Night RAW",
+    "homeTeamName": "WWE RAW",
+    "homeTeamLogo": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png",
+    "awayTeamName": "WWE RAW",
+    "awayTeamLogo": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "11:30 PM 15/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "RAW LIVE HD",
+        "url": "https://libgen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+        "isPrimary": true
+      },
+      {
+        "name": "HD SERVER",
+        "url": "https://libgen.loreofeldenring.site/dailymotion/live/playlist/2.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "HD SERVER 2",
+        "url": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
+        "isPrimary": false
+      },
+      {
+        "name": "BACKUP SD",
+        "url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-11",
+    "matchName": "WWE NXT",
+    "sportType": "All Sports",
+    "league": "WWE NXT",
+    "homeTeamName": "WWE NXT",
+    "homeTeamLogo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+    "awayTeamName": "WWE NXT",
+    "awayTeamLogo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:30 AM 10/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "HD SERVER",
+        "url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
+        "isPrimary": true
+      },
+      {
+        "name": "BACKUP SD",
+        "url": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
         "isPrimary": false
       },
       {
         "name": "SD SERVER",
-        "url": "http://193.47.62.44/hls/RGREGREQZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
         "isPrimary": false
       },
       {
-        "name": "SportzX TV+ HD",
+        "name": "HD WWE",
+        "url": "https://602.shdigital.site/wwe.m3u8|referer=https://roxiestreams.info/",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-12",
+    "matchName": "AEW Dynamite",
+    "sportType": "All Sports",
+    "league": "AEW Dynamite",
+    "homeTeamName": "AEW",
+    "homeTeamLogo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
+    "awayTeamName": "AEW",
+    "awayTeamLogo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:30 AM 18/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "TSN SPORTS",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd?|drmScheme=clearkey&drmLicense=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+        "isPrimary": true
+      },
+      {
+        "name": "AEW LIVE",
+        "url": "https://sauce.loreofeldenring.site/dailymotion/live/playlist/11.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "FOX PREMIUM",
+        "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd?|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+        "isPrimary": false
+      },
+      {
+        "name": "BACKUP HD",
+        "url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+        "isPrimary": false
+      },
+      {
+        "name": "BACKUP SD",
+        "url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-13",
+    "matchName": "TNA iMPACT",
+    "sportType": "All Sports",
+    "league": "TNA iMPACT",
+    "homeTeamName": "TNA iMPACT",
+    "homeTeamLogo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+    "awayTeamName": "TNA iMPACT",
+    "awayTeamLogo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "4:30 AM 12/04/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "HD SERVER",
+        "url": "https://28ugbcsxrxra.windows-devs.top/AccessLog2/108086_HD/apache.m3u8|Referer=https://28ugbcsxrxra.windows-devs.top/",
+        "isPrimary": true
+      },
+      {
+        "name": "SD SERVER",
+        "url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108086_LQ/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-14",
+    "matchName": "One Friday Fights",
+    "sportType": "All Sports",
+    "league": "One Friday Fights",
+    "homeTeamName": "One Friday Fights",
+    "homeTeamLogo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+    "awayTeamName": "One Friday Fights",
+    "awayTeamLogo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "6:00 PM 19/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "One Fight FHD",
+        "url": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd?|drmScheme=clearkey&drmLicense=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
+        "isPrimary": true
+      },
+      {
+        "name": "SERVER 2",
+        "url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd?|drmScheme=clearkey&drmLicense=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-15",
+    "matchName": "Friday Night SmackDown",
+    "sportType": "All Sports",
+    "league": "Friday Night SmackDown",
+    "homeTeamName": "SmackDown",
+    "homeTeamLogo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
+    "awayTeamName": "SmackDown",
+    "awayTeamLogo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:30 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "WWE HD",
+        "url": "https://chatgpt.hereisman.net/playlist/51926/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net/",
+        "isPrimary": true
+      },
+      {
+        "name": "LIVE HD",
+        "url": "https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "BACKUP FHD",
         "url": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
         "isPrimary": false
       },
@@ -1258,6 +642,862 @@
         "name": "USA TV",
         "url": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd?|drmScheme=clearkey&drmLicense=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
         "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-16",
+    "matchName": "FIFA World CUP Opening Ceremany, 2026",
+    "sportType": "Football",
+    "league": "FIFA World CUP Opening Ceremany, 2026",
+    "homeTeamName": "FIFA World Cup",
+    "homeTeamLogo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
+    "awayTeamName": "FIFA World Cup",
+    "awayTeamLogo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:00 AM 13/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "TSN SPORTS FHD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?|drmScheme=clearkey&drmLicense=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+        "isPrimary": true
+      },
+      {
+        "name": "CIGNAL ENGLISH",
+        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd?|drmScheme=clearkey&drmLicense=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+        "isPrimary": false
+      },
+      {
+        "name": "FIFA LIVE",
+        "url": "https://chatgpt.hereisman.net/playlist/51893/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net/",
+        "isPrimary": false
+      },
+      {
+        "name": "CAZE TV FHD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd?|drmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+        "isPrimary": false
+      },
+      {
+        "name": "TELEMUNDO FHD",
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "isPrimary": false
+      },
+      {
+        "name": "TELEMUNDO ES",
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd?|drmScheme=clearkey&drmLicense=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "isPrimary": false
+      },
+      {
+        "name": "ZEE5 ENGLISH HD",
+        "url": "https://uplink.lazyspace.online/mytv/zee/stream.php?id=zee53",
+        "isPrimary": false
+      },
+      {
+        "name": "TUDN ESPANOL",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd?|drmScheme=clearkey&drmLicense=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
+        "isPrimary": false
+      },
+      {
+        "name": "RTVE SPANISH",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd?|drmScheme=clearkey&drmLicense=fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
+        "isPrimary": false
+      },
+      {
+        "name": "M6 FRANCE",
+        "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd?|drmScheme=clearkey&drmLicense=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+        "isPrimary": false
+      },
+      {
+        "name": "UNiFy TV [IND]",
+        "url": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd?|drmScheme=clearkey&drmLicense=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
+        "isPrimary": false
+      },
+      {
+        "name": "TIPIK FR FHD",
+        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd?|drmScheme=clearkey&drmLicense=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "isPrimary": false
+      },
+      {
+        "name": "RTVE SPANISH",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd?|drmScheme=clearkey&drmLicense=fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
+        "isPrimary": false
+      },
+      {
+        "name": "Bein MAX FHD",
+        "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-17",
+    "matchName": "Sweden vs Tunisia",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Sweden",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4688/image",
+    "awayTeamName": "Tunisia",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4729/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "7:30 AM 15/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FOX SPORTS FHD",
+        "url": "https://otte-tim.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd?|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "isPrimary": true
+      },
+      {
+        "name": "TSN SPORTS FHD",
+        "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=7b37e4614fcee2ec2ff6e5900c2f798f:f349a9c28c55c20b9a2c50af99d1fc76",
+        "isPrimary": false
+      },
+      {
+        "name": "FOX ENGLISH FHD",
+        "url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/laxpjik8el/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd?|drmScheme=clearkey&drmLicense=996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
+        "isPrimary": false
+      },
+      {
+        "name": "CIGNAL ENGLISH",
+        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd?|drmScheme=clearkey&drmLicense=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+        "isPrimary": false
+      },
+      {
+        "name": "FUSSBALL TV 4k",
+        "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd?|drmScheme=clearkey&drmLicense=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+        "isPrimary": false
+      },
+      {
+        "name": "CTV SPORTS FHD",
+        "url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd?|drmScheme=clearkey&drmLicense=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+        "isPrimary": false
+      },
+      {
+        "name": "TELEMUNDO FHD",
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "isPrimary": false
+      },
+      {
+        "name": "D SPORTS FHD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd?|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+        "isPrimary": false
+      },
+      {
+        "name": "Sportv BR FHD",
+        "url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?|drmScheme=clearkey&drmLicense=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "isPrimary": false
+      },
+      {
+        "name": "CAZE TV FHD",
+        "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd?|drmScheme=clearkey&drmLicense=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+        "isPrimary": false
+      },
+      {
+        "name": "FOX SPORTS HD",
+        "url": "https://chatgpt.hereisman.net/playlist/51862/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+        "isPrimary": false
+      },
+      {
+        "name": "ITV SPORTS HD",
+        "url": "https://chatgpt.hereisman.net/playlist/51891/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isPrimary": false
+      },
+      {
+        "name": "TELEMUNDO ES FHD",
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd?|drmScheme=clearkey&drmLicense=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "isPrimary": false
+      },
+      {
+        "name": "FAST SERVER",
+        "url": "https://storage.googleapis.com/hynvessrworov1/mux_video_ts1/index-1.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "TIPIK FR FHD",
+        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd?|drmScheme=clearkey&drmLicense=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "isPrimary": false
+      },
+      {
+        "name": "Sporza DUTCH FHD",
+        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd?|drmScheme=clearkey&drmLicense=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "isPrimary": false
+      },
+      {
+        "name": "VRT DUTCH FHD",
+        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd?|drmScheme=clearkey&drmLicense=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "isPrimary": false
+      },
+      {
+        "name": "ORF GERMAN HD",
+        "url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd?|drmScheme=clearkey&drmLicense=429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-18",
+    "matchName": "Spain vs Cabo Verde",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Spain",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4698/image",
+    "awayTeamName": "Cabo Verde",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4753/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "9:30 PM 15/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FOX ONE HD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd?|drmScheme=clearkey&drmLicense=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+        "isPrimary": true
+      },
+      {
+        "name": "FOX ONE 4K",
+        "url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/ifz2pnwgbv/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd?|drmScheme=clearkey&drmLicense=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+        "isPrimary": false
+      },
+      {
+        "name": "TSN SPORTS FHD",
+        "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=7b37e4614fcee2ec2ff6e5900c2f798f:f349a9c28c55c20b9a2c50af99d1fc76",
+        "isPrimary": false
+      },
+      {
+        "name": "CIGNAL ENGLISH",
+        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd?|drmScheme=clearkey&drmLicense=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+        "isPrimary": false
+      },
+      {
+        "name": "TELEMUNDO FHD",
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "isPrimary": false
+      },
+      {
+        "name": "FOX SPORTS FHD",
+        "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd?|drmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+        "isPrimary": false
+      },
+      {
+        "name": "ZEE BANGLA",
+        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "D SPORTS FHD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd?|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+        "isPrimary": false
+      },
+      {
+        "name": "CazéTV BR FHD",
+        "url": "https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd?|drmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+        "isPrimary": false
+      },
+      {
+        "name": "CTV SPORTS FHD",
+        "url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd?|drmScheme=clearkey&drmLicense=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+        "isPrimary": false
+      },
+      {
+        "name": "Sporza DUTCH FHD",
+        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd?|drmScheme=clearkey&drmLicense=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "isPrimary": false
+      },
+      {
+        "name": "ITV SPORTS UK",
+        "url": "https://chatgpt.hereisman.net/playlist/52061/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isPrimary": false
+      },
+      {
+        "name": "TSN SPORTS HD",
+        "url": "https://chatgpt.hereisman.net/playlist/52062/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isPrimary": false
+      },
+      {
+        "name": "FAST SERVER",
+        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJNZjHVQHrN.m3u8?txSecret=23ea78b82e88b8fd10a97b9cbfbd0593&txTime=6A304689",
+        "isPrimary": false
+      },
+      {
+        "name": "SPAIN LIVE",
+        "url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+        "isPrimary": false
+      },
+      {
+        "name": "Match Football FHD",
+        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd?|drmScheme=clearkey&drmLicense=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
+        "isPrimary": false
+      },
+      {
+        "name": "ORF GERMAN FHD",
+        "url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd?|drmScheme=clearkey&drmLicense=429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+        "isPrimary": false
+      },
+      {
+        "name": "TIPIK FR FHD",
+        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd?|drmScheme=clearkey&drmLicense=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "isPrimary": false
+      },
+      {
+        "name": "VRT DUTCH FHD",
+        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd?|drmScheme=clearkey&drmLicense=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "isPrimary": false
+      },
+      {
+        "name": "M6 FRANCE FHD",
+        "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd?|drmScheme=clearkey&drmLicense=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+        "isPrimary": false
+      },
+      {
+        "name": "VIX SPANISH FHD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd?|drmScheme=clearkey&drmLicense=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
+        "isPrimary": false
+      },
+      {
+        "name": "UNiFy TV [IND]",
+        "url": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd?|drmScheme=clearkey&drmLicense=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
+        "isPrimary": false
+      },
+      {
+        "name": "SporTV BR FHD",
+        "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?|drmScheme=clearkey&drmLicense=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "isPrimary": false
+      },
+      {
+        "name": "TELEMUNDO ES",
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd?|drmScheme=clearkey&drmLicense=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "isPrimary": false
+      },
+      {
+        "name": "ZDF GERMAN FHD",
+        "url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd?|drmScheme=clearkey&drmLicense=c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+        "isPrimary": false
+      },
+      {
+        "name": "JOJ SPORTS FHD",
+        "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "isPrimary": false
+      },
+      {
+        "name": "HD LIVE",
+        "url": "https://live12.szyac.com/live/85042987.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "ITV SPORTS SD",
+        "url": "http://193.47.62.41/hls/GGGDDDD.m3u8?|referer=http://www.fawanews.sc/",
+        "isPrimary": false
+      },
+      {
+        "name": "SD SERVER [ENG]",
+        "url": "http://193.47.62.52/hls/GGGDDDD.m3u8?|referer=http://www.fawanews.sc/",
+        "isPrimary": false
+      },
+      {
+        "name": "SD SERVER [ES]",
+        "url": "http://193.47.62.44/hls/GGGD.m3u8?|referer=http://www.fawanews.sc/",
+        "isPrimary": false
+      },
+      {
+        "name": "SD SERVER [SWAHLI]",
+        "url": "http://193.47.62.44/hls/GGGDDD.m3u8?|referer=http://www.fawanews.sc/",
+        "isPrimary": false
+      },
+      {
+        "name": "UNITE8 SPORTS HINDI 🇮🇳",
+        "url": "https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781524499&token=2fbbde18a8152281ce07cc3eb921c406629c27c6421dbb2f252033bd6656973a&exp=1784548499&Powered-by-StreamFlex=363ee5f18d5a2e999d4cdc1159cda91c2f99623a15b41357d593596e17bd2af0",
+        "isPrimary": false
+      },
+      {
+        "name": "UNITE8 SPORTS ENGLISH 🇮🇳",
+        "url": "https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports2-HD&ts=1781525061&token=b28fdf6bc7b984ffd188cb0e61f347cd70a02e11b92fb845f57ca034ab4567de&exp=1784549061&Powered-by-StreamFlex=a87a429cd596929edf1578bd3b9dd296242401a3aead4003969b2c4a780b2871",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-19",
+    "matchName": "Belgium vs Egypt",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Belgium",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4717/image",
+    "awayTeamName": "Egypt",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4758/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "12:30 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-20",
+    "matchName": "Saudi Arabia vs Uruguay",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Saudi Arabia",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4834/image",
+    "awayTeamName": "Uruguay",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4725/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "3:30 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-21",
+    "matchName": "Iran vs New Zealand",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Iran",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4766/image",
+    "awayTeamName": "New Zealand",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4784/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "6:30 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-22",
+    "matchName": "AUS-W vs BAN-W",
+    "sportType": "Cricket",
+    "league": "Cricket",
+    "homeTeamName": "AUS-W",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/213117/image",
+    "awayTeamName": "BAN-W",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187809/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "3:00 PM 17/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-23",
+    "matchName": "NZ-W vs SL-W",
+    "sportType": "Cricket",
+    "league": "Cricket",
+    "homeTeamName": "NZ-W",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/213115/image",
+    "awayTeamName": "SL-W",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187806/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "7:00 PM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-24",
+    "matchName": "ENG-W vs IRE-W",
+    "sportType": "Cricket",
+    "league": "Cricket",
+    "homeTeamName": "ENG-W",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/213121/image",
+    "awayTeamName": "IRE-W",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/213116/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "11:00 PM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-25",
+    "matchName": "Austria vs Jordan",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Austria",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4718/image",
+    "awayTeamName": "Jordan",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4771/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "9:30 AM 17/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-26",
+    "matchName": "Argentina vs Algeria",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Argentina",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4819/image",
+    "awayTeamName": "Algeria",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4691/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "6:30 AM 17/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-27",
+    "matchName": "Iraq vs Norway",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Iraq",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4767/image",
+    "awayTeamName": "Norway",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4475/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "3:30 AM 17/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-28",
+    "matchName": "France vs Senegal",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "France",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4481/image",
+    "awayTeamName": "Senegal",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4739/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "12:30 AM 17/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-29",
+    "matchName": "Dodgers vs Rays",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Dodgers",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3638/image",
+    "awayTeamName": "Rays",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3653/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "7:40 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-30",
+    "matchName": "Athletics vs Pirates",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Athletics",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3645/image",
+    "awayTeamName": "Pirates",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3637/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "7:10 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-31",
+    "matchName": "Phillies vs Marlins",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Phillies",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3635/image",
+    "awayTeamName": "Marlins",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3639/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "4:10 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-32",
+    "matchName": "Astros vs Tigers",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Astros",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3655/image",
+    "awayTeamName": "Tigers",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3648/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:40 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-33",
+    "matchName": "Cubs vs Rockies",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Cubs",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3627/image",
+    "awayTeamName": "Rockies",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3628/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:35 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-34",
+    "matchName": "Diamondbacks vs Angels",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Diamondbacks",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3640/image",
+    "awayTeamName": "Angels",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/5929/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "7:10 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-35",
+    "matchName": "Reds vs Mets",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Reds",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3633/image",
+    "awayTeamName": "Mets",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3629/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "4:40 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-36",
+    "matchName": "Cardinals vs Padres",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Cardinals",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3632/image",
+    "awayTeamName": "Padres",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3636/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:15 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-37",
+    "matchName": "Nationals vs Royals",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Nationals",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/5930/image",
+    "awayTeamName": "Royals",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3651/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "4:15 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-38",
+    "matchName": "Rangers vs Twins",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Rangers",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3647/image",
+    "awayTeamName": "Twins",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3649/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:35 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-39",
+    "matchName": "Valkyries vs Sparks",
+    "sportType": "All Sports",
+    "league": "WNBA",
+    "homeTeamName": "Valkyries",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/1041936/image",
+    "awayTeamName": "Sparks",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3447/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "7:30 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-40",
+    "matchName": "Lynx vs Fire",
+    "sportType": "All Sports",
+    "league": "WNBA",
+    "homeTeamName": "Lynx",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3440/image",
+    "awayTeamName": "Fire",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/1166446/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:30 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781541602781-41",
+    "matchName": "Wings vs Las Vegas",
+    "sportType": "All Sports",
+    "league": "WNBA",
+    "homeTeamName": "Wings",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3450/image",
+    "awayTeamName": "Las Vegas",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/35550/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:30 AM 16/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
       }
     ]
   }
