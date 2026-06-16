@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1781639581925-0",
+    "id": "imported-1781648223525-0",
     "matchName": "ENG vs NZ",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-1",
+    "id": "imported-1781648223525-1",
     "matchName": "BAN vs AUS",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -102,7 +102,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-2",
+    "id": "imported-1781648223525-2",
     "matchName": "IND vs AFG",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -148,7 +148,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-3",
+    "id": "imported-1781648223525-3",
     "matchName": "AFG-A vs IND-A",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -204,7 +204,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-4",
+    "id": "imported-1781648223525-4",
     "matchName": "WI vs SL",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -225,7 +225,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-5",
+    "id": "imported-1781648223525-5",
     "matchName": "TSK vs SO",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -246,7 +246,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-6",
+    "id": "imported-1781648223525-6",
     "matchName": "Formula 1",
     "sportType": "All Sports",
     "league": "Formula 1",
@@ -322,7 +322,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-7",
+    "id": "imported-1781648223525-7",
     "matchName": "Formula E",
     "sportType": "All Sports",
     "league": "Formula E",
@@ -343,7 +343,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-8",
+    "id": "imported-1781648223525-8",
     "matchName": "MotoGP",
     "sportType": "All Sports",
     "league": "MotoGP",
@@ -409,7 +409,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-9",
+    "id": "imported-1781648223525-9",
     "matchName": "WRC Rally",
     "sportType": "All Sports",
     "league": "WRC Rally",
@@ -435,7 +435,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-10",
+    "id": "imported-1781648223525-10",
     "matchName": "Monday Night RAW",
     "sportType": "All Sports",
     "league": "Monday Night RAW",
@@ -476,7 +476,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-11",
+    "id": "imported-1781648223525-11",
     "matchName": "WWE NXT",
     "sportType": "All Sports",
     "league": "WWE NXT",
@@ -512,7 +512,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-12",
+    "id": "imported-1781648223525-12",
     "matchName": "AEW Dynamite",
     "sportType": "All Sports",
     "league": "AEW Dynamite",
@@ -553,7 +553,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-13",
+    "id": "imported-1781648223525-13",
     "matchName": "TNA iMPACT",
     "sportType": "All Sports",
     "league": "TNA iMPACT",
@@ -579,7 +579,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-14",
+    "id": "imported-1781648223525-14",
     "matchName": "One Friday Fights",
     "sportType": "All Sports",
     "league": "One Friday Fights",
@@ -605,7 +605,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-15",
+    "id": "imported-1781648223525-15",
     "matchName": "Friday Night SmackDown",
     "sportType": "All Sports",
     "league": "Friday Night SmackDown",
@@ -651,7 +651,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-16",
+    "id": "imported-1781648223525-16",
     "matchName": "AUS-W vs BAN-W",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -672,7 +672,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-17",
+    "id": "imported-1781648223525-17",
     "matchName": "NZ-W vs SL-W",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -708,7 +708,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-18",
+    "id": "imported-1781648223525-18",
     "matchName": "ENG-W vs IRE-W",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -739,7 +739,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-19",
+    "id": "imported-1781648223525-19",
     "matchName": "France vs Senegal",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -906,11 +906,188 @@
         "name": "D SPORTS ES SD",
         "url": "http://193.47.62.44/hls/hkkk.m3u8?|Referer=http://www.fawanews.sc/",
         "isPrimary": false
+      },
+      {
+        "name": "ZEE CINEMA HINDI 🇮🇳",
+        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/masterblacked.com.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "UNITE8 SPORTS ENGLISH FHD 🇮🇳",
+        "url": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_832/clear/index.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "UNITE8 SPORTS HINDI FHD 🇮🇳",
+        "url": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_835/clear/index.m3u8",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781639581925-20",
+    "id": "imported-1781648223525-20",
+    "matchName": "Iraq vs Norway",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Iraq",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4767/image",
+    "awayTeamName": "Norway",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4475/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "3:30 AM 17/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FOX ONE HD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd?|drmScheme=clearkey&drmLicense=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+        "isPrimary": true
+      },
+      {
+        "name": "Telemundo ES",
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd?|drmScheme=clearkey&drmLicense=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "isPrimary": false
+      },
+      {
+        "name": "D Sports FHD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd?|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+        "isPrimary": false
+      },
+      {
+        "name": "CAZE TV FHD",
+        "url": "https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd?|drmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+        "isPrimary": false
+      },
+      {
+        "name": "FOX ONE 4K",
+        "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0zyzcgeq2w/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd?|drmScheme=clearkey&drmLicense=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+        "isPrimary": false
+      },
+      {
+        "name": "TSN SPORTS FHD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "isPrimary": false
+      },
+      {
+        "name": "CIGNAL ENGLISH",
+        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd?|drmScheme=clearkey&drmLicense=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+        "isPrimary": false
+      },
+      {
+        "name": "ZEE5 BANGLA",
+        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd?|drmScheme=clearkey&drmLicense=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+        "isPrimary": false
+      },
+      {
+        "name": "IRIB 4K",
+        "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "TELEMUNDO FHD",
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "isPrimary": false
+      },
+      {
+        "name": "ORF GERMAN - AQ",
+        "url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd?|drmScheme=clearkey&drmLicense=429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+        "isPrimary": false
+      },
+      {
+        "name": "FAST SERVER",
+        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJKKZvVkJrr.m3u8?txSecret=6b416caa450adb7df4103cfe25d383ff&txTime=6A2E4631",
+        "isPrimary": false
+      },
+      {
+        "name": "TIPIK FR FHD",
+        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd?|drmScheme=clearkey&drmLicense=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "isPrimary": false
+      },
+      {
+        "name": "FOX SPORTS FHD",
+        "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd?|drmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+        "isPrimary": false
+      },
+      {
+        "name": "Sporza DUTCH FHD",
+        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd?|drmScheme=clearkey&drmLicense=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "isPrimary": false
+      },
+      {
+        "name": "M6 FRANCE - AQ",
+        "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd?|drmScheme=clearkey&drmLicense=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+        "isPrimary": false
+      },
+      {
+        "name": "TELEMUNDO SPANISH",
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd?|drmScheme=clearkey&drmLicense=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "isPrimary": false
+      },
+      {
+        "name": "VRT DUTCH FHD",
+        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd?|drmScheme=clearkey&drmLicense=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "isPrimary": false
+      },
+      {
+        "name": "beIN MAX FHD",
+        "url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "Match Football FHD",
+        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd?|drmScheme=clearkey&drmLicense=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
+        "isPrimary": false
+      },
+      {
+        "name": "RTB GOLIVE FHD",
+        "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "UNITE8 SPORTS ENGLISH 🇮🇳",
+        "url": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_832/clear/index.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "UNITE8 SPORTS HINDI 🇮🇳",
+        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/masterblacked.com.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "MATCH! FUTBOL HD",
+        "url": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "beIN ARABIC - AQ",
+        "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
+        "isPrimary": false
+      }
+    ]
+  },
+  {
+    "id": "imported-1781648223525-21",
+    "matchName": "Argentina vs Algeria",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Argentina",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4819/image",
+    "awayTeamName": "Algeria",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4691/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "6:30 AM 17/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "FOX ONE HD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd?|drmScheme=clearkey&drmLicense=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781648223525-22",
     "matchName": "Austria vs Jordan",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -931,49 +1108,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-21",
-    "matchName": "Argentina vs Algeria",
-    "sportType": "Football",
-    "league": "FIFA World Cup",
-    "homeTeamName": "Argentina",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4819/image",
-    "awayTeamName": "Algeria",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4691/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "6:30 AM 17/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Ivan-FluX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1781639581925-22",
-    "matchName": "Iraq vs Norway",
-    "sportType": "Football",
-    "league": "FIFA World Cup",
-    "homeTeamName": "Iraq",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4767/image",
-    "awayTeamName": "Norway",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4475/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "3:30 AM 17/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Ivan-FluX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1781639581925-23",
+    "id": "imported-1781648223525-23",
     "matchName": "Ghana vs Panama",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -994,7 +1129,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-24",
+    "id": "imported-1781648223525-24",
     "matchName": "Uzbekistan vs Colombia",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1015,7 +1150,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-25",
+    "id": "imported-1781648223525-25",
     "matchName": "England vs Croatia",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1036,7 +1171,7 @@
     ]
   },
   {
-    "id": "imported-1781639581925-26",
+    "id": "imported-1781648223525-26",
     "matchName": "Portugal vs DR Congo",
     "sportType": "Football",
     "league": "FIFA World Cup",
