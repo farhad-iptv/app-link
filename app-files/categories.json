@@ -33,7 +33,7 @@
     "id": "cat10",
     "name": "AynaOTT",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27-mocEawfrIZVJyj3rPenbC3S2Bppw7Bjw&s",
-    "playlistUrl": "https://raw.githubusercontent.com/srhady/AynaOTT/refs/heads/main/aynaott.m3u"
+    "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u"
   },
   {
     "id": "cat4",
@@ -63,7 +63,7 @@
     "id": "cat7",
     "name": "Fancode",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm74p4p_2DIpyQnp4AXwGijzO8jaOm_UytCQ&s",
-    "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/refs/heads/main/FanCode.m3u"
+    "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/refs/heads/main/fancode_bd.m3u"
   },
   {
     "id": "cat8",
