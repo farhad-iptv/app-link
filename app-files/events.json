@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1781672667926-0",
+    "id": "imported-1781690690952-0",
     "matchName": "ENG vs NZ",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-1",
+    "id": "imported-1781690690952-1",
     "matchName": "BAN vs AUS",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -56,13 +56,8 @@
     "streams": [
       {
         "name": "WILLOW FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chuh09adm3/out/v1/4a3cef726289450fbc48e7dc0147fa0e/cenc.mpd?|drmScheme=clearkey&drmLicense=1c2072eebd0c39d2c984486dce6db1c6:4d559001220025d97bad51b564f5a25b",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iwadsxrgxx/out/v1/062b2d5295514517be083d85f771efa9/cenc.mpd?|drmScheme=clearkey&drmLicense=083ee449dcf61d6d0cc1c447791706df:be3fb9332ddba5bc1c9a0f6cc6c924bf",
         "isPrimary": true
-      },
-      {
-        "name": "TNT SPORTS FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd?|drmScheme=clearkey&drmLicense=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
-        "isPrimary": false
       },
       {
         "name": "FANCODE FHD",
@@ -70,18 +65,8 @@
         "isPrimary": false
       },
       {
-        "name": "WILLOW [ALT]",
-        "url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/chuh09adm3/out/v1/4a3cef726289450fbc48e7dc0147fa0e/cenc.mpd?|drmScheme=clearkey&drmLicense=1c2072eebd0c39d2c984486dce6db1c6:4d559001220025d97bad51b564f5a25b",
-        "isPrimary": false
-      },
-      {
-        "name": "FOX CRICKET HD",
-        "url": "https://cdn9859.shop/foxcricket.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "TNT SPORTS HD",
-        "url": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
+        "name": "TNT SPORTS FHD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd?|drmScheme=clearkey&drmLicense=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca",
         "isPrimary": false
       },
       {
@@ -91,18 +76,18 @@
       },
       {
         "name": "FANCODE - BAN",
-        "url": "https://bd-mc-flive.fancode.com/mumbai/142967_english_hls_3ca0c433b823669_1ta-di_h264/index.m3u8",
+        "url": "https://bd-mc-fblive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8",
         "isPrimary": false
       },
       {
         "name": "FANCODE - IND",
-        "url": "https://in-mc-flive.fancode.com/mumbai/142967_english_hls_3ca0c433b823669_1ta-di_h264/index.m3u8",
+        "url": "https://in-mc-fblive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781672667926-2",
+    "id": "imported-1781690690952-2",
     "matchName": "IND vs AFG",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -116,23 +101,18 @@
     "link": "",
     "streams": [
       {
-        "name": "WILLOW Ad Free",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfumc0t3cc/out/v1/f14dd22c77cb4138b316baf3c970304e/cenc.mpd?|drmScheme=clearkey&drmLicense=7e43190efc077a8e34d29efe88667f0d:bdc614e076190e536c7aca7f66ae3f88",
+        "name": "WILLOW FHD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ztb9jtlusq/out/v1/80da27cef04449a5abf3bea2c70e19cd/cenc.mpd?|drmScheme=clearkey&drmLicense=458e0f22edc0799b9c33656bb9e202a1:4af50d29813b200a8f1687da4573b155",
         "isPrimary": true
       },
       {
         "name": "TNT SPORTS FHD",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd?|drmScheme=clearkey&drmLicense=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd?|drmScheme=clearkey&drmLicense=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
         "isPrimary": false
       },
       {
-        "name": "WILLOW [ALT]",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfumc0t3cc/out/v1/f14dd22c77cb4138b316baf3c970304e/cenc.mpd?|drmScheme=clearkey&drmLicense=7e43190efc077a8e34d29efe88667f0d:bdc614e076190e536c7aca7f66ae3f88",
-        "isPrimary": false
-      },
-      {
-        "name": "FOX CRICKET",
-        "url": "https://cdn9859.shop/foxcricket.m3u8",
+        "name": "WILLOW ALT",
+        "url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ztb9jtlusq/out/v1/80da27cef04449a5abf3bea2c70e19cd/cenc.mpd?|drmScheme=clearkey&drmLicense=458e0f22edc0799b9c33656bb9e202a1:4af50d29813b200a8f1687da4573b155",
         "isPrimary": false
       },
       {
@@ -144,11 +124,61 @@
         "name": "WILLOW SD",
         "url": "http://95.133.241.239:8089/crc2/index.m3u8",
         "isPrimary": false
+      },
+      {
+        "name": "TNT SPORTS HD",
+        "url": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "STAR ENGLISH HD 🇮🇳",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|drmScheme=clearkey&drmLicense=9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
+        "isPrimary": false
+      },
+      {
+        "name": "STAR HINDI HD 🇮🇳",
+        "url": "https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8?|cookie=hdntl=exp=1781767487~acl=%2f*~id=8e41937c37ab23abe848bc088cf6998f~data=hdntl~hmac=6392df81306225502202a1f5de2c7af43f51e2c8d2b30d2d966a49d416081afc&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+        "isPrimary": false
+      },
+      {
+        "name": "STAR TAMIL HD 🇮🇳",
+        "url": "https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8?|cookie=hdntl=exp=1781767487~acl=%2f*~id=8e41937c37ab23abe848bc088cf6998f~data=hdntl~hmac=6392df81306225502202a1f5de2c7af43f51e2c8d2b30d2d966a49d416081afc&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+        "isPrimary": false
+      },
+      {
+        "name": "STAR TELEGU HD 🇮🇳",
+        "url": "https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?|cookie=hdntl=exp=1781767487~acl=%2f*~id=8e41937c37ab23abe848bc088cf6998f~data=hdntl~hmac=6392df81306225502202a1f5de2c7af43f51e2c8d2b30d2d966a49d416081afc&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+        "isPrimary": false
+      },
+      {
+        "name": "STAR HINDI [ 50 FPS ]",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?|drmScheme=clearkey&drmLicense=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b",
+        "isPrimary": false
+      },
+      {
+        "name": "STAR ENGLISH [ 50 FPS ]",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?|drmScheme=clearkey&drmLicense=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764",
+        "isPrimary": false
+      },
+      {
+        "name": "STAR TAMIL [ 50 FPS ] 🇮🇳",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd?|drmScheme=clearkey&drmLicense=dc44fe6251825774b90d58dcfa7d94e0:63e3ae853f483a86752b5b9e6d61eb20",
+        "isPrimary": false
+      },
+      {
+        "name": "STAR TELUGU [ 50 FPS ] 🇮🇳",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd?|drmScheme=clearkey&drmLicense=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d",
+        "isPrimary": false
+      },
+      {
+        "name": "STAR KANNADA FHD 🇮🇳",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd?|drmScheme=clearkey&drmLicense=7af2add2968a56309519ac2680c18f25:f992a14e0def17ccdfe16f58c4ce56c5",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781672667926-3",
+    "id": "imported-1781690690952-3",
     "matchName": "AFG-A vs IND-A",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -169,6 +199,11 @@
       {
         "name": "SHAMSHAD TV",
         "url": "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "WILLOW HD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
         "isPrimary": false
       },
       {
@@ -199,7 +234,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-4",
+    "id": "imported-1781690690952-4",
     "matchName": "WI vs SL",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -220,7 +255,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-5",
+    "id": "imported-1781690690952-5",
     "matchName": "TSK vs SO",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -241,7 +276,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-6",
+    "id": "imported-1781690690952-6",
     "matchName": "Formula 1",
     "sportType": "All Sports",
     "league": "Formula 1",
@@ -317,7 +352,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-7",
+    "id": "imported-1781690690952-7",
     "matchName": "Formula E",
     "sportType": "All Sports",
     "league": "Formula E",
@@ -338,7 +373,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-8",
+    "id": "imported-1781690690952-8",
     "matchName": "MotoGP",
     "sportType": "All Sports",
     "league": "MotoGP",
@@ -404,7 +439,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-9",
+    "id": "imported-1781690690952-9",
     "matchName": "WRC Rally",
     "sportType": "All Sports",
     "league": "WRC Rally",
@@ -430,7 +465,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-10",
+    "id": "imported-1781690690952-10",
     "matchName": "Monday Night RAW",
     "sportType": "All Sports",
     "league": "Monday Night RAW",
@@ -471,7 +506,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-11",
+    "id": "imported-1781690690952-11",
     "matchName": "WWE NXT",
     "sportType": "All Sports",
     "league": "WWE NXT",
@@ -507,7 +542,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-12",
+    "id": "imported-1781690690952-12",
     "matchName": "AEW Dynamite",
     "sportType": "All Sports",
     "league": "AEW Dynamite",
@@ -548,7 +583,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-13",
+    "id": "imported-1781690690952-13",
     "matchName": "TNA iMPACT",
     "sportType": "All Sports",
     "league": "TNA iMPACT",
@@ -574,7 +609,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-14",
+    "id": "imported-1781690690952-14",
     "matchName": "One Friday Fights",
     "sportType": "All Sports",
     "league": "One Friday Fights",
@@ -600,7 +635,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-15",
+    "id": "imported-1781690690952-15",
     "matchName": "Friday Night SmackDown",
     "sportType": "All Sports",
     "league": "Friday Night SmackDown",
@@ -646,7 +681,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-16",
+    "id": "imported-1781690690952-16",
     "matchName": "AUS-W vs BAN-W",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -660,14 +695,24 @@
     "link": "",
     "streams": [
       {
-        "name": "Ivan-FluX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "WILLOW FHD",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqhjnmal8s/out/v1/9c2ac272e2824e80b52688a0997b9682/cenc.mpd?|drmScheme=clearkey&drmLicense=8367b9a178062e5f3461abec20270c23:4f8aa5e3da322086ea20726f73af91bb",
         "isPrimary": true
+      },
+      {
+        "name": "SKY CRICKET FHD",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
+        "isPrimary": false
+      },
+      {
+        "name": "WILLOW [ALT]",
+        "url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/jqhjnmal8s/out/v1/9c2ac272e2824e80b52688a0997b9682/cenc.mpd?|drmScheme=clearkey&drmLicense=8367b9a178062e5f3461abec20270c23:4f8aa5e3da322086ea20726f73af91bb",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781672667926-17",
+    "id": "imported-1781690690952-17",
     "matchName": "IND-W vs NED-W",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -703,7 +748,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-18",
+    "id": "imported-1781690690952-18",
     "matchName": "PAK-W vs SA-W",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -734,7 +779,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-19",
+    "id": "imported-1781690690952-19",
     "matchName": "France vs Senegal",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -920,7 +965,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-20",
+    "id": "imported-1781690690952-20",
     "matchName": "Iraq vs Norway",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1061,7 +1106,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-21",
+    "id": "imported-1781690690952-21",
     "matchName": "Austria vs Jordan",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1252,7 +1297,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-22",
+    "id": "imported-1781690690952-22",
     "matchName": "Ghana vs Panama",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1273,7 +1318,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-23",
+    "id": "imported-1781690690952-23",
     "matchName": "Uzbekistan vs Colombia",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1294,7 +1339,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-24",
+    "id": "imported-1781690690952-24",
     "matchName": "England vs Croatia",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1315,7 +1360,7 @@
     ]
   },
   {
-    "id": "imported-1781672667926-25",
+    "id": "imported-1781690690952-25",
     "matchName": "Portugal vs DR Congo",
     "sportType": "Football",
     "league": "FIFA World Cup",
