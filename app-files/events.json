@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1781748281675-0",
+    "id": "imported-1781766631755-0",
     "matchName": "ENG vs NZ",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -10,7 +10,7 @@
     "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187755/image",
     "isLive": false,
     "isHot": false,
-    "startTime": "3:30 PM 17/06/2026",
+    "startTime": "3:30 PM 18/06/2026",
     "link": "",
     "streams": [
       {
@@ -31,7 +31,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-1",
+    "id": "imported-1781766631755-1",
     "matchName": "BAN vs AUS",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -77,7 +77,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-2",
+    "id": "imported-1781766631755-2",
     "matchName": "IND vs AFG",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -87,7 +87,7 @@
     "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187575/image",
     "isLive": false,
     "isHot": false,
-    "startTime": "1:30 PM 17/06/2026",
+    "startTime": "1:30 PM 20/06/2026",
     "link": "",
     "streams": [
       {
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-3",
+    "id": "imported-1781766631755-3",
     "matchName": "AFG-A vs SL-A",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -224,7 +224,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-4",
+    "id": "imported-1781766631755-4",
     "matchName": "WI vs SL",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -245,7 +245,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-5",
+    "id": "imported-1781766631755-5",
     "matchName": "TSK vs SO",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -266,7 +266,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-6",
+    "id": "imported-1781766631755-6",
     "matchName": "Formula 1",
     "sportType": "All Sports",
     "league": "Formula 1",
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-7",
+    "id": "imported-1781766631755-7",
     "matchName": "Formula E",
     "sportType": "All Sports",
     "league": "Formula E",
@@ -363,7 +363,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-8",
+    "id": "imported-1781766631755-8",
     "matchName": "MotoGP",
     "sportType": "All Sports",
     "league": "MotoGP",
@@ -429,7 +429,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-9",
+    "id": "imported-1781766631755-9",
     "matchName": "WRC Rally",
     "sportType": "All Sports",
     "league": "WRC Rally",
@@ -455,7 +455,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-10",
+    "id": "imported-1781766631755-10",
     "matchName": "Monday Night RAW",
     "sportType": "All Sports",
     "league": "Monday Night RAW",
@@ -496,7 +496,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-11",
+    "id": "imported-1781766631755-11",
     "matchName": "WWE NXT",
     "sportType": "All Sports",
     "league": "WWE NXT",
@@ -532,7 +532,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-12",
+    "id": "imported-1781766631755-12",
     "matchName": "AEW Dynamite",
     "sportType": "All Sports",
     "league": "AEW Dynamite",
@@ -573,7 +573,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-13",
+    "id": "imported-1781766631755-13",
     "matchName": "TNA iMPACT",
     "sportType": "All Sports",
     "league": "TNA iMPACT",
@@ -599,7 +599,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-14",
+    "id": "imported-1781766631755-14",
     "matchName": "One Friday Fights",
     "sportType": "All Sports",
     "league": "One Friday Fights",
@@ -625,7 +625,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-15",
+    "id": "imported-1781766631755-15",
     "matchName": "Friday Night SmackDown",
     "sportType": "All Sports",
     "league": "Friday Night SmackDown",
@@ -671,89 +671,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-16",
-    "matchName": "IND-W vs NED-W",
-    "sportType": "Cricket",
-    "league": "Cricket",
-    "homeTeamName": "IND-W",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/213119/image",
-    "awayTeamName": "NED-W",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/417753/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "7:00 PM 17/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "WILLOW  FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vvdiu7zexg/out/v1/d32dba602fbc4f748445f7fc26fd7b29/cenc.mpd?|drmScheme=clearkey&drmLicense=2f930e839e54bcf012e1ea679ab3305e:e967ef6bb2f4f0bc815976d60f489d97",
-        "isPrimary": true
-      },
-      {
-        "name": "SKY CRICKET FHD",
-        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
-        "isPrimary": false
-      },
-      {
-        "name": "WILLOW FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "isPrimary": false
-      },
-      {
-        "name": "WILLOW [ALT]",
-        "url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vvdiu7zexg/out/v1/d32dba602fbc4f748445f7fc26fd7b29/cenc.mpd?|drmScheme=clearkey&drmLicense=2f930e839e54bcf012e1ea679ab3305e:e967ef6bb2f4f0bc815976d60f489d97",
-        "isPrimary": false
-      },
-      {
-        "name": "SKY SPORT NZ",
-        "url": "https://cdn9859.shop/skynz2.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER",
-        "url": "http://193.47.62.41/hls/GMMMA.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-17",
-    "matchName": "PAK-W vs SA-W",
-    "sportType": "Cricket",
-    "league": "Cricket",
-    "homeTeamName": "PAK-W",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/187808/image",
-    "awayTeamName": "SA-W",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/213118/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "11:00 PM 17/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "WILLOW FHD",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ohmn4cljxi/out/v1/0a5b331b601d4e53895af3e401bc4289/cenc.mpd?|drmScheme=clearkey&drmLicense=a686ce424ebbc8a6112c3d61cdc4e812:f111c0142c7443610553201ab44c1c3f",
-        "isPrimary": true
-      },
-      {
-        "name": "WILLOW ALT",
-        "url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/niwgdo1k8c/out/v1/9ad6b47e0d03436f95d24f8dc04e5c32/cenc.mpd?|drmScheme=clearkey&drmLicense=e3ccac291380a79f116310bb6f16a503:40408c987032f3f5b50675429c770818",
-        "isPrimary": false
-      },
-      {
-        "name": "WILLOW HD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER",
-        "url": "http://193.47.62.41/hls/GMMMA.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-18",
+    "id": "imported-1781766631755-16",
     "matchName": "Ghana vs Panama",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -984,7 +902,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-19",
+    "id": "imported-1781766631755-17",
     "matchName": "Uzbekistan vs Colombia",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1008,6 +926,26 @@
         "isPrimary": false
       },
       {
+        "name": "CIGNAL ENG FHD",
+        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd?|drmScheme=clearkey&drmLicense=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
+        "isPrimary": false
+      },
+      {
+        "name": "RTB GOLIVE FHD",
+        "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "D SPORTS FHD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd?|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+        "isPrimary": false
+      },
+      {
+        "name": "CazéTV BR FHD",
+        "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?|drmScheme=clearkey&drmLicense=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+        "isPrimary": false
+      },
+      {
         "name": "VIX Español FHD",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd?|drmScheme=clearkey&drmLicense=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
         "isPrimary": false
@@ -1023,23 +961,13 @@
         "isPrimary": false
       },
       {
-        "name": "CIGNAL ENG FHD",
-        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd?|drmScheme=clearkey&drmLicense=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-        "isPrimary": false
-      },
-      {
-        "name": "D SPORTS ES FHD",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd?|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "isPrimary": false
-      },
-      {
         "name": "FUSSBALL TV FHD",
         "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd?|drmScheme=clearkey&drmLicense=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
         "isPrimary": false
       },
       {
-        "name": "TELEMUNDO FHD",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "name": "TELEMUNDO HD",
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "isPrimary": false
       },
       {
@@ -1058,11 +986,6 @@
         "isPrimary": false
       },
       {
-        "name": "CazéTV BR FHD",
-        "url": "https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd?|drmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
-        "isPrimary": false
-      },
-      {
         "name": "ORF GERMAN FHD",
         "url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd?|drmScheme=clearkey&drmLicense=429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
         "isPrimary": false
@@ -1075,6 +998,11 @@
       {
         "name": "FOX SPORTS HD",
         "url": "https://chatgpt.hereisman.net/playlist/52179/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isPrimary": false
+      },
+      {
+        "name": "beIN MAX FHD",
+        "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2app2.m3u8",
         "isPrimary": false
       },
       {
@@ -1190,7 +1118,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-20",
+    "id": "imported-1781766631755-18",
     "matchName": "Czechia vs South Africa",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1211,7 +1139,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-21",
+    "id": "imported-1781766631755-19",
     "matchName": "Canada vs Qatar",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1232,7 +1160,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-22",
+    "id": "imported-1781766631755-20",
     "matchName": "Mexico vs South Korea",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1253,7 +1181,7 @@
     ]
   },
   {
-    "id": "imported-1781748281675-23",
+    "id": "imported-1781766631755-21",
     "matchName": "Switzerland vs BiH",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1274,506 +1202,22 @@
     ]
   },
   {
-    "id": "imported-1781748281675-24",
-    "matchName": "Red Sox vs Blue Jays",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Red Sox",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3646/image",
-    "awayTeamName": "Blue Jays",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3642/image",
+    "id": "imported-1781766631755-22",
+    "matchName": "WI-W vs SCO-W",
+    "sportType": "Cricket",
+    "league": "Cricket",
+    "homeTeamName": "WI-W",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/213120/image",
+    "awayTeamName": "SCO-W",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/453162/image",
     "isLive": false,
     "isHot": false,
-    "startTime": "4:15 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52164/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://edgestreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      },
-      {
-        "name": "MLB LIVE HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52165/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-25",
-    "matchName": "Astros vs Tigers",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Astros",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3655/image",
-    "awayTeamName": "Tigers",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3648/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "11:40 PM 17/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "HD SERVER",
-        "url": "https://chatgpt.hereisman.net/playlist/52154/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "HD QUALITY",
-        "url": "https://edge2caster.pro/hls/Czajafjihafch18.m3u8|Referer=https://streamcenter.xyz/",
-        "isPrimary": false
-      },
-      {
-        "name": "LIVE SERVER",
-        "url": "http://193.47.62.41/hls/SIIII.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-26",
-    "matchName": "Athletics vs Pirates",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Athletics",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3645/image",
-    "awayTeamName": "Pirates",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3637/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "7:10 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52183/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://edgestreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-27",
-    "matchName": "Dodgers vs Rays",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Dodgers",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3638/image",
-    "awayTeamName": "Rays",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3653/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "12:40 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "HD QUALITY",
-        "url": "https://edge2caster.pro/hls/jkzahzadach20.m3u8|Referer=https://streamcenter.xyz/",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-28",
-    "matchName": "Diamondbacks vs Angels",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Diamondbacks",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3640/image",
-    "awayTeamName": "Angels",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/5929/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "1:10 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "HD SERVER",
-        "url": "https://edgestreams.pro/hls/ojzkajnach21.m3u8|Referer=https://streamcenter.xyz/",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-29",
-    "matchName": "Nationals vs Royals",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Nationals",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/5930/image",
-    "awayTeamName": "Royals",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3651/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "10:35 PM 17/06/2026",
+    "startTime": "11:00 PM 18/06/2026",
     "link": "",
     "streams": [
       {
         "name": "Ivan-FluX",
         "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-30",
-    "matchName": "Cardinals vs Padres",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Cardinals",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3632/image",
-    "awayTeamName": "Padres",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3636/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "11:45 PM 17/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "HD SERVER",
-        "url": "https://chatgpt.hereisman.net/playlist/52155/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "MLB LIVE",
-        "url": "https://edgestreams.pro/hls/bzagLHzach19.m3u8|Referer=https://streamcenter.xyz/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER",
-        "url": "http://193.47.62.41/hls/SIIIIA.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-31",
-    "matchName": "Reds vs Mets",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Reds",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3633/image",
-    "awayTeamName": "Mets",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3629/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "10:10 PM 17/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52146/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://edgestreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-32",
-    "matchName": "Cubs vs Rockies",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Cubs",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3627/image",
-    "awayTeamName": "Rockies",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3628/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "5:35 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52177/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      },
-      {
-        "name": "MLB LIVE HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52178/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-33",
-    "matchName": "Phillies vs Marlins",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Phillies",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3635/image",
-    "awayTeamName": "Marlins",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3639/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "10:35 PM 17/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52150/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-34",
-    "matchName": "Yankees vs White Sox",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Yankees",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3654/image",
-    "awayTeamName": "White Sox",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3644/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "4:35 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52167/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-35",
-    "matchName": "Mariners vs Orioles",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Mariners",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3641/image",
-    "awayTeamName": "Orioles",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3652/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "7:10 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52182/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "MLB LIVE HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52181/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-36",
-    "matchName": "Braves vs Giants",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Braves",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3656/image",
-    "awayTeamName": "Giants",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3634/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "4:45 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52169/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://edge2caster.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-37",
-    "matchName": "Brewers vs Guardians",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Brewers",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3630/image",
-    "awayTeamName": "Guardians",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3650/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "5:10 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52169/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://edgestreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-38",
-    "matchName": "Fire vs Storm",
-    "sportType": "All Sports",
-    "league": "WNBA",
-    "homeTeamName": "Fire",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/1166446/image",
-    "awayTeamName": "Storm",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3448/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "7:30 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "Ivan-FluX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-39",
-    "matchName": "Sparks vs Lynx",
-    "sportType": "All Sports",
-    "league": "WNBA",
-    "homeTeamName": "Sparks",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3447/image",
-    "awayTeamName": "Lynx",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3440/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "7:30 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "WNBA HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52184/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "WNBA LIVE HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52185/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-40",
-    "matchName": "Valkyries vs Wings",
-    "sportType": "All Sports",
-    "league": "WNBA",
-    "homeTeamName": "Valkyries",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/1041936/image",
-    "awayTeamName": "Wings",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3450/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "7:30 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "WNBA HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52187/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-41",
-    "matchName": "Chicago vs Liberty",
-    "sportType": "All Sports",
-    "league": "WNBA",
-    "homeTeamName": "Chicago",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/35546/image",
-    "awayTeamName": "Liberty",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3446/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "5:30 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "WNBA HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52175/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "WNBA LIVE",
-        "url": "https://chatgpt.hereisman.net/playlist/52176/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-42",
-    "matchName": "Mercury vs Las Vegas",
-    "sportType": "All Sports",
-    "league": "WNBA",
-    "homeTeamName": "Mercury",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3444/image",
-    "awayTeamName": "Las Vegas",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/35550/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "7:30 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "WNBA HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52186/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1781748281675-43",
-    "matchName": "Connecticut vs Mystics",
-    "sportType": "All Sports",
-    "league": "WNBA",
-    "homeTeamName": "Connecticut",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/35547/image",
-    "awayTeamName": "Mystics",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3454/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "4:30 AM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "WNBA HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52166/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isPrimary": true
       }
     ]
