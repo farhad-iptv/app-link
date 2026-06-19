@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1781905548740-0",
+    "id": "imported-1781910148192-0",
     "matchName": "ENG vs NZ",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-1",
+    "id": "imported-1781910148192-1",
     "matchName": "BAN vs AUS",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -92,7 +92,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-2",
+    "id": "imported-1781910148192-2",
     "matchName": "IND vs AFG",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -183,7 +183,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-3",
+    "id": "imported-1781910148192-3",
     "matchName": "AFG-A vs SL-A",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-4",
+    "id": "imported-1781910148192-4",
     "matchName": "WI vs SL",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -255,7 +255,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-5",
+    "id": "imported-1781910148192-5",
     "matchName": "Formula 1",
     "sportType": "All Sports",
     "league": "Formula 1",
@@ -331,7 +331,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-6",
+    "id": "imported-1781910148192-6",
     "matchName": "Formula E",
     "sportType": "All Sports",
     "league": "Formula E",
@@ -352,7 +352,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-7",
+    "id": "imported-1781910148192-7",
     "matchName": "MotoGP",
     "sportType": "All Sports",
     "league": "MotoGP",
@@ -362,7 +362,7 @@
     "awayTeamLogo": "https://i.ibb.co/6chYXnTd/mgpp.png",
     "isLive": false,
     "isHot": false,
-    "startTime": "2:15 PM 19/06/2026",
+    "startTime": "1:40 PM 20/06/2026",
     "link": "",
     "streams": [
       {
@@ -403,7 +403,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-8",
+    "id": "imported-1781910148192-8",
     "matchName": "WRC Rally",
     "sportType": "All Sports",
     "league": "WRC Rally",
@@ -429,7 +429,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-9",
+    "id": "imported-1781910148192-9",
     "matchName": "Monday Night RAW",
     "sportType": "All Sports",
     "league": "Monday Night RAW",
@@ -470,7 +470,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-10",
+    "id": "imported-1781910148192-10",
     "matchName": "WWE NXT",
     "sportType": "All Sports",
     "league": "WWE NXT",
@@ -506,7 +506,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-11",
+    "id": "imported-1781910148192-11",
     "matchName": "AEW Dynamite",
     "sportType": "All Sports",
     "league": "AEW Dynamite",
@@ -547,7 +547,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-12",
+    "id": "imported-1781910148192-12",
     "matchName": "TNA iMPACT",
     "sportType": "All Sports",
     "league": "TNA iMPACT",
@@ -573,7 +573,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-13",
+    "id": "imported-1781910148192-13",
     "matchName": "One Friday Fights",
     "sportType": "All Sports",
     "league": "One Friday Fights",
@@ -583,7 +583,7 @@
     "awayTeamLogo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
     "isLive": false,
     "isHot": false,
-    "startTime": "6:00 PM 19/06/2026",
+    "startTime": "6:00 PM 26/06/2026",
     "link": "",
     "streams": [
       {
@@ -604,7 +604,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-14",
+    "id": "imported-1781910148192-14",
     "matchName": "Friday Night SmackDown",
     "sportType": "All Sports",
     "league": "Friday Night SmackDown",
@@ -650,7 +650,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-15",
+    "id": "imported-1781910148192-15",
     "matchName": "USA vs Australia",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -831,7 +831,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-16",
+    "id": "imported-1781910148192-16",
     "matchName": "Brazil vs Haiti",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -845,14 +845,44 @@
     "link": "",
     "streams": [
       {
-        "name": "Ivan-FluX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "RTB GOLIVE FHD",
+        "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
         "isPrimary": true
+      },
+      {
+        "name": "RTB SPORTS FHD",
+        "url": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "D SPORTS FHD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd?|drmScheme=clearkey&drmLicense=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
+        "isPrimary": false
+      },
+      {
+        "name": "TIPIK FRENCH FHD",
+        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd?|drmScheme=clearkey&drmLicense=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "isPrimary": false
+      },
+      {
+        "name": "M6 FRANCE FHD",
+        "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd?|drmScheme=clearkey&drmLicense=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+        "isPrimary": false
+      },
+      {
+        "name": "VRT DUTCH FHD",
+        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd?|drmScheme=clearkey&drmLicense=7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
+        "isPrimary": false
+      },
+      {
+        "name": "IRIB 4K",
+        "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781905548740-17",
+    "id": "imported-1781910148192-17",
     "matchName": "Scotland vs Morocco",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -878,6 +908,11 @@
       {
         "name": "TSN SPORTS FHD",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "isPrimary": false
+      },
+      {
+        "name": "RTB SPORTS FHD",
+        "url": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
         "isPrimary": false
       },
       {
@@ -926,13 +961,13 @@
         "isPrimary": false
       },
       {
-        "name": "RTB SPORTS FHD",
-        "url": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
+        "name": "TVE SPANISH FHD",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd?|drmScheme=clearkey&drmLicense=fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
         "isPrimary": false
       },
       {
-        "name": "TVE SPANISH FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd?|drmScheme=clearkey&drmLicense=fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
+        "name": "CT SPORTS FHD",
+        "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
         "isPrimary": false
       },
       {
@@ -946,28 +981,23 @@
         "isPrimary": false
       },
       {
-        "name": "CT SPORTS FHD",
-        "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "isPrimary": false
-      },
-      {
         "name": "TOFFEE FHD (BD)",
         "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8?edge-cache-token=Expires=1781979838~Starts=1781893438~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=ttqhxk_R5OG98vv21RPKX15uvk5PHcXJqZ8UWGqFKLZXUJBk8hpqE4tJ3O34WgmGgT9lS6u_S4oUiZ0c73hrDA",
         "isPrimary": false
       },
       {
-        "name": "BBC SPORTS HD",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+        "name": "ITV SPORTS HD",
+        "url": "https://chatgpt.hereisman.net/playlist/52220/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isPrimary": false
       },
       {
         "name": "FOX SPORTS HD",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+        "url": "https://chatgpt.hereisman.net/playlist/52231/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isPrimary": false
       },
       {
         "name": "TSN SPORTS HD",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+        "url": "https://streamxyz.shop/tsn1/index.m3u8?|Referer=https://xyzstreams.shop/",
         "isPrimary": false
       },
       {
@@ -1039,11 +1069,56 @@
         "name": "UNiFy TV (IND)",
         "url": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd?|drmScheme=clearkey&drmLicense=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
         "isPrimary": false
+      },
+      {
+        "name": "FAST SERVER",
+        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJEvcBY6UZ4.m3u8?txSecret=6e6bd75e4b407b5d5fdf8ab948b65100&txTime=6A35DFF8",
+        "isPrimary": false
+      },
+      {
+        "name": "TELEMUNDO HD",
+        "url": "https://streamxyz.shop/Telemundo/index.m3u8?|Referer=https://xyzstreams.shop/",
+        "isPrimary": false
+      },
+      {
+        "name": "D SPORTS [ALT]",
+        "url": "https://streamxyz.shop/dsports1arg/index.m3u8?|Referer=https://xyzstreams.shop/",
+        "isPrimary": false
+      },
+      {
+        "name": "FOX SPORTS FHD",
+        "url": "https://streamxyz.shop/FOX/index.m3u8?|Referer=https://xyzstreams.shop/",
+        "isPrimary": false
+      },
+      {
+        "name": "HD SERVER",
+        "url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+        "isPrimary": false
+      },
+      {
+        "name": "SD SERVER ENG",
+        "url": "http://193.47.62.41/hls/FPPPA.m3u8?|referer=http://www.fawanews.sc/",
+        "isPrimary": false
+      },
+      {
+        "name": "ITV SPORTS SD",
+        "url": "http://193.47.62.59/hls/VVVV.m3u8?|referer=http://www.fawanews.sc/",
+        "isPrimary": false
+      },
+      {
+        "name": "beIN SPORTS FR",
+        "url": "http://193.47.62.47/hls/ZRRRZ.m3u8?|referer=http://www.fawanews.sc/",
+        "isPrimary": false
+      },
+      {
+        "name": "D SPORTS ES",
+        "url": "http://193.47.62.59/hls/ZRRR.m3u8?|referer=http://www.fawanews.sc/",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781905548740-18",
+    "id": "imported-1781910148192-18",
     "matchName": "Türkiye vs Paraguay",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1064,7 +1139,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-19",
+    "id": "imported-1781910148192-19",
     "matchName": "Ecuador vs Curaçao",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1085,7 +1160,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-20",
+    "id": "imported-1781910148192-20",
     "matchName": "Netherlands vs Sweden",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1106,7 +1181,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-21",
+    "id": "imported-1781910148192-21",
     "matchName": "Germany vs Côte d'Ivoire",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1127,7 +1202,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-22",
+    "id": "imported-1781910148192-22",
     "matchName": "Tunisia vs Japan",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1148,7 +1223,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-23",
+    "id": "imported-1781910148192-23",
     "matchName": "Uruguay vs Cabo Verde",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1169,7 +1244,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-24",
+    "id": "imported-1781910148192-24",
     "matchName": "Belgium vs Iran",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1190,7 +1265,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-25",
+    "id": "imported-1781910148192-25",
     "matchName": "New Zealand vs Egypt",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1211,7 +1286,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-26",
+    "id": "imported-1781910148192-26",
     "matchName": "Spain vs Saudi Arabia",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1232,7 +1307,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-27",
+    "id": "imported-1781910148192-27",
     "matchName": "NZ-W vs IRE-W",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -1263,7 +1338,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-28",
+    "id": "imported-1781910148192-28",
     "matchName": "AUS-W vs NED-W",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -1284,7 +1359,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-29",
+    "id": "imported-1781910148192-29",
     "matchName": "LAKR vs SFU",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -1310,7 +1385,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-30",
+    "id": "imported-1781910148192-30",
     "matchName": "SO vs WF",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -1331,7 +1406,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-31",
+    "id": "imported-1781910148192-31",
     "matchName": "Rangers vs Padres",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1352,7 +1427,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-32",
+    "id": "imported-1781910148192-32",
     "matchName": "Marlins vs Giants",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1366,14 +1441,24 @@
     "link": "",
     "streams": [
       {
-        "name": "Ivan-FluX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "MLB HD",
+        "url": "https://chatgpt.hereisman.net/playlist/52237/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isPrimary": true
+      },
+      {
+        "name": "MLB LIVE",
+        "url": "https://chatgpt.hereisman.net/playlist/52238/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isPrimary": false
+      },
+      {
+        "name": "HD SERVER",
+        "url": "https://edge2caster.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781905548740-33",
+    "id": "imported-1781910148192-33",
     "matchName": "Braves vs Brewers",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1387,14 +1472,24 @@
     "link": "",
     "streams": [
       {
-        "name": "Ivan-FluX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "MLB HD",
+        "url": "https://chatgpt.hereisman.net/playlist/52241/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isPrimary": true
+      },
+      {
+        "name": "MLB LIVE",
+        "url": "https://chatgpt.hereisman.net/playlist/52242/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isPrimary": false
+      },
+      {
+        "name": "HD SERVER",
+        "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781905548740-34",
+    "id": "imported-1781910148192-34",
     "matchName": "Rays vs Nationals",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1408,14 +1503,24 @@
     "link": "",
     "streams": [
       {
-        "name": "Ivan-FluX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "MLB HD",
+        "url": "https://chatgpt.hereisman.net/playlist/52239/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isPrimary": true
+      },
+      {
+        "name": "MLB LIVE",
+        "url": "https://chatgpt.hereisman.net/playlist/52240/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isPrimary": false
+      },
+      {
+        "name": "HD SERVER",
+        "url": "https://edge2caster.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781905548740-35",
+    "id": "imported-1781910148192-35",
     "matchName": "Cubs vs Blue Jays",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1441,7 +1546,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-36",
+    "id": "imported-1781910148192-36",
     "matchName": "Astros vs Guardians",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1462,7 +1567,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-37",
+    "id": "imported-1781910148192-37",
     "matchName": "Dodgers vs Orioles",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1483,7 +1588,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-38",
+    "id": "imported-1781910148192-38",
     "matchName": "Mariners vs Red Sox",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1504,7 +1609,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-39",
+    "id": "imported-1781910148192-39",
     "matchName": "Athletics vs Angels",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1525,7 +1630,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-40",
+    "id": "imported-1781910148192-40",
     "matchName": "Royals vs Cardinals",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1546,7 +1651,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-41",
+    "id": "imported-1781910148192-41",
     "matchName": "Tigers vs White Sox",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1560,14 +1665,19 @@
     "link": "",
     "streams": [
       {
-        "name": "Ivan-FluX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "MLB HD",
+        "url": "https://chatgpt.hereisman.net/playlist/52232/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isPrimary": true
+      },
+      {
+        "name": "MLB LIVE",
+        "url": "https://chatgpt.hereisman.net/playlist/52233/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781905548740-42",
+    "id": "imported-1781910148192-42",
     "matchName": "Diamondbacks vs Twins",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1588,7 +1698,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-43",
+    "id": "imported-1781910148192-43",
     "matchName": "Yankees vs Reds",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1602,14 +1712,24 @@
     "link": "",
     "streams": [
       {
-        "name": "Ivan-FluX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "MLB HD",
+        "url": "https://chatgpt.hereisman.net/playlist/52235/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isPrimary": true
+      },
+      {
+        "name": "MLB LIVE",
+        "url": "https://chatgpt.hereisman.net/playlist/52236/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isPrimary": false
+      },
+      {
+        "name": "HD SERVER",
+        "url": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781905548740-44",
+    "id": "imported-1781910148192-44",
     "matchName": "Rockies vs Pirates",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1630,7 +1750,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-45",
+    "id": "imported-1781910148192-45",
     "matchName": "Valkyries vs Lynx",
     "sportType": "All Sports",
     "league": "WNBA",
@@ -1651,7 +1771,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-46",
+    "id": "imported-1781910148192-46",
     "matchName": "Connecticut vs Tempo",
     "sportType": "All Sports",
     "league": "WNBA",
@@ -1665,14 +1785,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Ivan-FluX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "WNBA HD",
+        "url": "https://chatgpt.hereisman.net/playlist/52245/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1781905548740-47",
+    "id": "imported-1781910148192-47",
     "matchName": "Liberty vs Mystics",
     "sportType": "All Sports",
     "league": "WNBA",
@@ -1686,14 +1806,24 @@
     "link": "",
     "streams": [
       {
-        "name": "Ivan-FluX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "WNBA HD",
+        "url": "https://chatgpt.hereisman.net/playlist/52243/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isPrimary": true
+      },
+      {
+        "name": "WNBA LIVE",
+        "url": "https://chatgpt.hereisman.net/playlist/52244/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isPrimary": false
+      },
+      {
+        "name": "HD SERVER",
+        "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781905548740-48",
+    "id": "imported-1781910148192-48",
     "matchName": "Hamilton vs BC",
     "sportType": "Football",
     "league": "CFL",
@@ -1707,14 +1837,14 @@
     "link": "",
     "streams": [
       {
-        "name": "Ivan-FluX",
-        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "name": "CFL HD",
+        "url": "https://chatgpt.hereisman.net/playlist/52223/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isPrimary": true
       }
     ]
   },
   {
-    "id": "imported-1781905548740-49",
+    "id": "imported-1781910148192-49",
     "matchName": "Collingwood vs Port Adelaide",
     "sportType": "All Sports",
     "league": "AFL",
@@ -1735,7 +1865,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-50",
+    "id": "imported-1781910148192-50",
     "matchName": "Adelaide vs Melbourne",
     "sportType": "All Sports",
     "league": "AFL",
@@ -1756,7 +1886,7 @@
     ]
   },
   {
-    "id": "imported-1781905548740-51",
+    "id": "imported-1781910148192-51",
     "matchName": "Giants vs Carlton",
     "sportType": "All Sports",
     "league": "AFL",
