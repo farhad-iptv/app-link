@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1781842066920-0",
+    "id": "imported-1781846940067-0",
     "matchName": "ENG vs NZ",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -10,7 +10,7 @@
     "awayTeamLogo": "https://img.sofascore.com/api/v1/team/187755/image",
     "isLive": false,
     "isHot": false,
-    "startTime": "3:30 PM 18/06/2026",
+    "startTime": "3:30 PM 19/06/2026",
     "link": "",
     "streams": [
       {
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "id": "imported-1781842066920-1",
+    "id": "imported-1781846940067-1",
     "matchName": "BAN vs AUS",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -92,7 +92,7 @@
     ]
   },
   {
-    "id": "imported-1781842066920-2",
+    "id": "imported-1781846940067-2",
     "matchName": "IND vs AFG",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -183,7 +183,7 @@
     ]
   },
   {
-    "id": "imported-1781842066920-3",
+    "id": "imported-1781846940067-3",
     "matchName": "AFG-A vs SL-A",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -197,8 +197,8 @@
     "link": "",
     "streams": [
       {
-        "name": "WILLOW HD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hsiljorpng/out/v1/47598b7e5cb4418eb9623e0a9807fc1b/cenc.mpd?|drmScheme=clearkey&drmLicense=b1b8627d4ab12c6f6a4e8c8ad0434eb3:4c7504084721bca94d1b2b59d15b580a",
+        "name": "WILLOW FHD",
+        "url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iubvibrlup/out/v1/698ee83697db40afa74955cfb50dc7c0/cenc.mpd?|drmScheme=clearkey&drmLicense=7ca231c3580442d38dc5128104bdc422:9b0c45d9ec87e993fc0a629dbca87a8b",
         "isPrimary": true
       },
       {
@@ -207,39 +207,34 @@
         "isPrimary": false
       },
       {
-        "name": "WILLOW HD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "isPrimary": false
-      },
-      {
         "name": "SONYLIV [ENG]",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi1706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781713537~acl=/*~id=74025643115663811548282341185671~hmac=c25e5dab436ea9945458b88a71079fab2f1c4b34b96bfb29aff84f87061438a2",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781885013~acl=/*~id=27469287111985785357150984334782~hmac=164ab6739ab48494254be3a21a15002df9d488946e3bac6ecd3643f88885d7a3",
         "isPrimary": false
       },
       {
         "name": "SONYLIV [HIN]",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1706/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781713537~acl=/*~id=74025643115663811548282341185671~hmac=c25e5dab436ea9945458b88a71079fab2f1c4b34b96bfb29aff84f87061438a2",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781885013~acl=/*~id=27469287111985785357150984334782~hmac=164ab6739ab48494254be3a21a15002df9d488946e3bac6ecd3643f88885d7a3",
         "isPrimary": false
       },
       {
         "name": "SONYLIV [TAM]",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1706/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781713537~acl=/*~id=74025643115663811548282341185671~hmac=c25e5dab436ea9945458b88a71079fab2f1c4b34b96bfb29aff84f87061438a2",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781885013~acl=/*~id=27469287111985785357150984334782~hmac=164ab6739ab48494254be3a21a15002df9d488946e3bac6ecd3643f88885d7a3",
         "isPrimary": false
       },
       {
         "name": "SONYLIV [TEL]",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi1706/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781713537~acl=/*~id=74025643115663811548282341185671~hmac=c25e5dab436ea9945458b88a71079fab2f1c4b34b96bfb29aff84f87061438a2",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781885013~acl=/*~id=27469287111985785357150984334782~hmac=164ab6739ab48494254be3a21a15002df9d488946e3bac6ecd3643f88885d7a3",
         "isPrimary": false
       },
       {
         "name": "SONYLIV [KAN]",
-        "url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1706/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781713537~acl=/*~id=74025643115663811548282341185671~hmac=c25e5dab436ea9945458b88a71079fab2f1c4b34b96bfb29aff84f87061438a2",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781885013~acl=/*~id=27469287111985785357150984334782~hmac=164ab6739ab48494254be3a21a15002df9d488946e3bac6ecd3643f88885d7a3",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1781842066920-4",
+    "id": "imported-1781846940067-4",
     "matchName": "WI vs SL",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -260,28 +255,7 @@
     ]
   },
   {
-    "id": "imported-1781842066920-5",
-    "matchName": "TSK vs SO",
-    "sportType": "Cricket",
-    "league": "Cricket",
-    "homeTeamName": "TSK",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/485010/image",
-    "awayTeamName": "SO",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/485014/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "6:00 AM 19/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "WILLOW HD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1781842066920-6",
+    "id": "imported-1781846940067-5",
     "matchName": "Formula 1",
     "sportType": "All Sports",
     "league": "Formula 1",
@@ -357,7 +331,7 @@
     ]
   },
   {
-    "id": "imported-1781842066920-7",
+    "id": "imported-1781846940067-6",
     "matchName": "Formula E",
     "sportType": "All Sports",
     "league": "Formula E",
@@ -378,7 +352,7 @@
     ]
   },
   {
-    "id": "imported-1781842066920-8",
+    "id": "imported-1781846940067-7",
     "matchName": "MotoGP",
     "sportType": "All Sports",
     "league": "MotoGP",
@@ -444,7 +418,7 @@
     ]
   },
   {
-    "id": "imported-1781842066920-9",
+    "id": "imported-1781846940067-8",
     "matchName": "WRC Rally",
     "sportType": "All Sports",
     "league": "WRC Rally",
@@ -470,7 +444,7 @@
     ]
   },
   {
-    "id": "imported-1781842066920-10",
+    "id": "imported-1781846940067-9",
     "matchName": "Monday Night RAW",
     "sportType": "All Sports",
     "league": "Monday Night RAW",
@@ -511,7 +485,7 @@
     ]
   },
   {
-    "id": "imported-1781842066920-11",
+    "id": "imported-1781846940067-10",
     "matchName": "WWE NXT",
     "sportType": "All Sports",
     "league": "WWE NXT",
@@ -547,7 +521,7 @@
     ]
   },
   {
-    "id": "imported-1781842066920-12",
+    "id": "imported-1781846940067-11",
     "matchName": "AEW Dynamite",
     "sportType": "All Sports",
     "league": "AEW Dynamite",
@@ -557,7 +531,7 @@
     "awayTeamLogo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
     "isLive": false,
     "isHot": false,
-    "startTime": "5:30 AM 18/06/2026",
+    "startTime": "5:30 AM 25/06/2026",
     "link": "",
     "streams": [
       {
@@ -588,7 +562,7 @@
     ]
   },
   {
-    "id": "imported-1781842066920-13",
+    "id": "imported-1781846940067-12",
     "matchName": "TNA iMPACT",
     "sportType": "All Sports",
     "league": "TNA iMPACT",
@@ -614,7 +588,7 @@
     ]
   },
   {
-    "id": "imported-1781842066920-14",
+    "id": "imported-1781846940067-13",
     "matchName": "One Friday Fights",
     "sportType": "All Sports",
     "league": "One Friday Fights",
@@ -640,7 +614,7 @@
     ]
   },
   {
-    "id": "imported-1781842066920-15",
+    "id": "imported-1781846940067-14",
     "matchName": "Friday Night SmackDown",
     "sportType": "All Sports",
     "league": "Friday Night SmackDown",
@@ -686,507 +660,7 @@
     ]
   },
   {
-    "id": "imported-1781842066920-16",
-    "matchName": "Mexico vs South Korea",
-    "sportType": "Football",
-    "league": "FIFA World Cup",
-    "homeTeamName": "Mexico",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4781/image",
-    "awayTeamName": "South Korea",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4735/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "6:30 AM 19/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "FOX SPORTS FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd?|drmScheme=clearkey&drmLicense=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-        "isPrimary": true
-      },
-      {
-        "name": "IRIB 4K FHD",
-        "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "RTB GOLIVE FHD",
-        "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "TSN SPORTS FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "isPrimary": false
-      },
-      {
-        "name": "CIGNAL ENG FHD",
-        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd?|drmScheme=clearkey&drmLicense=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
-        "isPrimary": false
-      },
-      {
-        "name": "FOX SPORTS 4K",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd?|drmScheme=clearkey&drmLicense=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "isPrimary": false
-      },
-      {
-        "name": "CazéTV BR FHD",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?|drmScheme=clearkey&drmLicense=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
-        "isPrimary": false
-      },
-      {
-        "name": "RTE SPORTS FHD",
-        "url": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd?|drmScheme=clearkey&drmLicense=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "isPrimary": false
-      },
-      {
-        "name": "TIPIK FRENCH FHD",
-        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd?|drmScheme=clearkey&drmLicense=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "isPrimary": false
-      },
-      {
-        "name": "M6 FRANCE FHD",
-        "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd?|drmScheme=clearkey&drmLicense=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-        "isPrimary": false
-      },
-      {
-        "name": "VRT DUTCH FHD",
-        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd?|drmScheme=clearkey&drmLicense=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "isPrimary": false
-      },
-      {
-        "name": "MATCH! FUTBOL FHD",
-        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd?|drmScheme=clearkey&drmLicense=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
-        "isPrimary": false
-      },
-      {
-        "name": "beIN ARABIC FHD",
-        "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "MATCH! FUTBOL HD",
-        "url": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "SOMOY TV HD",
-        "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "TVP POLISH FHD",
-        "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd?|drmScheme=clearkey&drmLicense=0:0",
-        "isPrimary": false
-      },
-      {
-        "name": "JOJ SPORTS FHD",
-        "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "isPrimary": false
-      },
-      {
-        "name": "TRT SPORTS FHD",
-        "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "FUSSBALL TV (GER)",
-        "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd?|drmScheme=clearkey&drmLicense=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
-        "isPrimary": false
-      },
-      {
-        "name": "TELEMUNDO (USA)",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "isPrimary": false
-      },
-      {
-        "name": "TELEMUNDO (USA)",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "isPrimary": false
-      },
-      {
-        "name": "ORF (GERMAN IP)",
-        "url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd?|drmScheme=clearkey&drmLicense=429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-        "isPrimary": false
-      },
-      {
-        "name": "FUSSBALL 4K (GER)",
-        "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd?|drmScheme=clearkey&drmLicense=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
-        "isPrimary": false
-      },
-      {
-        "name": "ZDF (GERMAN IP)",
-        "url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd?|drmScheme=clearkey&drmLicense=c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-        "isPrimary": false
-      },
-      {
-        "name": "TELEMUNDO HD",
-        "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      },
-      {
-        "name": "Telemundo ES (USA)",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd?|drmScheme=clearkey&drmLicense=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "isPrimary": false
-      },
-      {
-        "name": "BBC SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52215/load-playlist?|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      },
-      {
-        "name": "FOX SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52214/load-playlist?|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      },
-      {
-        "name": "beiN SPORTS AR",
-        "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-        "isPrimary": false
-      },
-      {
-        "name": "DAZN SPANISH HD",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
-        "isPrimary": false
-      },
-      {
-        "name": "FAST SERVER",
-        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8er2zA5ckE.m3u8?txSecret=3ee405d55e3dbd7a2f809b069c051292&txTime=6A30C4A1",
-        "isPrimary": false
-      },
-      {
-        "name": "LIVE SERVER",
-        "url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-        "isPrimary": false
-      },
-      {
-        "name": "HD QUALITY ENG",
-        "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      },
-      {
-        "name": "HD QUALITY AR",
-        "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      },
-      {
-        "name": "FUSSBALL 4K 1",
-        "url": "http://starhub.pro/live/farhat-3379/67897-913379/742610.ts",
-        "isPrimary": false
-      },
-      {
-        "name": "FUSSBALL 4K 2",
-        "url": "http://starhub.pro/live/farhat-3379/67897-913379/742611.ts",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER - ENG HD",
-        "url": "http://193.47.62.42/hls/WDXzzzzCCCCC.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER - HD 1",
-        "url": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER - HD 2",
-        "url": "https://play1.gzxdby.com/live/845278004587_8453749788_1080p.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER - ENG",
-        "url": "http://193.47.62.44/hls/WDXzzzz.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER - SWE",
-        "url": "http://193.47.62.44/hls/WTTTTFFF.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER - SWE HD",
-        "url": "http://193.47.62.42/hls/WEDEEE.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER - SWAHILI",
-        "url": "http://193.47.62.44/hls/WTTTTFF.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER - FR",
-        "url": "http://193.47.62.44/hls/WTTTTFFFF.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER - NL",
-        "url": "http://193.47.62.44/hls/WTTTTF.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER - ES",
-        "url": "http://193.47.62.44/hls/WTTTT.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      },
-      {
-        "name": "SD SERVER - VT",
-        "url": "https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8|referer=http://www.fawanews.sc/",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781842066920-17",
-    "matchName": "WI-W vs SCO-W",
-    "sportType": "Cricket",
-    "league": "Cricket",
-    "homeTeamName": "WI-W",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/213120/image",
-    "awayTeamName": "SCO-W",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/453162/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "11:00 PM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "WILLOW Ad Free",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/n54nrd5ppa/out/v1/c31222582f8649b7b686831c8a4b786f/cenc.mpd?|drmScheme=clearkey&drmLicense=43f4ac4090920734149c0e549ff9d486:1bd632eab51f492e5e045ca368b1f64a",
-        "isPrimary": true
-      },
-      {
-        "name": "WILLOW HD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "isPrimary": false
-      },
-      {
-        "name": "SKY CRICKET FHD",
-        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781842066920-18",
-    "matchName": "Yankees vs White Sox",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Yankees",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3654/image",
-    "awayTeamName": "White Sox",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3644/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "4:35 AM 19/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52208/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781842066920-19",
-    "matchName": "Phillies vs Mets",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Phillies",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3635/image",
-    "awayTeamName": "Mets",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3629/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "4:10 AM 19/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52206/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "MLB LIVE HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52207/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781842066920-20",
-    "matchName": "Brewers vs Guardians",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Brewers",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3630/image",
-    "awayTeamName": "Guardians",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3650/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "11:40 PM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52195/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      },
-      {
-        "name": "MLB LIVE HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52194/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781842066920-21",
-    "matchName": "Athletics vs Angels",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Athletics",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3645/image",
-    "awayTeamName": "Angels",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/5929/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "7:10 AM 19/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "HD SERVER",
-        "url": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": true
-      }
-    ]
-  },
-  {
-    "id": "imported-1781842066920-22",
-    "matchName": "Mariners vs Orioles",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Mariners",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3641/image",
-    "awayTeamName": "Orioles",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3652/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "1:40 AM 19/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB LIVE",
-        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|Referer=https://streamcenter.xyz/",
-        "isPrimary": true
-      },
-      {
-        "name": "LIVE SERVER",
-        "url": "https://instreams.pro/US/MLB4/index.m3u8|Referer=https://streamcenter.xyz/",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781842066920-23",
-    "matchName": "Red Sox vs Blue Jays",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Red Sox",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3646/image",
-    "awayTeamName": "Blue Jays",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3642/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "11:05 PM 18/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52192/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://edge2caster.pro/hls/dazhfiach15.m3u8|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      },
-      {
-        "name": "MLB LIVE HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52193/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781842066920-24",
-    "matchName": "Royals vs Cardinals",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Royals",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3651/image",
-    "awayTeamName": "Cardinals",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3632/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "5:10 AM 19/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52212/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781842066920-25",
-    "matchName": "Rangers vs Twins",
-    "sportType": "All Sports",
-    "league": "MLB",
-    "homeTeamName": "Rangers",
-    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3647/image",
-    "awayTeamName": "Twins",
-    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3649/image",
-    "isLive": false,
-    "isHot": false,
-    "startTime": "12:05 AM 19/06/2026",
-    "link": "",
-    "streams": [
-      {
-        "name": "MLB HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52196/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isPrimary": true
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "isPrimary": false
-      }
-    ]
-  },
-  {
-    "id": "imported-1781842066920-26",
+    "id": "imported-1781846940067-15",
     "matchName": "Gold Coast vs Hawthorn",
     "sportType": "All Sports",
     "league": "AFL",
@@ -1197,6 +671,783 @@
     "isLive": false,
     "isHot": false,
     "startTime": "3:10 PM 19/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-16",
+    "matchName": "USA vs Australia",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "USA",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4724/image",
+    "awayTeamName": "Australia",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4741/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "12:30 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-17",
+    "matchName": "Brazil vs Haiti",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Brazil",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4748/image",
+    "awayTeamName": "Haiti",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/7229/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "6:00 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-18",
+    "matchName": "Scotland vs Morocco",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Scotland",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4695/image",
+    "awayTeamName": "Morocco",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4778/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "3:30 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-19",
+    "matchName": "Türkiye vs Paraguay",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Türkiye",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4700/image",
+    "awayTeamName": "Paraguay",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4789/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "8:30 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-20",
+    "matchName": "Ecuador vs Curaçao",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Ecuador",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4757/image",
+    "awayTeamName": "Curaçao",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/55827/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:30 AM 21/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-21",
+    "matchName": "Netherlands vs Sweden",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Netherlands",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4705/image",
+    "awayTeamName": "Sweden",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4688/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "10:30 PM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-22",
+    "matchName": "Germany vs Côte d'Ivoire",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Germany",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4711/image",
+    "awayTeamName": "Côte d'Ivoire",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4768/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "1:30 AM 21/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-23",
+    "matchName": "Tunisia vs Japan",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Tunisia",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4729/image",
+    "awayTeamName": "Japan",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4770/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "9:30 AM 21/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-24",
+    "matchName": "Uruguay vs Cabo Verde",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Uruguay",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4725/image",
+    "awayTeamName": "Cabo Verde",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4753/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "3:30 AM 22/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-25",
+    "matchName": "Belgium vs Iran",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Belgium",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4717/image",
+    "awayTeamName": "Iran",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4766/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "12:30 AM 22/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-26",
+    "matchName": "New Zealand vs Egypt",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "New Zealand",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4784/image",
+    "awayTeamName": "Egypt",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4758/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "6:30 AM 22/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-27",
+    "matchName": "Spain vs Saudi Arabia",
+    "sportType": "Football",
+    "league": "FIFA World Cup",
+    "homeTeamName": "Spain",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4698/image",
+    "awayTeamName": "Saudi Arabia",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4834/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "9:30 PM 21/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-28",
+    "matchName": "NZ-W vs IRE-W",
+    "sportType": "Cricket",
+    "league": "Cricket",
+    "homeTeamName": "NZ-W",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/213115/image",
+    "awayTeamName": "IRE-W",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/213116/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "11:00 PM 19/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-29",
+    "matchName": "AUS-W vs NED-W",
+    "sportType": "Cricket",
+    "league": "Cricket",
+    "homeTeamName": "AUS-W",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/213117/image",
+    "awayTeamName": "NED-W",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/417753/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "3:00 PM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-30",
+    "matchName": "LAKR vs SFU",
+    "sportType": "Cricket",
+    "league": "Cricket",
+    "homeTeamName": "LAKR",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/485011/image",
+    "awayTeamName": "SFU",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/485013/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "2:00 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-31",
+    "matchName": "SO vs WF",
+    "sportType": "Cricket",
+    "league": "Cricket",
+    "homeTeamName": "SO",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/485014/image",
+    "awayTeamName": "WF",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/485015/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "6:00 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-32",
+    "matchName": "Rangers vs Padres",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Rangers",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3647/image",
+    "awayTeamName": "Padres",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3636/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:35 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-33",
+    "matchName": "Marlins vs Giants",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Marlins",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3639/image",
+    "awayTeamName": "Giants",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3634/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "4:40 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-34",
+    "matchName": "Braves vs Brewers",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Braves",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3656/image",
+    "awayTeamName": "Brewers",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3630/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "4:45 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-35",
+    "matchName": "Rays vs Nationals",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Rays",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3653/image",
+    "awayTeamName": "Nationals",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/5930/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "4:40 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-36",
+    "matchName": "Cubs vs Blue Jays",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Cubs",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3627/image",
+    "awayTeamName": "Blue Jays",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3642/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "11:50 PM 19/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-37",
+    "matchName": "Astros vs Guardians",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Astros",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3655/image",
+    "awayTeamName": "Guardians",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3650/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:40 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-38",
+    "matchName": "Dodgers vs Orioles",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Dodgers",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3638/image",
+    "awayTeamName": "Orioles",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3652/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "7:40 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-39",
+    "matchName": "Mariners vs Red Sox",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Mariners",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3641/image",
+    "awayTeamName": "Red Sox",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3646/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "7:40 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-40",
+    "matchName": "Athletics vs Angels",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Athletics",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3645/image",
+    "awayTeamName": "Angels",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/5929/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "7:10 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-41",
+    "matchName": "Royals vs Cardinals",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Royals",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3651/image",
+    "awayTeamName": "Cardinals",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3632/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:45 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-42",
+    "matchName": "Tigers vs White Sox",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Tigers",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3648/image",
+    "awayTeamName": "White Sox",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3644/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "4:10 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-43",
+    "matchName": "Diamondbacks vs Twins",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Diamondbacks",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3640/image",
+    "awayTeamName": "Twins",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3649/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "7:15 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-44",
+    "matchName": "Yankees vs Reds",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Yankees",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3654/image",
+    "awayTeamName": "Reds",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3633/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "4:35 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-45",
+    "matchName": "Rockies vs Pirates",
+    "sportType": "All Sports",
+    "league": "MLB",
+    "homeTeamName": "Rockies",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3628/image",
+    "awayTeamName": "Pirates",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3637/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "6:10 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-46",
+    "matchName": "Valkyries vs Lynx",
+    "sportType": "All Sports",
+    "league": "WNBA",
+    "homeTeamName": "Valkyries",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/1041936/image",
+    "awayTeamName": "Lynx",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3440/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "7:30 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-47",
+    "matchName": "Connecticut vs Tempo",
+    "sportType": "All Sports",
+    "league": "WNBA",
+    "homeTeamName": "Connecticut",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/35547/image",
+    "awayTeamName": "Tempo",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/1166445/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:00 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-48",
+    "matchName": "Liberty vs Mystics",
+    "sportType": "All Sports",
+    "league": "WNBA",
+    "homeTeamName": "Liberty",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/3446/image",
+    "awayTeamName": "Mystics",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/3454/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:00 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-49",
+    "matchName": "Hamilton vs BC",
+    "sportType": "Football",
+    "league": "CFL",
+    "homeTeamName": "Hamilton",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4441/image",
+    "awayTeamName": "BC",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4440/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "5:00 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-50",
+    "matchName": "Collingwood vs Port Adelaide",
+    "sportType": "All Sports",
+    "league": "AFL",
+    "homeTeamName": "Collingwood",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4448/image",
+    "awayTeamName": "Port Adelaide",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4457/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "3:05 PM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-51",
+    "matchName": "Adelaide vs Melbourne",
+    "sportType": "All Sports",
+    "league": "AFL",
+    "homeTeamName": "Adelaide",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/4442/image",
+    "awayTeamName": "Melbourne",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4456/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "8:45 AM 20/06/2026",
+    "link": "",
+    "streams": [
+      {
+        "name": "Ivan-FluX",
+        "url": "https://github.com/farhad-iptv/app-link/raw/refs/heads/main/FREEFLIX-extended.mp4",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "id": "imported-1781846940067-52",
+    "matchName": "Giants vs Carlton",
+    "sportType": "All Sports",
+    "league": "AFL",
+    "homeTeamName": "Giants",
+    "homeTeamLogo": "https://img.sofascore.com/api/v1/team/60170/image",
+    "awayTeamName": "Carlton",
+    "awayTeamLogo": "https://img.sofascore.com/api/v1/team/4446/image",
+    "isLive": false,
+    "isHot": false,
+    "startTime": "11:45 AM 20/06/2026",
     "link": "",
     "streams": [
       {
