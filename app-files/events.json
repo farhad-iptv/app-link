@@ -1,6 +1,6 @@
 [
   {
-    "id": "imported-1782023602777-0",
+    "id": "imported-1782037368548-0",
     "matchName": "ENG vs NZ",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-1",
+    "id": "imported-1782037368548-1",
     "matchName": "BAN vs AUS",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -61,8 +61,18 @@
     "streams": [
       {
         "name": "WILLOW FHD",
-        "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/y4zizfzlo7/out/v1/cf00c1bacc0c4c8ba9da5218b8a6fe37/cenc.mpd?|drmScheme=clearkey&drmLicense=1544c349ebb47984ba648348b5eb4664:b5aa349bbd609812fe85c2cc4b732d27",
+        "url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/zpnqiahxef/out/v1/f5a57dc142584558a8669a44e3b6aa11/cenc.mpd?|drmScheme=clearkey&drmLicense=1e5d713e767c1a6cffd1881387b207cd:1f97487e54111023d37c80d74cb3bb4c",
         "isPrimary": true
+      },
+      {
+        "name": "TNT SPORTS FHD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd?|drmScheme=clearkey&drmLicense=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50",
+        "isPrimary": false
+      },
+      {
+        "name": "FANCODE FHD",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+        "isPrimary": false
       },
       {
         "name": "FANCODE SD",
@@ -71,7 +81,7 @@
       },
       {
         "name": "WILLOW ALT",
-        "url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/6cewm4wcnq/out/v1/9582c14dc2564f7ba8b16a658e6c2ed7/cenc.mpd?|drmScheme=clearkey&drmLicense=8a5ac34c1bacf0bd4546280e7e3ac8ca:5e9032df0725dc3b74db431e70bf2358",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bd6zyslqrn/out/v1/ac547d11db5347a6bbd80e6fe23aaa22/cenc.mpd?|drmScheme=clearkey&drmLicense=0bcfafbaa2f575577a90d27aa962a214:2b30c9efb2bcd047db14438d49ab800e",
         "isPrimary": false
       },
       {
@@ -80,19 +90,34 @@
         "isPrimary": false
       },
       {
-        "name": "FANCODE - BAN",
-        "url": "https://bd-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8",
+        "name": "T SPORTS FHD",
+        "url": "http://starhub.pro/live/Anthony2/Anthony123/52500.ts",
         "isPrimary": false
       },
       {
-        "name": "FANCODE - IND",
-        "url": "https://in-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8",
+        "name": "SKY SPORT NZ",
+        "url": "https://tmaxapp.site/skynz4.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "FOX CRICKET HD",
+        "url": "https://tmaxapp.site/foxcricket.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "FANCODE 🇮🇳",
+        "url": "https://in-mc-flive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/index.m3u8",
+        "isPrimary": false
+      },
+      {
+        "name": "FANCODE 🇧🇩",
+        "url": "https://bd-mc-flive.fancode.com/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/index.m3u8",
         "isPrimary": false
       }
     ]
   },
   {
-    "id": "imported-1782023602777-2",
+    "id": "imported-1782037368548-2",
     "matchName": "IND-A vs SL-A",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -148,7 +173,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-3",
+    "id": "imported-1782037368548-3",
     "matchName": "WI vs SL",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -169,7 +194,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-4",
+    "id": "imported-1782037368548-4",
     "matchName": "Formula 1",
     "sportType": "All Sports",
     "league": "Formula 1",
@@ -245,7 +270,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-5",
+    "id": "imported-1782037368548-5",
     "matchName": "MotoGP",
     "sportType": "All Sports",
     "league": "MotoGP",
@@ -296,7 +321,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-6",
+    "id": "imported-1782037368548-6",
     "matchName": "WRC Rally",
     "sportType": "All Sports",
     "league": "WRC Rally",
@@ -322,7 +347,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-7",
+    "id": "imported-1782037368548-7",
     "matchName": "Monday Night RAW",
     "sportType": "All Sports",
     "league": "Monday Night RAW",
@@ -363,7 +388,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-8",
+    "id": "imported-1782037368548-8",
     "matchName": "WWE NXT",
     "sportType": "All Sports",
     "league": "WWE NXT",
@@ -399,7 +424,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-9",
+    "id": "imported-1782037368548-9",
     "matchName": "AEW Dynamite",
     "sportType": "All Sports",
     "league": "AEW Dynamite",
@@ -440,7 +465,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-10",
+    "id": "imported-1782037368548-10",
     "matchName": "TNA iMPACT",
     "sportType": "All Sports",
     "league": "TNA iMPACT",
@@ -466,7 +491,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-11",
+    "id": "imported-1782037368548-11",
     "matchName": "One Friday Fights",
     "sportType": "All Sports",
     "league": "One Friday Fights",
@@ -497,7 +522,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-12",
+    "id": "imported-1782037368548-12",
     "matchName": "Friday Night SmackDown",
     "sportType": "All Sports",
     "league": "Friday Night SmackDown",
@@ -533,7 +558,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-13",
+    "id": "imported-1782037368548-13",
     "matchName": "Türkiye vs Paraguay",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -644,7 +669,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-14",
+    "id": "imported-1782037368548-14",
     "matchName": "Ecuador vs Curaçao",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -805,7 +830,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-15",
+    "id": "imported-1782037368548-15",
     "matchName": "Netherlands vs Sweden",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -991,7 +1016,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-16",
+    "id": "imported-1782037368548-16",
     "matchName": "Germany vs Côte d'Ivoire",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1202,7 +1227,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-17",
+    "id": "imported-1782037368548-17",
     "matchName": "Tunisia vs Japan",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1373,7 +1398,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-18",
+    "id": "imported-1782037368548-18",
     "matchName": "Uruguay vs Cabo Verde",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1394,7 +1419,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-19",
+    "id": "imported-1782037368548-19",
     "matchName": "Belgium vs Iran",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1415,7 +1440,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-20",
+    "id": "imported-1782037368548-20",
     "matchName": "New Zealand vs Egypt",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1436,7 +1461,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-21",
+    "id": "imported-1782037368548-21",
     "matchName": "Spain vs Saudi Arabia",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1457,7 +1482,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-22",
+    "id": "imported-1782037368548-22",
     "matchName": "AUS-W vs NED-W",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -1493,7 +1518,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-23",
+    "id": "imported-1782037368548-23",
     "matchName": "ENG-W vs SCO-W",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -1524,7 +1549,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-24",
+    "id": "imported-1782037368548-24",
     "matchName": "WI-W vs SL-W",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -1545,7 +1570,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-25",
+    "id": "imported-1782037368548-25",
     "matchName": "France vs Iraq",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1566,7 +1591,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-26",
+    "id": "imported-1782037368548-26",
     "matchName": "Norway vs Senegal",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1587,7 +1612,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-27",
+    "id": "imported-1782037368548-27",
     "matchName": "Argentina vs Austria",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1608,7 +1633,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-28",
+    "id": "imported-1782037368548-28",
     "matchName": "Jordan vs Algeria",
     "sportType": "Football",
     "league": "FIFA World Cup",
@@ -1629,7 +1654,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-29",
+    "id": "imported-1782037368548-29",
     "matchName": "Dodgers vs Orioles",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1665,7 +1690,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-30",
+    "id": "imported-1782037368548-30",
     "matchName": "Braves vs Brewers",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1696,7 +1721,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-31",
+    "id": "imported-1782037368548-31",
     "matchName": "Rays vs Nationals",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1722,7 +1747,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-32",
+    "id": "imported-1782037368548-32",
     "matchName": "Diamondbacks vs Twins",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1758,7 +1783,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-33",
+    "id": "imported-1782037368548-33",
     "matchName": "Cubs vs Blue Jays",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1789,7 +1814,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-34",
+    "id": "imported-1782037368548-34",
     "matchName": "Tigers vs White Sox",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1820,7 +1845,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-35",
+    "id": "imported-1782037368548-35",
     "matchName": "Rockies vs Pirates",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1856,7 +1881,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-36",
+    "id": "imported-1782037368548-36",
     "matchName": "Marlins vs Giants",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1887,7 +1912,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-37",
+    "id": "imported-1782037368548-37",
     "matchName": "Athletics vs Angels",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1923,7 +1948,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-38",
+    "id": "imported-1782037368548-38",
     "matchName": "Mariners vs Red Sox",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1959,7 +1984,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-39",
+    "id": "imported-1782037368548-39",
     "matchName": "Astros vs Guardians",
     "sportType": "All Sports",
     "league": "MLB",
@@ -1990,7 +2015,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-40",
+    "id": "imported-1782037368548-40",
     "matchName": "Phillies vs Mets",
     "sportType": "All Sports",
     "league": "MLB",
@@ -2021,7 +2046,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-41",
+    "id": "imported-1782037368548-41",
     "matchName": "Yankees vs Reds",
     "sportType": "All Sports",
     "league": "MLB",
@@ -2052,7 +2077,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-42",
+    "id": "imported-1782037368548-42",
     "matchName": "Rangers vs Padres",
     "sportType": "All Sports",
     "league": "MLB",
@@ -2078,7 +2103,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-43",
+    "id": "imported-1782037368548-43",
     "matchName": "Mercury vs Storm",
     "sportType": "All Sports",
     "league": "WNBA",
@@ -2109,7 +2134,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-44",
+    "id": "imported-1782037368548-44",
     "matchName": "Atlanta vs Fever",
     "sportType": "All Sports",
     "league": "WNBA",
@@ -2135,7 +2160,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-45",
+    "id": "imported-1782037368548-45",
     "matchName": "Wings vs Chicago",
     "sportType": "All Sports",
     "league": "WNBA",
@@ -2161,7 +2186,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-46",
+    "id": "imported-1782037368548-46",
     "matchName": "Almería vs Málaga",
     "sportType": "Football",
     "league": "LaLiga 2",
@@ -2187,7 +2212,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-47",
+    "id": "imported-1782037368548-47",
     "matchName": "M. Kape vs K. Horiguchi",
     "sportType": "All Sports",
     "league": "UFC",
@@ -2238,7 +2263,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-48",
+    "id": "imported-1782037368548-48",
     "matchName": "SO vs LAKR",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -2259,7 +2284,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-49",
+    "id": "imported-1782037368548-49",
     "matchName": "TSK vs MINY",
     "sportType": "Cricket",
     "league": "Cricket",
@@ -2280,7 +2305,7 @@
     ]
   },
   {
-    "id": "imported-1782023602777-50",
+    "id": "imported-1782037368548-50",
     "matchName": "WF vs MINY",
     "sportType": "Cricket",
     "league": "Cricket",
